@@ -16,21 +16,21 @@ NS_ASSUME_NONNULL_BEGIN
 
 @protocol XTUTCell <NSObject>
 
-+ (CGSize)sizeWithData:(id<XTUTRow> _Nullable)data constrainedToSize:(CGSize)size;
++ (CGSize)sizeWithData:(nullable id<XTUTRow>)data constrainedToSize:(CGSize)size;
 
 + (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier;
 
-- (void)configureWithData:(id<XTUTRow> _Nullable)data;
+- (void)configureWithData:(nullable id<XTUTRow>)data;
 
 @end
 
 @protocol XTUTSectionHeaderFooterView <NSObject>
 
-+ (CGSize)sizeWithData:(id<XTUTSectionHeaderFooter> _Nullable)data constrainedToSize:(CGSize)size;
++ (CGSize)sizeWithData:(nullable id<XTUTSectionHeaderFooter>)data constrainedToSize:(CGSize)size;
 
 + (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier;
 
-- (void)configureWithData:(id<XTUTSectionHeaderFooter> _Nullable)data;
+- (void)configureWithData:(nullable id<XTUTSectionHeaderFooter>)data;
 
 @end
 
@@ -40,19 +40,22 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (Class<XTUTCell>)renderClass;
 
+@optional
+- (nullable id)data;
+
 @end
 
 @protocol XTUTSectionHeaderFooter <NSObject>
 
 @optional
 
-- (NSString * _Nullable)renderIdentifer;
+- (nullable NSString *)renderIdentifer;
 
-- (__nullable Class<XTUTSectionHeaderFooterView>)renderClass;
+- (nullable Class<XTUTSectionHeaderFooterView>)renderClass;
 
 - (CGFloat)height;
 
-- (NSString * _Nullable)title;
+- (nullable NSString *)title;
 
 @end
 
@@ -60,11 +63,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (NSInteger)numberOfRows;
 
-- (id<XTUTRow>)rowAtIndex:(NSInteger)index;
+- (nullable id<XTUTRow>)rowAtIndex:(NSInteger)index;
 
-- (__nullable id<XTUTSectionHeaderFooter>)header;
+- (nullable id<XTUTSectionHeaderFooter>)header;
 
-- (__nullable id<XTUTSectionHeaderFooter>)footer;
+- (nullable id<XTUTSectionHeaderFooter>)footer;
 
 NS_ASSUME_NONNULL_END
 

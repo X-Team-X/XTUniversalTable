@@ -10,6 +10,16 @@
 
 @implementation XTUTSection
 
++ (instancetype)sectionWithRows:(NSArray<id<XTUTRow>> *)rows
+                         header:(id<XTUTSectionHeaderFooter>)header
+                         footer:(id<XTUTSectionHeaderFooter>)footer {
+    XTUTSection *section = [[self alloc] init];
+    section.rows = rows;
+    section.footer = footer;
+    section.header = header;
+    return section;
+}
+
 - (NSInteger)numberOfRows {
     return self.rows.count;
 }

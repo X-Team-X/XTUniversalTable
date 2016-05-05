@@ -140,8 +140,7 @@
 
 // Row
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
-    id<XTUTSection> XTUTSection = [self.delegate sections][indexPath.section];
-    id<XTUTRow> row = [XTUTSection rowAtIndex:indexPath.row];
+    id<XTUTRow> row = [self rowAtIndexPath:indexPath];
     Class<XTUTCell> cellClass = [row renderClass];
     return [cellClass sizeWithData:row constrainedToSize:self.tableView.frame.size].height;
 }

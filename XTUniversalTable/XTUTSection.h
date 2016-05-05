@@ -10,6 +10,10 @@
 
 @interface XTUTSection : NSObject <XTUTSection>
 
++ (instancetype)sectionWithRows:(NSArray<id<XTUTRow>> *)rows
+                         header:(id<XTUTSectionHeaderFooter>)header
+                         footer:(id<XTUTSectionHeaderFooter>)footer;
+
 @property (copy, nonatomic) NSArray<id<XTUTRow>> *rows;
 @property (strong, nonatomic) id<XTUTSectionHeaderFooter> header;
 @property (strong, nonatomic) id<XTUTSectionHeaderFooter> footer;
