@@ -1,4809 +1,4809 @@
 {
   "B": [
     {
-      "section": "B",
+      "phoneticize": "Beijing",
       "name": "北京",
       "zip": "010"
     },
     {
-      "section": "B",
+      "phoneticize": "Baicheng",
       "name": "白城",
       "zip": "0436"
     },
     {
-      "section": "B",
+      "phoneticize": "Baise",
       "name": "百色",
       "zip": "0776"
     },
     {
-      "section": "B",
+      "phoneticize": "Baishan",
       "name": "白山",
       "zip": "0439"
     },
     {
-      "section": "B",
+      "phoneticize": "Baiyin",
       "name": "白银",
       "zip": "0943"
     },
     {
-      "section": "B",
+      "phoneticize": "Bangbu",
       "name": "蚌埠",
       "zip": "0552"
     },
     {
-      "section": "B",
+      "phoneticize": "Baoding",
       "name": "保定",
       "zip": "0312"
     },
     {
-      "section": "B",
+      "phoneticize": "Baoji",
       "name": "宝鸡",
       "zip": "0917"
     },
     {
-      "section": "B",
+      "phoneticize": "Baoshan",
       "name": "保山",
       "zip": "0875"
     },
     {
-      "section": "B",
+      "phoneticize": "Baotou",
       "name": "包头",
       "zip": "0472"
     },
     {
-      "section": "B",
+      "phoneticize": "Bayannaoer",
       "name": "巴彦淖尔",
       "zip": "0478"
     },
     {
-      "section": "B",
+      "phoneticize": "Bayinguoleng",
       "name": "巴音郭楞",
       "zip": "0996"
     },
     {
-      "section": "B",
+      "phoneticize": "Bazhong",
       "name": "巴中",
       "zip": "0827"
     },
     {
-      "section": "B",
+      "phoneticize": "Beihai",
       "name": "北海",
       "zip": "0779"
     },
     {
-      "section": "B",
+      "phoneticize": "Benxi",
       "name": "本溪",
       "zip": "0414"
     },
     {
-      "section": "B",
+      "phoneticize": "Bijie",
       "name": "毕节",
       "zip": "0857"
     },
     {
-      "section": "B",
+      "phoneticize": "Binzhou",
       "name": "滨州",
       "zip": "0543"
     },
     {
-      "section": "B",
+      "phoneticize": "Boertala",
       "name": "博尔塔拉",
       "zip": "0909"
     },
     {
-      "section": "B",
+      "phoneticize": "Bozhou",
       "name": "亳州",
       "zip": "0558"
     },
     {
-      "section": "B",
+      "phoneticize": "Baoying",
       "name": "宝应",
       "zip": "0514"
     },
     {
-      "section": "B",
+      "phoneticize": "Bayan",
       "name": "巴彦",
       "zip": "0451"
     },
     {
-      "section": "B",
+      "phoneticize": "Binhai",
       "name": "滨海",
       "zip": "0515"
     },
     {
-      "section": "B",
+      "phoneticize": "Binxian",
       "name": "宾县",
       "zip": "0451"
     },
     {
-      "section": "B",
+      "phoneticize": "Binyang",
       "name": "宾阳",
       "zip": "0771"
     },
     {
-      "section": "B",
+      "phoneticize": "Bishan",
       "name": "璧山",
       "zip": "023"
     },
     {
-      "section": "B",
+      "phoneticize": "Boai",
       "name": "博爱",
       "zip": "0391"
     },
     {
-      "section": "B",
+      "phoneticize": "Boluo",
       "name": "博罗",
       "zip": "0752"
     },
     {
-      "section": "B",
+      "phoneticize": "Boxing",
       "name": "博兴",
       "zip": "0543"
     }
   ],
   "C": [
     {
-      "section": "C",
+      "phoneticize": "Chongqing",
       "name": "重庆",
       "zip": "023"
     },
     {
-      "section": "C",
+      "phoneticize": "Changchun",
       "name": "长春",
       "zip": "0431"
     },
     {
-      "section": "C",
+      "phoneticize": "Changsha",
       "name": "长沙",
       "zip": "0731"
     },
     {
-      "section": "C",
+      "phoneticize": "Changzhou",
       "name": "常州",
       "zip": "0519"
     },
     {
-      "section": "C",
+      "phoneticize": "Chengdu",
       "name": "成都",
       "zip": "028"
     },
     {
-      "section": "C",
+      "phoneticize": "Cangzhou",
       "name": "沧州",
       "zip": "0317"
     },
     {
-      "section": "C",
+      "phoneticize": "Changde",
       "name": "常德",
       "zip": "0736"
     },
     {
-      "section": "C",
+      "phoneticize": "Changdu",
       "name": "昌都",
       "zip": "0895"
     },
     {
-      "section": "C",
+      "phoneticize": "Changji",
       "name": "昌吉",
       "zip": "0997"
     },
     {
-      "section": "C",
+      "phoneticize": "Changzhi",
       "name": "长治",
       "zip": "0355"
     },
     {
-      "section": "C",
+      "phoneticize": "Chaohu",
       "name": "巢湖",
       "zip": "0565"
     },
     {
-      "section": "C",
+      "phoneticize": "Chaoyang",
       "name": "朝阳",
       "zip": "0421"
     },
     {
-      "section": "C",
+      "phoneticize": "Chaozhou",
       "name": "潮州",
       "zip": "0768"
     },
     {
-      "section": "C",
+      "phoneticize": "Chengde",
       "name": "承德",
       "zip": "0314"
     },
     {
-      "section": "C",
+      "phoneticize": "Chenzhou",
       "name": "郴州",
       "zip": "0735"
     },
     {
-      "section": "C",
+      "phoneticize": "Chifeng",
       "name": "赤峰",
       "zip": "0476"
     },
     {
-      "section": "C",
+      "phoneticize": "Chizhou",
       "name": "池州",
       "zip": "0566"
     },
     {
-      "section": "C",
+      "phoneticize": "Chongzuo",
       "name": "崇左",
       "zip": "0771"
     },
     {
-      "section": "C",
+      "phoneticize": "Chuxiong",
       "name": "楚雄",
       "zip": "0875"
     },
     {
-      "section": "C",
+      "phoneticize": "Chuzhou",
       "name": "滁州",
       "zip": "0550"
     },
     {
-      "section": "C",
+      "phoneticize": "Cangnan",
       "name": "苍南",
       "zip": "0577"
     },
     {
-      "section": "C",
+      "phoneticize": "Cangshan",
       "name": "苍山",
       "zip": "0539"
     },
     {
-      "section": "C",
+      "phoneticize": "Caoxian",
       "name": "曹县",
       "zip": "0530"
     },
     {
-      "section": "C",
+      "phoneticize": "Changdao",
       "name": "长岛",
       "zip": "0535"
     },
     {
-      "section": "C",
+      "phoneticize": "Changfeng",
       "name": "长丰",
       "zip": "0551"
     },
     {
-      "section": "C",
+      "phoneticize": "Changhai",
       "name": "长海",
       "zip": "0411"
     },
     {
-      "section": "C",
+      "phoneticize": "Changle",
       "name": "长乐",
       "zip": "0591"
     },
     {
-      "section": "C",
+      "phoneticize": "Changle",
       "name": "昌乐",
       "zip": "0536"
     },
     {
-      "section": "C",
+      "phoneticize": "Changshan",
       "name": "常山",
       "zip": "0570"
     },
     {
-      "section": "C",
+      "phoneticize": "Changshu",
       "name": "常熟",
       "zip": "0512"
     },
     {
-      "section": "C",
+      "phoneticize": "Changtai",
       "name": "长泰",
       "zip": "0596"
     },
     {
-      "section": "C",
+      "phoneticize": "Changting",
       "name": "长汀",
       "zip": "0597"
     },
     {
-      "section": "C",
+      "phoneticize": "Changxing",
       "name": "长兴",
       "zip": "0572"
     },
     {
-      "section": "C",
+      "phoneticize": "Changyi",
       "name": "昌邑",
       "zip": "0536"
     },
     {
-      "section": "C",
+      "phoneticize": "Chaoan",
       "name": "潮安",
       "zip": "0768"
     },
     {
-      "section": "C",
+      "phoneticize": "Chenggong",
       "name": "呈贡",
       "zip": "0871"
     },
     {
-      "section": "C",
+      "phoneticize": "Chengkou",
       "name": "城口",
       "zip": "023"
     },
     {
-      "section": "C",
+      "phoneticize": "Chengwu",
       "name": "成武",
       "zip": "0530"
     },
     {
-      "section": "C",
+      "phoneticize": "Chiping",
       "name": "茌平",
       "zip": "0635"
     },
     {
-      "section": "C",
+      "phoneticize": "Chongren",
       "name": "崇仁",
       "zip": "0794"
     },
     {
-      "section": "C",
+      "phoneticize": "Chongyi",
       "name": "崇义",
       "zip": "0797"
     },
     {
-      "section": "C",
+      "phoneticize": "Chongzhou",
       "name": "崇州",
       "zip": "028"
     },
     {
-      "section": "C",
+      "phoneticize": "Chunan",
       "name": "淳安",
       "zip": "0571"
     },
     {
-      "section": "C",
+      "phoneticize": "Cixi",
       "name": "慈溪",
       "zip": "0574"
     },
     {
-      "section": "C",
+      "phoneticize": "Conghua",
       "name": "从化",
       "zip": "020"
     },
     {
-      "section": "C",
+      "phoneticize": "Congyang",
       "name": "枞阳",
       "zip": "0556"
     }
   ],
   "S": [
     {
-      "section": "S",
+      "phoneticize": "Shanghai",
       "name": "上海",
       "zip": "021"
     },
     {
-      "section": "S",
+      "phoneticize": "Shenyang",
       "name": "沈阳",
       "zip": "024"
     },
     {
-      "section": "S",
+      "phoneticize": "Shenzhen",
       "name": "深圳",
       "zip": "0755"
     },
     {
-      "section": "S",
+      "phoneticize": "Shijiazhuang",
       "name": "石家庄",
       "zip": "0311"
     },
     {
-      "section": "S",
+      "phoneticize": "Suzhou",
       "name": "苏州",
       "zip": "0512"
     },
     {
-      "section": "S",
+      "phoneticize": "Sanmenxia",
       "name": "三门峡",
       "zip": "0398"
     },
     {
-      "section": "S",
+      "phoneticize": "Sanming",
       "name": "三明",
       "zip": "0598"
     },
     {
-      "section": "S",
+      "phoneticize": "Sanya",
       "name": "三亚",
       "zip": "0899"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangluo",
       "name": "商洛",
       "zip": "0914"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangqiu",
       "name": "商丘",
       "zip": "0370"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangrao",
       "name": "上饶",
       "zip": "0793"
     },
     {
-      "section": "S",
+      "phoneticize": "Shannan",
       "name": "山南",
       "zip": "0893"
     },
     {
-      "section": "S",
+      "phoneticize": "Shantou",
       "name": "汕头",
       "zip": "0754"
     },
     {
-      "section": "S",
+      "phoneticize": "Shanwei",
       "name": "汕尾",
       "zip": "0660"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaoguan",
       "name": "韶关",
       "zip": "0751"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaoxing",
       "name": "绍兴",
       "zip": "0575"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaoyang",
       "name": "邵阳",
       "zip": "0739"
     },
     {
-      "section": "S",
+      "phoneticize": "Shiyan",
       "name": "十堰",
       "zip": "0719"
     },
     {
-      "section": "S",
+      "phoneticize": "Shizuishan",
       "name": "石嘴山",
       "zip": "0952"
     },
     {
-      "section": "S",
+      "phoneticize": "Shuangyashan",
       "name": "双鸭山",
       "zip": "0469"
     },
     {
-      "section": "S",
+      "phoneticize": "Shuozhou",
       "name": "朔州",
       "zip": "0349"
     },
     {
-      "section": "S",
+      "phoneticize": "Siping",
       "name": "四平",
       "zip": "0434"
     },
     {
-      "section": "S",
+      "phoneticize": "Songyuan",
       "name": "松原",
       "zip": "0438"
     },
     {
-      "section": "S",
+      "phoneticize": "Suihua",
       "name": "绥化",
       "zip": "0455"
     },
     {
-      "section": "S",
+      "phoneticize": "Suining",
       "name": "遂宁",
       "zip": "0825"
     },
     {
-      "section": "S",
+      "phoneticize": "Suizhou",
       "name": "随州",
       "zip": "0722"
     },
     {
-      "section": "S",
+      "phoneticize": "Suqian",
       "name": "宿迁",
       "zip": "0527"
     },
     {
-      "section": "S",
+      "phoneticize": "Suzhou",
       "name": "宿州",
       "zip": "0557"
     },
     {
-      "section": "S",
+      "phoneticize": "Sanjiang",
       "name": "三江",
       "zip": "0772"
     },
     {
-      "section": "S",
+      "phoneticize": "Sanmen",
       "name": "三门",
       "zip": "0576"
     },
     {
-      "section": "S",
+      "phoneticize": "Saoan",
       "name": "诏安",
       "zip": "0596"
     },
     {
-      "section": "S",
+      "phoneticize": "Shanggao",
       "name": "上高",
       "zip": "0795"
     },
     {
-      "section": "S",
+      "phoneticize": "Shanghang",
       "name": "上杭",
       "zip": "0597"
     },
     {
-      "section": "S",
+      "phoneticize": "Shanghe",
       "name": "商河",
       "zip": "0531"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangli",
       "name": "上栗",
       "zip": "0799"
     },
     {
-      "section": "S",
+      "phoneticize": "Shanglin",
       "name": "上林",
       "zip": "0771"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangrao",
       "name": "上饶",
       "zip": "0793"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangyou",
       "name": "上犹",
       "zip": "0797"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangyu",
       "name": "上虞",
       "zip": "0575"
     },
     {
-      "section": "S",
+      "phoneticize": "Shangzhi",
       "name": "尚志",
       "zip": "0451"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaowu",
       "name": "邵武",
       "zip": "0599"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaoxing",
       "name": "绍兴",
       "zip": "0575"
     },
     {
-      "section": "S",
+      "phoneticize": "Shaxian",
       "name": "沙县",
       "zip": "0598"
     },
     {
-      "section": "S",
+      "phoneticize": "Shengsi",
       "name": "嵊泗",
       "zip": "0580"
     },
     {
-      "section": "S",
+      "phoneticize": "Shengzhou",
       "name": "嵊州",
       "zip": "0575"
     },
     {
-      "section": "S",
+      "phoneticize": "Shenxian",
       "name": "莘县",
       "zip": "0635"
     },
     {
-      "section": "S",
+      "phoneticize": "Shenze",
       "name": "深泽",
       "zip": "0311"
     },
     {
-      "section": "S",
+      "phoneticize": "Shexian",
       "name": "歙县",
       "zip": "0559"
     },
     {
-      "section": "S",
+      "phoneticize": "Sheyang",
       "name": "射阳",
       "zip": "0515"
     },
     {
-      "section": "S",
+      "phoneticize": "Shicheng",
       "name": "石城",
       "zip": "0797"
     },
     {
-      "section": "S",
+      "phoneticize": "Shilin",
       "name": "石林",
       "zip": "0871"
     },
     {
-      "section": "S",
+      "phoneticize": "Shishi",
       "name": "石狮",
       "zip": "0595"
     },
     {
-      "section": "S",
+      "phoneticize": "Shitai",
       "name": "石台",
       "zip": "0566"
     },
     {
-      "section": "S",
+      "phoneticize": "Shixing",
       "name": "始兴",
       "zip": "0751"
     },
     {
-      "section": "S",
+      "phoneticize": "Shizhu",
       "name": "石柱",
       "zip": "023"
     },
     {
-      "section": "S",
+      "phoneticize": "Shouguang",
       "name": "寿光",
       "zip": "0536"
     },
     {
-      "section": "S",
+      "phoneticize": "Shouning",
       "name": "寿宁",
       "zip": "0593"
     },
     {
-      "section": "S",
+      "phoneticize": "Shouxian",
       "name": "寿县",
       "zip": "0564"
     },
     {
-      "section": "S",
+      "phoneticize": "Shuangcheng",
       "name": "双城",
       "zip": "0451"
     },
     {
-      "section": "S",
+      "phoneticize": "Shuangliu",
       "name": "双流",
       "zip": "028"
     },
     {
-      "section": "S",
+      "phoneticize": "Shucheng",
       "name": "舒城",
       "zip": "0564"
     },
     {
-      "section": "S",
+      "phoneticize": "Shulan",
       "name": "舒兰",
       "zip": "0423"
     },
     {
-      "section": "S",
+      "phoneticize": "Shunchang",
       "name": "顺昌",
       "zip": "0599"
     },
     {
-      "section": "S",
+      "phoneticize": "Shuyang",
       "name": "沭阳",
       "zip": "0527"
     },
     {
-      "section": "S",
+      "phoneticize": "Sihong",
       "name": "泗洪",
       "zip": "0527"
     },
     {
-      "section": "S",
+      "phoneticize": "Sihui",
       "name": "四会",
       "zip": "0758"
     },
     {
-      "section": "S",
+      "phoneticize": "Sishui",
       "name": "泗水",
       "zip": "0537"
     },
     {
-      "section": "S",
+      "phoneticize": "Sixian",
       "name": "泗县",
       "zip": "0557"
     },
     {
-      "section": "S",
+      "phoneticize": "Siyang",
       "name": "泗阳",
       "zip": "0527"
     },
     {
-      "section": "S",
+      "phoneticize": "Songming",
       "name": "嵩明",
       "zip": "0871"
     },
     {
-      "section": "S",
+      "phoneticize": "Songxi",
       "name": "松溪",
       "zip": "0599"
     },
     {
-      "section": "S",
+      "phoneticize": "Songxian",
       "name": "嵩县",
       "zip": "0379"
     },
     {
-      "section": "S",
+      "phoneticize": "Songyang",
       "name": "松阳",
       "zip": "0578"
     },
     {
-      "section": "S",
+      "phoneticize": "Suichang",
       "name": "遂昌",
       "zip": "0578"
     },
     {
-      "section": "S",
+      "phoneticize": "Suichuan",
       "name": "遂川",
       "zip": "0796"
     },
     {
-      "section": "S",
+      "phoneticize": "Suining",
       "name": "睢宁",
       "zip": "0516"
     },
     {
-      "section": "S",
+      "phoneticize": "Suixi",
       "name": "濉溪",
       "zip": "0561"
     },
     {
-      "section": "S",
+      "phoneticize": "Suixi",
       "name": "遂溪",
       "zip": "0759"
     },
     {
-      "section": "S",
+      "phoneticize": "Susong",
       "name": "宿松",
       "zip": "0556"
     },
     {
-      "section": "S",
+      "phoneticize": "Suyu",
       "name": "宿豫",
       "zip": "0527"
     }
   ],
   "T": [
     {
-      "section": "T",
+      "phoneticize": "Tianjin",
       "name": "天津",
       "zip": "022"
     },
     {
-      "section": "T",
+      "phoneticize": "Taizhou",
       "name": "台州",
       "zip": "0576"
     },
     {
-      "section": "T",
+      "phoneticize": "Tangshan",
       "name": "唐山",
       "zip": "0315"
     },
     {
-      "section": "T",
+      "phoneticize": "Tachengdi",
       "name": "塔城地",
       "zip": "0901"
     },
     {
-      "section": "T",
+      "phoneticize": "Taian",
       "name": "泰安",
       "zip": "0538"
     },
     {
-      "section": "T",
+      "phoneticize": "Taiyuan",
       "name": "太原",
       "zip": "0351"
     },
     {
-      "section": "T",
+      "phoneticize": "Taizhou",
       "name": "泰州",
       "zip": "0523"
     },
     {
-      "section": "T",
+      "phoneticize": "Tianshui",
       "name": "天水",
       "zip": "0938"
     },
     {
-      "section": "T",
+      "phoneticize": "Tieling",
       "name": "铁岭",
       "zip": "0410"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongchuan",
       "name": "铜川",
       "zip": "0919"
     },
     {
-      "section": "T",
+      "phoneticize": "Tonghua",
       "name": "通化",
       "zip": "0435"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongliao",
       "name": "通辽",
       "zip": "0475"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongling",
       "name": "铜陵",
       "zip": "0562"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongren",
       "name": "铜仁",
       "zip": "0856"
     },
     {
-      "section": "T",
+      "phoneticize": "Tulufan",
       "name": "吐鲁番",
       "zip": "0995"
     },
     {
-      "section": "T",
+      "phoneticize": "Taicang",
       "name": "太仓",
       "zip": "0512"
     },
     {
-      "section": "T",
+      "phoneticize": "Taihe",
       "name": "太和",
       "zip": "0558"
     },
     {
-      "section": "T",
+      "phoneticize": "Taihe",
       "name": "泰和",
       "zip": "0796"
     },
     {
-      "section": "T",
+      "phoneticize": "Taihu",
       "name": "太湖",
       "zip": "0556"
     },
     {
-      "section": "T",
+      "phoneticize": "Taining",
       "name": "泰宁",
       "zip": "0598"
     },
     {
-      "section": "T",
+      "phoneticize": "Taishan",
       "name": "台山",
       "zip": "0750"
     },
     {
-      "section": "T",
+      "phoneticize": "Taishun",
       "name": "泰顺",
       "zip": "0577"
     },
     {
-      "section": "T",
+      "phoneticize": "Taixing",
       "name": "泰兴",
       "zip": "0523"
     },
     {
-      "section": "T",
+      "phoneticize": "Tancheng",
       "name": "郯城",
       "zip": "0539"
     },
     {
-      "section": "T",
+      "phoneticize": "Tanghai",
       "name": "唐海",
       "zip": "0315"
     },
     {
-      "section": "T",
+      "phoneticize": "Tengzhou",
       "name": "滕州",
       "zip": "0623"
     },
     {
-      "section": "T",
+      "phoneticize": "Tianchang",
       "name": "天长",
       "zip": "0550"
     },
     {
-      "section": "T",
+      "phoneticize": "Tiantai",
       "name": "天台",
       "zip": "0576"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongcheng",
       "name": "桐城",
       "zip": "0556"
     },
     {
-      "section": "T",
+      "phoneticize": "Tonggu",
       "name": "铜鼓",
       "zip": "0795"
     },
     {
-      "section": "T",
+      "phoneticize": "Tonghe",
       "name": "通河",
       "zip": "0451"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongliang",
       "name": "铜梁",
       "zip": "023"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongling",
       "name": "铜陵",
       "zip": "0562"
     },
     {
-      "section": "T",
+      "phoneticize": "Tonglu",
       "name": "桐庐",
       "zip": "0571"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongnan",
       "name": "潼南",
       "zip": "023"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongshan",
       "name": "铜山",
       "zip": "0516"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongxiang",
       "name": "桐乡",
       "zip": "0573"
     },
     {
-      "section": "T",
+      "phoneticize": "Tongzhou",
       "name": "通州",
       "zip": "0513"
     }
   ],
   "D": [
     {
-      "section": "D",
+      "phoneticize": "Dalian",
       "name": "大连",
       "zip": "0411"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongguan",
       "name": "东莞",
       "zip": "0769"
     },
     {
-      "section": "D",
+      "phoneticize": "Dali",
       "name": "大理",
       "zip": "0872"
     },
     {
-      "section": "D",
+      "phoneticize": "Dandong",
       "name": "丹东",
       "zip": "0415"
     },
     {
-      "section": "D",
+      "phoneticize": "Daqing",
       "name": "大庆",
       "zip": "0459"
     },
     {
-      "section": "D",
+      "phoneticize": "Datong",
       "name": "大同",
       "zip": "0352"
     },
     {
-      "section": "D",
+      "phoneticize": "Daxinganling",
       "name": "大兴安岭",
       "zip": "0457"
     },
     {
-      "section": "D",
+      "phoneticize": "Dazhou",
       "name": "达州",
       "zip": "0818"
     },
     {
-      "section": "D",
+      "phoneticize": "Dehong",
       "name": "德宏",
       "zip": "0692"
     },
     {
-      "section": "D",
+      "phoneticize": "Deyang",
       "name": "德阳",
       "zip": "0838"
     },
     {
-      "section": "D",
+      "phoneticize": "Dezhou",
       "name": "德州",
       "zip": "0534"
     },
     {
-      "section": "D",
+      "phoneticize": "Dingxi",
       "name": "定西",
       "zip": "0932"
     },
     {
-      "section": "D",
+      "phoneticize": "Diqing",
       "name": "迪庆",
       "zip": "0887"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongying",
       "name": "东营",
       "zip": "0546"
     },
     {
-      "section": "D",
+      "phoneticize": "Dafeng",
       "name": "大丰",
       "zip": "0515"
     },
     {
-      "section": "D",
+      "phoneticize": "Daishan",
       "name": "岱山",
       "zip": "0580"
     },
     {
-      "section": "D",
+      "phoneticize": "Dangshan",
       "name": "砀山",
       "zip": "0557"
     },
     {
-      "section": "D",
+      "phoneticize": "Dangtu",
       "name": "当涂",
       "zip": "0555"
     },
     {
-      "section": "D",
+      "phoneticize": "Danxian",
       "name": "单县",
       "zip": "0530"
     },
     {
-      "section": "D",
+      "phoneticize": "Danyang",
       "name": "丹阳",
       "zip": "0511"
     },
     {
-      "section": "D",
+      "phoneticize": "Dapu",
       "name": "大埔",
       "zip": "0753"
     },
     {
-      "section": "D",
+      "phoneticize": "Datian",
       "name": "大田",
       "zip": "0598"
     },
     {
-      "section": "D",
+      "phoneticize": "Dayi",
       "name": "大邑",
       "zip": "028"
     },
     {
-      "section": "D",
+      "phoneticize": "Dayu",
       "name": "大余",
       "zip": "0797"
     },
     {
-      "section": "D",
+      "phoneticize": "Dazu",
       "name": "大足",
       "zip": "023"
     },
     {
-      "section": "D",
+      "phoneticize": "Dean",
       "name": "德安",
       "zip": "0792"
     },
     {
-      "section": "D",
+      "phoneticize": "Dehua",
       "name": "德化",
       "zip": "0595"
     },
     {
-      "section": "D",
+      "phoneticize": "Dehui",
       "name": "德惠",
       "zip": "0431"
     },
     {
-      "section": "D",
+      "phoneticize": "Dengfeng",
       "name": "登封",
       "zip": "0371"
     },
     {
-      "section": "D",
+      "phoneticize": "Deqing",
       "name": "德清",
       "zip": "0572"
     },
     {
-      "section": "D",
+      "phoneticize": "Deqing",
       "name": "德庆",
       "zip": "0758"
     },
     {
-      "section": "D",
+      "phoneticize": "Dexing",
       "name": "德兴",
       "zip": "0793"
     },
     {
-      "section": "D",
+      "phoneticize": "Dianbai",
       "name": "电白",
       "zip": "0668"
     },
     {
-      "section": "D",
+      "phoneticize": "Dianjiang",
       "name": "垫江",
       "zip": "023"
     },
     {
-      "section": "D",
+      "phoneticize": "Dingnan",
       "name": "定南",
       "zip": "0797"
     },
     {
-      "section": "D",
+      "phoneticize": "Dingtao",
       "name": "定陶",
       "zip": "0530"
     },
     {
-      "section": "D",
+      "phoneticize": "Dingyuan",
       "name": "定远",
       "zip": "0550"
     },
     {
-      "section": "D",
+      "phoneticize": "Donga",
       "name": "东阿",
       "zip": "0635"
     },
     {
-      "section": "D",
+      "phoneticize": "Donghai",
       "name": "东海",
       "zip": "0518"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongming",
       "name": "东明",
       "zip": "0530"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongping",
       "name": "东平",
       "zip": "0538"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongshan",
       "name": "东山",
       "zip": "0596"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongtai",
       "name": "东台",
       "zip": "0515"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongtou",
       "name": "洞头",
       "zip": "0577"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongxiang",
       "name": "东乡",
       "zip": "0794"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongyang",
       "name": "东阳",
       "zip": "0579"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongyuan",
       "name": "东源",
       "zip": "0762"
     },
     {
-      "section": "D",
+      "phoneticize": "Dongzhi",
       "name": "东至",
       "zip": "0566"
     },
     {
-      "section": "D",
+      "phoneticize": "Duchang",
       "name": "都昌",
       "zip": "0792"
     },
     {
-      "section": "D",
+      "phoneticize": "Dujiangyan",
       "name": "都江堰",
       "zip": "028"
     }
   ],
   "F": [
     {
-      "section": "F",
+      "phoneticize": "Foshan",
       "name": "佛山",
       "zip": "0757"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuzhou",
       "name": "福州",
       "zip": "0591"
     },
     {
-      "section": "F",
+      "phoneticize": "Fangchenggang",
       "name": "防城港",
       "zip": "0770"
     },
     {
-      "section": "F",
+      "phoneticize": "Fushun",
       "name": "抚顺",
       "zip": "0413"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuxin",
       "name": "阜新",
       "zip": "0418"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuyang",
       "name": "阜阳",
       "zip": "0558"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuzhou",
       "name": "抚州",
       "zip": "0794"
     },
     {
-      "section": "F",
+      "phoneticize": "Faku",
       "name": "法库",
       "zip": "024"
     },
     {
-      "section": "F",
+      "phoneticize": "Fanchang",
       "name": "繁昌",
       "zip": "0553"
     },
     {
-      "section": "F",
+      "phoneticize": "Fangzheng",
       "name": "方正",
       "zip": "0451"
     },
     {
-      "section": "F",
+      "phoneticize": "Feicheng",
       "name": "肥城",
       "zip": "0538"
     },
     {
-      "section": "F",
+      "phoneticize": "Feidong",
       "name": "肥东",
       "zip": "0551"
     },
     {
-      "section": "F",
+      "phoneticize": "Feixi",
       "name": "肥西",
       "zip": "0551"
     },
     {
-      "section": "F",
+      "phoneticize": "Feixian",
       "name": "费县",
       "zip": "0539"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengcheng",
       "name": "丰城",
       "zip": "0795"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengdu",
       "name": "丰都",
       "zip": "023"
     },
     {
-      "section": "F",
+      "phoneticize": "Fenghua",
       "name": "奉化",
       "zip": "0574"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengjie",
       "name": "奉节",
       "zip": "023"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengkai",
       "name": "封开",
       "zip": "0758"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengshun",
       "name": "丰顺",
       "zip": "0753"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengtai",
       "name": "凤台",
       "zip": "0554"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengxian",
       "name": "丰县",
       "zip": "0516"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengxin",
       "name": "奉新",
       "zip": "0795"
     },
     {
-      "section": "F",
+      "phoneticize": "Fengyang",
       "name": "凤阳",
       "zip": "0550"
     },
     {
-      "section": "F",
+      "phoneticize": "Fenyi",
       "name": "分宜",
       "zip": "0790"
     },
     {
-      "section": "F",
+      "phoneticize": "Fogang",
       "name": "佛冈",
       "zip": "0763"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuan",
       "name": "福安",
       "zip": "0593"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuding",
       "name": "福鼎",
       "zip": "0593"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuliang",
       "name": "浮梁",
       "zip": "0798"
     },
     {
-      "section": "F",
+      "phoneticize": "Fumin",
       "name": "富民",
       "zip": "0871"
     },
     {
-      "section": "F",
+      "phoneticize": "Funan",
       "name": "阜南",
       "zip": "0558"
     },
     {
-      "section": "F",
+      "phoneticize": "Funing",
       "name": "阜宁",
       "zip": "0515"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuqing",
       "name": "福清",
       "zip": "0591"
     },
     {
-      "section": "F",
+      "phoneticize": "Fuyang",
       "name": "富阳",
       "zip": "0571"
     }
   ],
   "G": [
     {
-      "section": "G",
+      "phoneticize": "Guangzhou",
       "name": "广州",
       "zip": "020"
     },
     {
-      "section": "G",
+      "phoneticize": "Guiyang",
       "name": "贵阳",
       "zip": "0851"
     },
     {
-      "section": "G",
+      "phoneticize": "Gannan",
       "name": "甘南",
       "zip": "0941"
     },
     {
-      "section": "G",
+      "phoneticize": "Ganzhou",
       "name": "赣州",
       "zip": "0797"
     },
     {
-      "section": "G",
+      "phoneticize": "Ganzi",
       "name": "甘孜",
       "zip": "0836"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangan",
       "name": "广安",
       "zip": "0826"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangyuan",
       "name": "广元",
       "zip": "0839"
     },
     {
-      "section": "G",
+      "phoneticize": "Guigang",
       "name": "贵港",
       "zip": "0775"
     },
     {
-      "section": "G",
+      "phoneticize": "Guilin",
       "name": "桂林",
       "zip": "0773"
     },
     {
-      "section": "G",
+      "phoneticize": "Guoluo",
       "name": "果洛",
       "zip": "0975"
     },
     {
-      "section": "G",
+      "phoneticize": "Guyuan",
       "name": "固原",
       "zip": "0954"
     },
     {
-      "section": "G",
+      "phoneticize": "Ganxian",
       "name": "赣县",
       "zip": "0797"
     },
     {
-      "section": "G",
+      "phoneticize": "Ganyu",
       "name": "赣榆",
       "zip": "0518"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoan",
       "name": "高安",
       "zip": "0795"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaocheng",
       "name": "藁城",
       "zip": "0311"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaochun",
       "name": "高淳",
       "zip": "025"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaolan",
       "name": "皋兰",
       "zip": "0931"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoling",
       "name": "高陵",
       "zip": "029"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaomi",
       "name": "高密",
       "zip": "0536"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoqing",
       "name": "高青",
       "zip": "0533"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaotang",
       "name": "高唐",
       "zip": "0635"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoyao",
       "name": "高要",
       "zip": "0758"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoyi",
       "name": "高邑",
       "zip": "0311"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaoyou",
       "name": "高邮",
       "zip": "0514"
     },
     {
-      "section": "G",
+      "phoneticize": "Gaozhou",
       "name": "高州",
       "zip": "0668"
     },
     {
-      "section": "G",
+      "phoneticize": "Gongyi",
       "name": "巩义",
       "zip": "0371"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangchang",
       "name": "广昌",
       "zip": "0794"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangde",
       "name": "广德",
       "zip": "0563"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangfeng",
       "name": "广丰",
       "zip": "0793"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangning",
       "name": "广宁",
       "zip": "0758"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangrao",
       "name": "广饶",
       "zip": "0546"
     },
     {
-      "section": "G",
+      "phoneticize": "Guangze",
       "name": "光泽",
       "zip": "0599"
     },
     {
-      "section": "G",
+      "phoneticize": "Guannan",
       "name": "灌南",
       "zip": "0518"
     },
     {
-      "section": "G",
+      "phoneticize": "Guanxian",
       "name": "冠县",
       "zip": "0635"
     },
     {
-      "section": "G",
+      "phoneticize": "Guanyun",
       "name": "灌云",
       "zip": "0518"
     },
     {
-      "section": "G",
+      "phoneticize": "Guixi",
       "name": "贵溪",
       "zip": "0701"
     },
     {
-      "section": "G",
+      "phoneticize": "Gutian",
       "name": "古田",
       "zip": "0593"
     },
     {
-      "section": "G",
+      "phoneticize": "Guzhen",
       "name": "固镇",
       "zip": "0552"
     }
   ],
   "H": [
     {
-      "section": "H",
+      "phoneticize": "Haerbin",
       "name": "哈尔滨",
       "zip": "0451"
     },
     {
-      "section": "H",
+      "phoneticize": "Haikou",
       "name": "海口",
       "zip": "0898"
     },
     {
-      "section": "H",
+      "phoneticize": "Handan",
       "name": "邯郸",
       "zip": "0310"
     },
     {
-      "section": "H",
+      "phoneticize": "Hangzhou",
       "name": "杭州",
       "zip": "0571"
     },
     {
-      "section": "H",
+      "phoneticize": "Hefei",
       "name": "合肥",
       "zip": "0551"
     },
     {
-      "section": "H",
+      "phoneticize": "Huizhou",
       "name": "惠州",
       "zip": "0752"
     },
     {
-      "section": "H",
+      "phoneticize": "Haibei",
       "name": "海北",
       "zip": "0970"
     },
     {
-      "section": "H",
+      "phoneticize": "Haidong",
       "name": "海东",
       "zip": "0972"
     },
     {
-      "section": "H",
+      "phoneticize": "Hainan",
       "name": "海南",
       "zip": "0974"
     },
     {
-      "section": "H",
+      "phoneticize": "Haixi",
       "name": "海西",
       "zip": "0977"
     },
     {
-      "section": "H",
+      "phoneticize": "Hami",
       "name": "哈密",
       "zip": "0902"
     },
     {
-      "section": "H",
+      "phoneticize": "Hanzhong",
       "name": "汉中",
       "zip": "0916"
     },
     {
-      "section": "H",
+      "phoneticize": "Hebi",
       "name": "鹤壁",
       "zip": "0392"
     },
     {
-      "section": "H",
+      "phoneticize": "Hechi",
       "name": "河池",
       "zip": "0778"
     },
     {
-      "section": "H",
+      "phoneticize": "Hegang",
       "name": "鹤岗",
       "zip": "0468"
     },
     {
-      "section": "H",
+      "phoneticize": "Heihe",
       "name": "黑河",
       "zip": "0456"
     },
     {
-      "section": "H",
+      "phoneticize": "Hengshui",
       "name": "衡水",
       "zip": "0318"
     },
     {
-      "section": "H",
+      "phoneticize": "Hengyang",
       "name": "衡阳",
       "zip": "0734"
     },
     {
-      "section": "H",
+      "phoneticize": "Hetiandi",
       "name": "和田地",
       "zip": "0903"
     },
     {
-      "section": "H",
+      "phoneticize": "Heyuan",
       "name": "河源",
       "zip": "0762"
     },
     {
-      "section": "H",
+      "phoneticize": "Heze",
       "name": "菏泽",
       "zip": "0530"
     },
     {
-      "section": "H",
+      "phoneticize": "Hezhou",
       "name": "贺州",
       "zip": "0774"
     },
     {
-      "section": "H",
+      "phoneticize": "Honghe",
       "name": "红河",
       "zip": "0873"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaian",
       "name": "淮安",
       "zip": "0517"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaibei",
       "name": "淮北",
       "zip": "0561"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaihua",
       "name": "怀化",
       "zip": "0745"
     },
     {
-      "section": "H",
+      "phoneticize": "Huainan",
       "name": "淮南",
       "zip": "0554"
     },
     {
-      "section": "H",
+      "phoneticize": "Huanggang",
       "name": "黄冈",
       "zip": "0713"
     },
     {
-      "section": "H",
+      "phoneticize": "Huangnan",
       "name": "黄南",
       "zip": "0973"
     },
     {
-      "section": "H",
+      "phoneticize": "Huangshan",
       "name": "黄山",
       "zip": "0559"
     },
     {
-      "section": "H",
+      "phoneticize": "Huangshi",
       "name": "黄石",
       "zip": "0714"
     },
     {
-      "section": "H",
+      "phoneticize": "Huhehaote",
       "name": "呼和浩特",
       "zip": "0471"
     },
     {
-      "section": "H",
+      "phoneticize": "Huludao",
       "name": "葫芦岛",
       "zip": "0429"
     },
     {
-      "section": "H",
+      "phoneticize": "Hulunbeier",
       "name": "呼伦贝尔",
       "zip": "0470"
     },
     {
-      "section": "H",
+      "phoneticize": "Huzhou",
       "name": "湖州",
       "zip": "0572"
     },
     {
-      "section": "H",
+      "phoneticize": "Haian",
       "name": "海安",
       "zip": "0513"
     },
     {
-      "section": "H",
+      "phoneticize": "Haifeng",
       "name": "海丰",
       "zip": "0660"
     },
     {
-      "section": "H",
+      "phoneticize": "Haimen",
       "name": "海门",
       "zip": "0513"
     },
     {
-      "section": "H",
+      "phoneticize": "Haining",
       "name": "海宁",
       "zip": "0573"
     },
     {
-      "section": "H",
+      "phoneticize": "Haiyan",
       "name": "海盐",
       "zip": "0573"
     },
     {
-      "section": "H",
+      "phoneticize": "Haiyang",
       "name": "海阳",
       "zip": "0535"
     },
     {
-      "section": "H",
+      "phoneticize": "Hanshan",
       "name": "含山",
       "zip": "0565"
     },
     {
-      "section": "H",
+      "phoneticize": "Hechuan",
       "name": "合川",
       "zip": "023"
     },
     {
-      "section": "H",
+      "phoneticize": "Hengfeng",
       "name": "横峰",
       "zip": "0793"
     },
     {
-      "section": "H",
+      "phoneticize": "Hengxian",
       "name": "横县",
       "zip": "0771"
     },
     {
-      "section": "H",
+      "phoneticize": "Heping",
       "name": "和平",
       "zip": "0762"
     },
     {
-      "section": "H",
+      "phoneticize": "Heshan",
       "name": "鹤山",
       "zip": "0750"
     },
     {
-      "section": "H",
+      "phoneticize": "Hexian",
       "name": "和县",
       "zip": "0565"
     },
     {
-      "section": "H",
+      "phoneticize": "Hongze",
       "name": "洪泽",
       "zip": "0517"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaan",
       "name": "华安",
       "zip": "0596"
     },
     {
-      "section": "H",
+      "phoneticize": "Huadian",
       "name": "桦甸",
       "zip": "0423"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaiji",
       "name": "怀集",
       "zip": "0758"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaining",
       "name": "怀宁",
       "zip": "0556"
     },
     {
-      "section": "H",
+      "phoneticize": "Huaiyuan",
       "name": "怀远",
       "zip": "0552"
     },
     {
-      "section": "H",
+      "phoneticize": "Huantai",
       "name": "桓台",
       "zip": "0533"
     },
     {
-      "section": "H",
+      "phoneticize": "Huazhou",
       "name": "化州",
       "zip": "0668"
     },
     {
-      "section": "H",
+      "phoneticize": "Huian",
       "name": "惠安",
       "zip": "0595"
     },
     {
-      "section": "H",
+      "phoneticize": "Huichang",
       "name": "会昌",
       "zip": "0797"
     },
     {
-      "section": "H",
+      "phoneticize": "Huidong",
       "name": "惠东",
       "zip": "0752"
     },
     {
-      "section": "H",
+      "phoneticize": "Huilai",
       "name": "惠来",
       "zip": "0663"
     },
     {
-      "section": "H",
+      "phoneticize": "Huimin",
       "name": "惠民",
       "zip": "0543"
     },
     {
-      "section": "H",
+      "phoneticize": "Hukou",
       "name": "湖口",
       "zip": "0792"
     },
     {
-      "section": "H",
+      "phoneticize": "Hulan",
       "name": "呼兰",
       "zip": "0451"
     },
     {
-      "section": "H",
+      "phoneticize": "Huoqiu",
       "name": "霍邱",
       "zip": "0564"
     },
     {
-      "section": "H",
+      "phoneticize": "Huoshan",
       "name": "霍山",
       "zip": "0564"
     },
     {
-      "section": "H",
+      "phoneticize": "Huxian",
       "name": "户县",
       "zip": "029"
     }
   ],
   "J": [
     {
-      "section": "J",
+      "phoneticize": "Jiaozuo",
       "name": "焦作",
       "zip": "0391"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaxing",
       "name": "嘉兴",
       "zip": "0573"
     },
     {
-      "section": "J",
+      "phoneticize": "Jilin",
       "name": "吉林",
       "zip": "0423"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinan",
       "name": "济南",
       "zip": "0531"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiamusi",
       "name": "佳木斯",
       "zip": "0454"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangmen",
       "name": "江门",
       "zip": "0750"
     },
     {
-      "section": "J",
+      "phoneticize": "Jian",
       "name": "吉安",
       "zip": "0796"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiayuguan",
       "name": "嘉峪关",
       "zip": "0937"
     },
     {
-      "section": "J",
+      "phoneticize": "Jieyang",
       "name": "揭阳",
       "zip": "0663"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinchang",
       "name": "金昌",
       "zip": "0935"
     },
     {
-      "section": "J",
+      "phoneticize": "Jincheng",
       "name": "晋城",
       "zip": "0356"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingdezhen",
       "name": "景德镇",
       "zip": "0798"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingmen",
       "name": "荆门",
       "zip": "0724"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingzhou",
       "name": "荆州",
       "zip": "0716"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinhua",
       "name": "金华",
       "zip": "0579"
     },
     {
-      "section": "J",
+      "phoneticize": "Jining",
       "name": "济宁",
       "zip": "0537"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinzhong",
       "name": "晋中",
       "zip": "0354"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinzhou",
       "name": "锦州",
       "zip": "0416"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiujiang",
       "name": "九江",
       "zip": "0792"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiuquan",
       "name": "酒泉",
       "zip": "0937"
     },
     {
-      "section": "J",
+      "phoneticize": "Jixi",
       "name": "鸡西",
       "zip": "0467"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiande",
       "name": "建德",
       "zip": "0571"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangdu",
       "name": "江都",
       "zip": "0514"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangjin",
       "name": "江津",
       "zip": "023"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangle",
       "name": "将乐",
       "zip": "0598"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangshan",
       "name": "江山",
       "zip": "0570"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangyan",
       "name": "姜堰",
       "zip": "0523"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiangyin",
       "name": "江阴",
       "zip": "0510"
     },
     {
-      "section": "J",
+      "phoneticize": "Jianhu",
       "name": "建湖",
       "zip": "0515"
     },
     {
-      "section": "J",
+      "phoneticize": "Jianning",
       "name": "建宁",
       "zip": "0598"
     },
     {
-      "section": "J",
+      "phoneticize": "Jianou",
       "name": "建瓯",
       "zip": "0599"
     },
     {
-      "section": "J",
+      "phoneticize": "Jianyang",
       "name": "建阳",
       "zip": "0599"
     },
     {
-      "section": "J",
+      "phoneticize": "Jian",
       "name": "吉安",
       "zip": "0796"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaohe",
       "name": "蛟河",
       "zip": "0423"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaoling",
       "name": "蕉岭",
       "zip": "0753"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaonan",
       "name": "胶南",
       "zip": "0532"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaozhou",
       "name": "胶州",
       "zip": "0532"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiashan",
       "name": "嘉善",
       "zip": "0573"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiaxiang",
       "name": "嘉祥",
       "zip": "0537"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiedong",
       "name": "揭东",
       "zip": "0663"
     },
     {
-      "section": "J",
+      "phoneticize": "Jieshou",
       "name": "界首",
       "zip": "0558"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiexi",
       "name": "揭西",
       "zip": "0663"
     },
     {
-      "section": "J",
+      "phoneticize": "Jimo",
       "name": "即墨",
       "zip": "0532"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingan",
       "name": "靖安",
       "zip": "0795"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingde",
       "name": "旌德",
       "zip": "0563"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinggangshan",
       "name": "井冈山",
       "zip": "0796"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingjiang",
       "name": "靖江",
       "zip": "0523"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingning",
       "name": "景宁",
       "zip": "0578"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingxian",
       "name": "泾县",
       "zip": "0563"
     },
     {
-      "section": "J",
+      "phoneticize": "Jingxing",
       "name": "井陉",
       "zip": "0311"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinhu",
       "name": "金湖",
       "zip": "0517"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinjiang",
       "name": "晋江",
       "zip": "0595"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinmen",
       "name": "金门",
       "zip": "0595"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinning",
       "name": "晋宁",
       "zip": "0871"
     },
     {
-      "section": "J",
+      "phoneticize": "Jintan",
       "name": "金坛",
       "zip": "0519"
     },
     {
-      "section": "J",
+      "phoneticize": "Jintang",
       "name": "金堂",
       "zip": "028"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinxian",
       "name": "进贤",
       "zip": "0791"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinxi",
       "name": "金溪",
       "zip": "0794"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinxiang",
       "name": "金乡",
       "zip": "0537"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinyun",
       "name": "缙云",
       "zip": "0578"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinzhai",
       "name": "金寨",
       "zip": "0564"
     },
     {
-      "section": "J",
+      "phoneticize": "Jinzhou",
       "name": "晋州",
       "zip": "0311"
     },
     {
-      "section": "J",
+      "phoneticize": "Jishui",
       "name": "吉水",
       "zip": "0796"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiujiang",
       "name": "九江",
       "zip": "0792"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiutai",
       "name": "九台",
       "zip": "0431"
     },
     {
-      "section": "J",
+      "phoneticize": "Jixi",
       "name": "绩溪",
       "zip": "0563"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiyang",
       "name": "济阳",
       "zip": "0531"
     },
     {
-      "section": "J",
+      "phoneticize": "Jiyuan",
       "name": "济源",
       "zip": "0391"
     },
     {
-      "section": "J",
+      "phoneticize": "Juancheng",
       "name": "鄄城",
       "zip": "0530"
     },
     {
-      "section": "J",
+      "phoneticize": "Junan",
       "name": "莒南",
       "zip": "0539"
     },
     {
-      "section": "J",
+      "phoneticize": "Jurong",
       "name": "句容",
       "zip": "0511"
     },
     {
-      "section": "J",
+      "phoneticize": "Juxian",
       "name": "莒县",
       "zip": "0633"
     },
     {
-      "section": "J",
+      "phoneticize": "Juye",
       "name": "巨野",
       "zip": "0530"
     }
   ],
   "K": [
     {
-      "section": "K",
+      "phoneticize": "Kunming",
       "name": "昆明",
       "zip": "0871"
     },
     {
-      "section": "K",
+      "phoneticize": "Kaifeng",
       "name": "开封",
       "zip": "0378"
     },
     {
-      "section": "K",
+      "phoneticize": "Kashidi",
       "name": "喀什地",
       "zip": "0998"
     },
     {
-      "section": "K",
+      "phoneticize": "Kelamayi",
       "name": "克拉玛依",
       "zip": "0990"
     },
     {
-      "section": "K",
+      "phoneticize": "Kezile",
       "name": "克孜勒",
       "zip": "0908"
     },
     {
-      "section": "K",
+      "phoneticize": "Kaihua",
       "name": "开化",
       "zip": "0570"
     },
     {
-      "section": "K",
+      "phoneticize": "Kaiping",
       "name": "开平",
       "zip": "0750"
     },
     {
-      "section": "K",
+      "phoneticize": "Kaixian",
       "name": "开县",
       "zip": "023"
     },
     {
-      "section": "K",
+      "phoneticize": "Kaiyang",
       "name": "开阳",
       "zip": "0851"
     },
     {
-      "section": "K",
+      "phoneticize": "Kangping",
       "name": "康平",
       "zip": "024"
     },
     {
-      "section": "K",
+      "phoneticize": "Kenli",
       "name": "垦利",
       "zip": "0546"
     },
     {
-      "section": "K",
+      "phoneticize": "Kunshan",
       "name": "昆山",
       "zip": "0512"
     }
   ],
   "L": [
     {
-      "section": "L",
+      "phoneticize": "Lanzhou",
       "name": "兰州",
       "zip": "0931"
     },
     {
-      "section": "L",
+      "phoneticize": "Liuzhou",
       "name": "柳州",
       "zip": "0772"
     },
     {
-      "section": "L",
+      "phoneticize": "Luoyang",
       "name": "洛阳",
       "zip": "0379"
     },
     {
-      "section": "L",
+      "phoneticize": "Laibin",
       "name": "来宾",
       "zip": "0772"
     },
     {
-      "section": "L",
+      "phoneticize": "Laiwu",
       "name": "莱芜",
       "zip": "0634"
     },
     {
-      "section": "L",
+      "phoneticize": "Langfang",
       "name": "廊坊",
       "zip": "0316"
     },
     {
-      "section": "L",
+      "phoneticize": "Lasa",
       "name": "拉萨",
       "zip": "0891"
     },
     {
-      "section": "L",
+      "phoneticize": "Leshan",
       "name": "乐山",
       "zip": "0833"
     },
     {
-      "section": "L",
+      "phoneticize": "Liangshan",
       "name": "凉山",
       "zip": "0834"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianyungang",
       "name": "连云港",
       "zip": "0518"
     },
     {
-      "section": "L",
+      "phoneticize": "Liaocheng",
       "name": "聊城",
       "zip": "0635"
     },
     {
-      "section": "L",
+      "phoneticize": "Liaoyang",
       "name": "辽阳",
       "zip": "0419"
     },
     {
-      "section": "L",
+      "phoneticize": "Liaoyuan",
       "name": "辽源",
       "zip": "0437"
     },
     {
-      "section": "L",
+      "phoneticize": "Lijiang",
       "name": "丽江",
       "zip": "0888"
     },
     {
-      "section": "L",
+      "phoneticize": "Lincang",
       "name": "临沧",
       "zip": "0883"
     },
     {
-      "section": "L",
+      "phoneticize": "Linfen",
       "name": "临汾",
       "zip": "0357"
     },
     {
-      "section": "L",
+      "phoneticize": "Linxia",
       "name": "临夏",
       "zip": "0930"
     },
     {
-      "section": "L",
+      "phoneticize": "Linyi",
       "name": "临沂",
       "zip": "0539"
     },
     {
-      "section": "L",
+      "phoneticize": "Linzhi",
       "name": "林芝",
       "zip": "0894"
     },
     {
-      "section": "L",
+      "phoneticize": "Lishui",
       "name": "丽水",
       "zip": "0578"
     },
     {
-      "section": "L",
+      "phoneticize": "Liuan",
       "name": "六安",
       "zip": "0564"
     },
     {
-      "section": "L",
+      "phoneticize": "Liupanshui",
       "name": "六盘水",
       "zip": "0858"
     },
     {
-      "section": "L",
+      "phoneticize": "Longnan",
       "name": "陇南",
       "zip": "0939"
     },
     {
-      "section": "L",
+      "phoneticize": "Longyan",
       "name": "龙岩",
       "zip": "0597"
     },
     {
-      "section": "L",
+      "phoneticize": "Loudi",
       "name": "娄底",
       "zip": "0738"
     },
     {
-      "section": "L",
+      "phoneticize": "Luohe",
       "name": "漯河",
       "zip": "0395"
     },
     {
-      "section": "L",
+      "phoneticize": "Luzhou",
       "name": "泸州",
       "zip": "0830"
     },
     {
-      "section": "L",
+      "phoneticize": "Lvliang",
       "name": "吕梁",
       "zip": "0358"
     },
     {
-      "section": "L",
+      "phoneticize": "Laian",
       "name": "来安",
       "zip": "0550"
     },
     {
-      "section": "L",
+      "phoneticize": "Laixi",
       "name": "莱西",
       "zip": "0532"
     },
     {
-      "section": "L",
+      "phoneticize": "Laiyang",
       "name": "莱阳",
       "zip": "0535"
     },
     {
-      "section": "L",
+      "phoneticize": "Laizhou",
       "name": "莱州",
       "zip": "0535"
     },
     {
-      "section": "L",
+      "phoneticize": "Langxi",
       "name": "郎溪",
       "zip": "0563"
     },
     {
-      "section": "L",
+      "phoneticize": "Lantian",
       "name": "蓝田",
       "zip": "029"
     },
     {
-      "section": "L",
+      "phoneticize": "Lanxi",
       "name": "兰溪",
       "zip": "0579"
     },
     {
-      "section": "L",
+      "phoneticize": "Lean",
       "name": "乐安",
       "zip": "0794"
     },
     {
-      "section": "L",
+      "phoneticize": "Lechang",
       "name": "乐昌",
       "zip": "0751"
     },
     {
-      "section": "L",
+      "phoneticize": "Leizhou",
       "name": "雷州",
       "zip": "0759"
     },
     {
-      "section": "L",
+      "phoneticize": "Leling",
       "name": "乐陵",
       "zip": "0534"
     },
     {
-      "section": "L",
+      "phoneticize": "Leping",
       "name": "乐平",
       "zip": "0798"
     },
     {
-      "section": "L",
+      "phoneticize": "Leqing",
       "name": "乐清",
       "zip": "0577"
     },
     {
-      "section": "L",
+      "phoneticize": "Leting",
       "name": "乐亭",
       "zip": "0315"
     },
     {
-      "section": "L",
+      "phoneticize": "Liancheng",
       "name": "连城",
       "zip": "0597"
     },
     {
-      "section": "L",
+      "phoneticize": "Liangping",
       "name": "梁平",
       "zip": "023"
     },
     {
-      "section": "L",
+      "phoneticize": "Liangshan",
       "name": "梁山",
       "zip": "0537"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianhua",
       "name": "莲花",
       "zip": "0799"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianjiang",
       "name": "连江",
       "zip": "0591"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianjiang",
       "name": "廉江",
       "zip": "0759"
     },
     {
-      "section": "L",
+      "phoneticize": "Liannan",
       "name": "连南",
       "zip": "0763"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianping",
       "name": "连平",
       "zip": "0762"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianshan",
       "name": "连山",
       "zip": "0763"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianshui",
       "name": "涟水",
       "zip": "0517"
     },
     {
-      "section": "L",
+      "phoneticize": "Lianzhou",
       "name": "连州",
       "zip": "0763"
     },
     {
-      "section": "L",
+      "phoneticize": "Liaozhong",
       "name": "辽中",
       "zip": "024"
     },
     {
-      "section": "L",
+      "phoneticize": "Lichuan",
       "name": "黎川",
       "zip": "0794"
     },
     {
-      "section": "L",
+      "phoneticize": "Lijin",
       "name": "利津",
       "zip": "0546"
     },
     {
-      "section": "L",
+      "phoneticize": "Linan",
       "name": "临安",
       "zip": "0571"
     },
     {
-      "section": "L",
+      "phoneticize": "Lingbi",
       "name": "灵璧",
       "zip": "0557"
     },
     {
-      "section": "L",
+      "phoneticize": "Lingshou",
       "name": "灵寿",
       "zip": "0311"
     },
     {
-      "section": "L",
+      "phoneticize": "Lingxian",
       "name": "陵县",
       "zip": "0534"
     },
     {
-      "section": "L",
+      "phoneticize": "Linhai",
       "name": "临海",
       "zip": "0576"
     },
     {
-      "section": "L",
+      "phoneticize": "Linqing",
       "name": "临清",
       "zip": "0635"
     },
     {
-      "section": "L",
+      "phoneticize": "Linquan",
       "name": "临泉",
       "zip": "0558"
     },
     {
-      "section": "L",
+      "phoneticize": "Linqu",
       "name": "临朐",
       "zip": "0536"
     },
     {
-      "section": "L",
+      "phoneticize": "Linshu",
       "name": "临沭",
       "zip": "0539"
     },
     {
-      "section": "L",
+      "phoneticize": "Linyi",
       "name": "临邑",
       "zip": "0534"
     },
     {
-      "section": "L",
+      "phoneticize": "Lishui",
       "name": "溧水",
       "zip": "025"
     },
     {
-      "section": "L",
+      "phoneticize": "Liucheng",
       "name": "柳城",
       "zip": "0772"
     },
     {
-      "section": "L",
+      "phoneticize": "Liujiang",
       "name": "柳江",
       "zip": "0772"
     },
     {
-      "section": "L",
+      "phoneticize": "Liuyang",
       "name": "浏阳",
       "zip": "0731"
     },
     {
-      "section": "L",
+      "phoneticize": "Lixin",
       "name": "利辛",
       "zip": "0558"
     },
     {
-      "section": "L",
+      "phoneticize": "Liyang",
       "name": "溧阳",
       "zip": "0519"
     },
     {
-      "section": "L",
+      "phoneticize": "Longan",
       "name": "隆安",
       "zip": "0771"
     },
     {
-      "section": "L",
+      "phoneticize": "Longchuan",
       "name": "龙川",
       "zip": "0762"
     },
     {
-      "section": "L",
+      "phoneticize": "Longhai",
       "name": "龙海",
       "zip": "0596"
     },
     {
-      "section": "L",
+      "phoneticize": "Longkou",
       "name": "龙口",
       "zip": "0535"
     },
     {
-      "section": "L",
+      "phoneticize": "Longmen",
       "name": "龙门",
       "zip": "0752"
     },
     {
-      "section": "L",
+      "phoneticize": "Longnan",
       "name": "龙南",
       "zip": "0797"
     },
     {
-      "section": "L",
+      "phoneticize": "Longquan",
       "name": "龙泉",
       "zip": "0578"
     },
     {
-      "section": "L",
+      "phoneticize": "Longyou",
       "name": "龙游",
       "zip": "0570"
     },
     {
-      "section": "L",
+      "phoneticize": "Luancheng",
       "name": "栾城",
       "zip": "0311"
     },
     {
-      "section": "L",
+      "phoneticize": "Luanchuan",
       "name": "栾川",
       "zip": "0379"
     },
     {
-      "section": "L",
+      "phoneticize": "Luannan",
       "name": "滦南",
       "zip": "0315"
     },
     {
-      "section": "L",
+      "phoneticize": "Luanxian",
       "name": "滦县",
       "zip": "0315"
     },
     {
-      "section": "L",
+      "phoneticize": "Lufeng",
       "name": "陆丰",
       "zip": "0660"
     },
     {
-      "section": "L",
+      "phoneticize": "Luhe",
       "name": "陆河",
       "zip": "0660"
     },
     {
-      "section": "L",
+      "phoneticize": "Lujiang",
       "name": "庐江",
       "zip": "0565"
     },
     {
-      "section": "L",
+      "phoneticize": "Luoding",
       "name": "罗定",
       "zip": "0766"
     },
     {
-      "section": "L",
+      "phoneticize": "Luoning",
       "name": "洛宁",
       "zip": "0379"
     },
     {
-      "section": "L",
+      "phoneticize": "Luoyuan",
       "name": "罗源",
       "zip": "0591"
     },
     {
-      "section": "L",
+      "phoneticize": "Luquan",
       "name": "鹿泉",
       "zip": "0311"
     },
     {
-      "section": "L",
+      "phoneticize": "Luquan",
       "name": "禄劝",
       "zip": "0871"
     },
     {
-      "section": "L",
+      "phoneticize": "Luxi",
       "name": "芦溪",
       "zip": "0799"
     },
     {
-      "section": "L",
+      "phoneticize": "Luzhai",
       "name": "鹿寨",
       "zip": "0772"
     }
   ],
   "N": [
     {
-      "section": "N",
+      "phoneticize": "Nanchang",
       "name": "南昌",
       "zip": "0791"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanjing",
       "name": "南京",
       "zip": "025"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanning",
       "name": "南宁",
       "zip": "0771"
     },
     {
-      "section": "N",
+      "phoneticize": "Nantong",
       "name": "南通",
       "zip": "0513"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningbo",
       "name": "宁波",
       "zip": "0574"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanchong",
       "name": "南充",
       "zip": "0817"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanping",
       "name": "南平",
       "zip": "0599"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanyang",
       "name": "南阳",
       "zip": "0377"
     },
     {
-      "section": "N",
+      "phoneticize": "Naqu",
       "name": "那曲",
       "zip": "0896"
     },
     {
-      "section": "N",
+      "phoneticize": "Neijiang",
       "name": "内江",
       "zip": "0832"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningde",
       "name": "宁德",
       "zip": "0593"
     },
     {
-      "section": "N",
+      "phoneticize": "Nujiang",
       "name": "怒江",
       "zip": "0886"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanan",
       "name": "南安",
       "zip": "0595"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanao",
       "name": "南澳",
       "zip": "0754"
     },
     {
-      "section": "N",
+      "phoneticize": "Nancheng",
       "name": "南城",
       "zip": "0794"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanchuan",
       "name": "南川",
       "zip": "023"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanfeng",
       "name": "南丰",
       "zip": "0794"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanjing",
       "name": "南靖",
       "zip": "0596"
     },
     {
-      "section": "N",
+      "phoneticize": "Nankang",
       "name": "南康",
       "zip": "0797"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanling",
       "name": "南陵",
       "zip": "0553"
     },
     {
-      "section": "N",
+      "phoneticize": "Nanxiong",
       "name": "南雄",
       "zip": "0751"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningdu",
       "name": "宁都",
       "zip": "0797"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningguo",
       "name": "宁国",
       "zip": "0563"
     },
     {
-      "section": "N",
+      "phoneticize": "Ninghai",
       "name": "宁海",
       "zip": "0574"
     },
     {
-      "section": "N",
+      "phoneticize": "Ninghua",
       "name": "宁化",
       "zip": "0598"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningjin",
       "name": "宁津",
       "zip": "0534"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningxiang",
       "name": "宁乡",
       "zip": "0731"
     },
     {
-      "section": "N",
+      "phoneticize": "Ningyang",
       "name": "宁阳",
       "zip": "0538"
     },
     {
-      "section": "N",
+      "phoneticize": "Nongan",
       "name": "农安",
       "zip": "0431"
     }
   ],
   "Q": [
     {
-      "section": "Q",
+      "phoneticize": "Qingdao",
       "name": "青岛",
       "zip": "0532"
     },
     {
-      "section": "Q",
+      "phoneticize": "Quanzhou",
       "name": "泉州",
       "zip": "0595"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qiandong",
       "name": "黔东",
       "zip": "0855"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qiannan",
       "name": "黔南",
       "zip": "0854"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qianxinan",
       "name": "黔西南",
       "zip": "0859"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingyang",
       "name": "庆阳",
       "zip": "0934"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingyuan",
       "name": "清远",
       "zip": "0763"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qinhuangdao",
       "name": "秦皇岛",
       "zip": "0335"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qinzhou",
       "name": "钦州",
       "zip": "0777"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qiqihaer",
       "name": "齐齐哈尔",
       "zip": "0452"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qitaihe",
       "name": "七台河",
       "zip": "0464"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qujing",
       "name": "曲靖",
       "zip": "0874"
     },
     {
-      "section": "Q",
+      "phoneticize": "Quzhou",
       "name": "衢州",
       "zip": "0570"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qianan",
       "name": "迁安",
       "zip": "0315"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qianshan",
       "name": "潜山",
       "zip": "0556"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qianshan",
       "name": "铅山",
       "zip": "0793"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qianxi",
       "name": "迁西",
       "zip": "0315"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qidong",
       "name": "启东",
       "zip": "0513"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qihe",
       "name": "齐河",
       "zip": "0534"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qijiang",
       "name": "綦江",
       "zip": "023"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qimen",
       "name": "祁门",
       "zip": "0559"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingliu",
       "name": "清流",
       "zip": "0598"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingtian",
       "name": "青田",
       "zip": "0578"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingxin",
       "name": "清新",
       "zip": "0763"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingyang",
       "name": "青阳",
       "zip": "0566"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingyuan",
       "name": "庆元",
       "zip": "0578"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingyun",
       "name": "庆云",
       "zip": "0534"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingzhen",
       "name": "清镇",
       "zip": "0851"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qingzhou",
       "name": "青州",
       "zip": "0536"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qinyang",
       "name": "沁阳",
       "zip": "0391"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qionglai",
       "name": "邛崃",
       "zip": "028"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qixia",
       "name": "栖霞",
       "zip": "0535"
     },
     {
-      "section": "Q",
+      "phoneticize": "Quanjiao",
       "name": "全椒",
       "zip": "0550"
     },
     {
-      "section": "Q",
+      "phoneticize": "Quannan",
       "name": "全南",
       "zip": "0797"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qufu",
       "name": "曲阜",
       "zip": "0537"
     },
     {
-      "section": "Q",
+      "phoneticize": "Qujiang",
       "name": "曲江",
       "zip": "0751"
     }
   ],
   "W": [
     {
-      "section": "W",
+      "phoneticize": "Weifang",
       "name": "潍坊",
       "zip": "0536"
     },
     {
-      "section": "W",
+      "phoneticize": "Weihai",
       "name": "威海",
       "zip": "0631"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhan",
       "name": "武汉",
       "zip": "027"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuxi",
       "name": "无锡",
       "zip": "0510"
     },
     {
-      "section": "W",
+      "phoneticize": "Weinan",
       "name": "渭南",
       "zip": "0913"
     },
     {
-      "section": "W",
+      "phoneticize": "Wenshan",
       "name": "文山",
       "zip": "0876"
     },
     {
-      "section": "W",
+      "phoneticize": "Wenzhou",
       "name": "温州",
       "zip": "0577"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhai",
       "name": "乌海",
       "zip": "0473"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhu",
       "name": "芜湖",
       "zip": "0553"
     },
     {
-      "section": "W",
+      "phoneticize": "Wulanchabu",
       "name": "乌兰察布",
       "zip": "0474"
     },
     {
-      "section": "W",
+      "phoneticize": "Wulumuqi",
       "name": "乌鲁木齐",
       "zip": "0991"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuwei",
       "name": "武威",
       "zip": "0935"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuzhong",
       "name": "吴忠",
       "zip": "0953"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuzhou",
       "name": "梧州",
       "zip": "0774"
     },
     {
-      "section": "W",
+      "phoneticize": "Wafangdian",
       "name": "瓦房店",
       "zip": "0411"
     },
     {
-      "section": "W",
+      "phoneticize": "Wanan",
       "name": "万安",
       "zip": "0796"
     },
     {
-      "section": "W",
+      "phoneticize": "Wangcheng",
       "name": "望城",
       "zip": "0731"
     },
     {
-      "section": "W",
+      "phoneticize": "Wangjiang",
       "name": "望江",
       "zip": "0556"
     },
     {
-      "section": "W",
+      "phoneticize": "Wannian",
       "name": "万年",
       "zip": "0793"
     },
     {
-      "section": "W",
+      "phoneticize": "Wanzai",
       "name": "万载",
       "zip": "0795"
     },
     {
-      "section": "W",
+      "phoneticize": "Weishan",
       "name": "微山",
       "zip": "0537"
     },
     {
-      "section": "W",
+      "phoneticize": "Wencheng",
       "name": "文成",
       "zip": "0577"
     },
     {
-      "section": "W",
+      "phoneticize": "Wendeng",
       "name": "文登",
       "zip": "0631"
     },
     {
-      "section": "W",
+      "phoneticize": "Wengyuan",
       "name": "翁源",
       "zip": "0751"
     },
     {
-      "section": "W",
+      "phoneticize": "Wenling",
       "name": "温岭",
       "zip": "0576"
     },
     {
-      "section": "W",
+      "phoneticize": "Wenshang",
       "name": "汶上",
       "zip": "0537"
     },
     {
-      "section": "W",
+      "phoneticize": "Wenxian",
       "name": "温县",
       "zip": "0391"
     },
     {
-      "section": "W",
+      "phoneticize": "Woyang",
       "name": "涡阳",
       "zip": "0558"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuchang",
       "name": "五常",
       "zip": "0451"
     },
     {
-      "section": "W",
+      "phoneticize": "Wucheng",
       "name": "武城",
       "zip": "0534"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuchuan",
       "name": "吴川",
       "zip": "0759"
     },
     {
-      "section": "W",
+      "phoneticize": "Wudi",
       "name": "无棣",
       "zip": "0543"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhe",
       "name": "五河",
       "zip": "0552"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhu",
       "name": "芜湖",
       "zip": "0553"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuhua",
       "name": "五华",
       "zip": "0753"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuji",
       "name": "无极",
       "zip": "0311"
     },
     {
-      "section": "W",
+      "phoneticize": "Wujiang",
       "name": "吴江",
       "zip": "0512"
     },
     {
-      "section": "W",
+      "phoneticize": "Wulian",
       "name": "五莲",
       "zip": "0633"
     },
     {
-      "section": "W",
+      "phoneticize": "Wulong",
       "name": "武隆",
       "zip": "023"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuming",
       "name": "武鸣",
       "zip": "0771"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuning",
       "name": "武宁",
       "zip": "0792"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuping",
       "name": "武平",
       "zip": "0597"
     },
     {
-      "section": "W",
+      "phoneticize": "Wushan",
       "name": "巫山",
       "zip": "023"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuwei",
       "name": "无为",
       "zip": "0565"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuxi",
       "name": "巫溪",
       "zip": "023"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuyi",
       "name": "武义",
       "zip": "0579"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuyishan",
       "name": "武夷山",
       "zip": "0599"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuyuan",
       "name": "婺源",
       "zip": "0793"
     },
     {
-      "section": "W",
+      "phoneticize": "Wuzhi",
       "name": "武陟",
       "zip": "0391"
     }
   ],
   "X": [
     {
-      "section": "X",
+      "phoneticize": "Xiamen",
       "name": "厦门",
       "zip": "0592"
     },
     {
-      "section": "X",
+      "phoneticize": "Xian",
       "name": "西安",
       "zip": "029"
     },
     {
-      "section": "X",
+      "phoneticize": "Xuchang",
       "name": "许昌",
       "zip": "0374"
     },
     {
-      "section": "X",
+      "phoneticize": "Xuzhou",
       "name": "徐州",
       "zip": "0516"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiangfan",
       "name": "襄樊",
       "zip": "0710"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiangtan",
       "name": "湘潭",
       "zip": "0732"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiangxi",
       "name": "湘西",
       "zip": "0743"
     },
     {
-      "section": "X",
+      "phoneticize": "Xianning",
       "name": "咸宁",
       "zip": "0715"
     },
     {
-      "section": "X",
+      "phoneticize": "Xianyang",
       "name": "咸阳",
       "zip": "029"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiaogan",
       "name": "孝感",
       "zip": "0712"
     },
     {
-      "section": "X",
+      "phoneticize": "Xilinguolemeng",
       "name": "锡林郭勒盟",
       "zip": "0479"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinganmeng",
       "name": "兴安盟",
       "zip": "0482"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingtai",
       "name": "邢台",
       "zip": "0319"
     },
     {
-      "section": "X",
+      "phoneticize": "Xining",
       "name": "西宁",
       "zip": "0971"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinxiang",
       "name": "新乡",
       "zip": "0373"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinyang",
       "name": "信阳",
       "zip": "0376"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinyu",
       "name": "新余",
       "zip": "0790"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinzhou",
       "name": "忻州",
       "zip": "0350"
     },
     {
-      "section": "X",
+      "phoneticize": "Xishuangbanna",
       "name": "西双版纳",
       "zip": "0691"
     },
     {
-      "section": "X",
+      "phoneticize": "Xuancheng",
       "name": "宣城",
       "zip": "0563"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiajiang",
       "name": "峡江",
       "zip": "0796"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiajin",
       "name": "夏津",
       "zip": "0534"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiangshan",
       "name": "象山",
       "zip": "0574"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiangshui",
       "name": "响水",
       "zip": "0515"
     },
     {
-      "section": "X",
+      "phoneticize": "Xianju",
       "name": "仙居",
       "zip": "0576"
     },
     {
-      "section": "X",
+      "phoneticize": "Xianyou",
       "name": "仙游",
       "zip": "0594"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiaoxian",
       "name": "萧县",
       "zip": "0557"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiapu",
       "name": "霞浦",
       "zip": "0593"
     },
     {
-      "section": "X",
+      "phoneticize": "Xifeng",
       "name": "息烽",
       "zip": "0851"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinan",
       "name": "新安",
       "zip": "0379"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinchang",
       "name": "新昌",
       "zip": "0575"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinfeng",
       "name": "信丰",
       "zip": "0797"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinfeng",
       "name": "新丰",
       "zip": "0751"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingan",
       "name": "新干",
       "zip": "0796"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingguo",
       "name": "兴国",
       "zip": "0797"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinghua",
       "name": "兴化",
       "zip": "0523"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingning",
       "name": "兴宁",
       "zip": "0753"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingtang",
       "name": "行唐",
       "zip": "0311"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingyang",
       "name": "荥阳",
       "zip": "0371"
     },
     {
-      "section": "X",
+      "phoneticize": "Xingzi",
       "name": "星子",
       "zip": "0792"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinji",
       "name": "辛集",
       "zip": "0311"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinjian",
       "name": "新建",
       "zip": "0791"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinjin",
       "name": "新津",
       "zip": "028"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinle",
       "name": "新乐",
       "zip": "0311"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinmin",
       "name": "新民",
       "zip": "024"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinmi",
       "name": "新密",
       "zip": "0371"
     },
     {
-      "section": "X",
+      "phoneticize": "Xintai",
       "name": "新泰",
       "zip": "0538"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinxing",
       "name": "新兴",
       "zip": "0766"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinyi",
       "name": "新沂",
       "zip": "0516"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinyi",
       "name": "信宜",
       "zip": "0668"
     },
     {
-      "section": "X",
+      "phoneticize": "Xinzheng",
       "name": "新郑",
       "zip": "0371"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiuning",
       "name": "休宁",
       "zip": "0559"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiushan",
       "name": "秀山",
       "zip": "023"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiushui",
       "name": "修水",
       "zip": "0792"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiuwen",
       "name": "修文",
       "zip": "0851"
     },
     {
-      "section": "X",
+      "phoneticize": "Xiuwu",
       "name": "修武",
       "zip": "0391"
     },
     {
-      "section": "X",
+      "phoneticize": "Xundian",
       "name": "寻甸",
       "zip": "0871"
     },
     {
-      "section": "X",
+      "phoneticize": "Xunwu",
       "name": "寻乌",
       "zip": "0797"
     },
     {
-      "section": "X",
+      "phoneticize": "Xuwen",
       "name": "徐闻",
       "zip": "0759"
     },
     {
-      "section": "X",
+      "phoneticize": "Xuyi",
       "name": "盱眙",
       "zip": "0517"
     }
   ],
   "Y": [
     {
-      "section": "Y",
+      "phoneticize": "Yangzhou",
       "name": "扬州",
       "zip": "0514"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yantai",
       "name": "烟台",
       "zip": "0535"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yaan",
       "name": "雅安",
       "zip": "0835"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanan",
       "name": "延安",
       "zip": "0911"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanbian",
       "name": "延边",
       "zip": "0433"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yancheng",
       "name": "盐城",
       "zip": "0515"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangjiang",
       "name": "阳江",
       "zip": "0662"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangquan",
       "name": "阳泉",
       "zip": "0353"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yibin",
       "name": "宜宾",
       "zip": "0831"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yichang",
       "name": "宜昌",
       "zip": "0717"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yichun",
       "name": "伊春",
       "zip": "0458"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yichun",
       "name": "宜春",
       "zip": "0795"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yilihasake",
       "name": "伊犁哈萨克",
       "zip": "0999"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yinchuan",
       "name": "银川",
       "zip": "0951"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yingkou",
       "name": "营口",
       "zip": "0417"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yingtan",
       "name": "鹰潭",
       "zip": "0701"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiyang",
       "name": "益阳",
       "zip": "0737"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongzhou",
       "name": "永州",
       "zip": "0746"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yueyang",
       "name": "岳阳",
       "zip": "0730"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yulin",
       "name": "玉林",
       "zip": "0775"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yulin",
       "name": "榆林",
       "zip": "0912"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuncheng",
       "name": "运城",
       "zip": "0359"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunfu",
       "name": "云浮",
       "zip": "0766"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yushu",
       "name": "玉树",
       "zip": "0976"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuxi",
       "name": "玉溪",
       "zip": "0877"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangchun",
       "name": "阳春",
       "zip": "0662"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangdong",
       "name": "阳东",
       "zip": "0662"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanggu",
       "name": "阳谷",
       "zip": "0635"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangshan",
       "name": "阳山",
       "zip": "0763"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangxin",
       "name": "阳信",
       "zip": "0543"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangxi",
       "name": "阳西",
       "zip": "0662"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yangzhong",
       "name": "扬中",
       "zip": "0511"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanshi",
       "name": "偃师",
       "zip": "0379"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanshou",
       "name": "延寿",
       "zip": "0451"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yanzhou",
       "name": "兖州",
       "zip": "0537"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yichuan",
       "name": "伊川",
       "zip": "0379"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yifeng",
       "name": "宜丰",
       "zip": "0795"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yihuang",
       "name": "宜黄",
       "zip": "0794"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yilan",
       "name": "依兰",
       "zip": "0451"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiliang",
       "name": "宜良",
       "zip": "0871"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yinan",
       "name": "沂南",
       "zip": "0539"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yingde",
       "name": "英德",
       "zip": "0763"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yingshang",
       "name": "颍上",
       "zip": "0558"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yishui",
       "name": "沂水",
       "zip": "0539"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiwu",
       "name": "义乌",
       "zip": "0579"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yixian",
       "name": "黟县",
       "zip": "0559"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yixing",
       "name": "宜兴",
       "zip": "0510"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiyang",
       "name": "弋阳",
       "zip": "0793"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiyang",
       "name": "宜阳",
       "zip": "0379"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yiyuan",
       "name": "沂源",
       "zip": "0533"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yizheng",
       "name": "仪征",
       "zip": "0514"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongan",
       "name": "永安",
       "zip": "0598"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongchuan",
       "name": "永川",
       "zip": "023"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongchun",
       "name": "永春",
       "zip": "0595"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongdeng",
       "name": "永登",
       "zip": "0931"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongding",
       "name": "永定",
       "zip": "0597"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongfeng",
       "name": "永丰",
       "zip": "0796"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongji",
       "name": "永吉",
       "zip": "0423"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongjia",
       "name": "永嘉",
       "zip": "0577"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongkang",
       "name": "永康",
       "zip": "0579"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongning",
       "name": "邕宁",
       "zip": "0771"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongtai",
       "name": "永泰",
       "zip": "0591"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongxin",
       "name": "永新",
       "zip": "0796"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yongxiu",
       "name": "永修",
       "zip": "0792"
     },
     {
-      "section": "Y",
+      "phoneticize": "Youxi",
       "name": "尤溪",
       "zip": "0598"
     },
     {
-      "section": "Y",
+      "phoneticize": "Youyang",
       "name": "酉阳",
       "zip": "023"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuanshi",
       "name": "元氏",
       "zip": "0311"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yucheng",
       "name": "禹城",
       "zip": "0534"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yudu",
       "name": "于都",
       "zip": "0797"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuexi",
       "name": "岳西",
       "zip": "0556"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yugan",
       "name": "余干",
       "zip": "0793"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuhuan",
       "name": "玉环",
       "zip": "0576"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yujiang",
       "name": "余江",
       "zip": "0701"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunan",
       "name": "郁南",
       "zip": "0766"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunan",
       "name": "云安",
       "zip": "0766"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuncheng",
       "name": "郓城",
       "zip": "0530"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunhe",
       "name": "云和",
       "zip": "0578"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunxiao",
       "name": "云霄",
       "zip": "0596"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yunyang",
       "name": "云阳",
       "zip": "023"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yushan",
       "name": "玉山",
       "zip": "0793"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yushu",
       "name": "榆树",
       "zip": "0431"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yutai",
       "name": "鱼台",
       "zip": "0537"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yutian",
       "name": "玉田",
       "zip": "0315"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuyao",
       "name": "余姚",
       "zip": "0574"
     },
     {
-      "section": "Y",
+      "phoneticize": "Yuzhong",
       "name": "榆中",
       "zip": "0931"
     }
   ],
   "Z": [
     {
-      "section": "Z",
+      "phoneticize": "Zhangzhou",
       "name": "漳州",
       "zip": "0596"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhengzhou",
       "name": "郑州",
       "zip": "0371"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhongshan",
       "name": "中山",
       "zip": "0760"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhuhai",
       "name": "珠海",
       "zip": "0756"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zaozhuang",
       "name": "枣庄",
       "zip": "0623"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangjiajie",
       "name": "张家界",
       "zip": "0744"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangjiakou",
       "name": "张家口",
       "zip": "0313"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangye",
       "name": "张掖",
       "zip": "0936"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhanjiang",
       "name": "湛江",
       "zip": "0759"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhaoqing",
       "name": "肇庆",
       "zip": "0758"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhaotong",
       "name": "昭通",
       "zip": "0870"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhenjiang",
       "name": "镇江",
       "zip": "0511"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhongwei",
       "name": "中卫",
       "zip": "0955"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhoukou",
       "name": "周口",
       "zip": "0394"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhoushan",
       "name": "舟山",
       "zip": "0580"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhumadian",
       "name": "驻马店",
       "zip": "0396"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhuzhou",
       "name": "株洲",
       "zip": "0731"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zibo",
       "name": "淄博",
       "zip": "0533"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zigong",
       "name": "自贡",
       "zip": "0813"
     },
     {
-      "section": "Z",
+      "phoneticize": "Ziyang",
       "name": "资阳",
       "zip": "028"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zunyi",
       "name": "遵义",
       "zip": "0852"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zanhuang",
       "name": "赞皇",
       "zip": "0311"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zengcheng",
       "name": "增城",
       "zip": "020"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangjiagang",
       "name": "张家港",
       "zip": "0512"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangping",
       "name": "漳平",
       "zip": "0597"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangpu",
       "name": "漳浦",
       "zip": "0596"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangqiu",
       "name": "章丘",
       "zip": "0531"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhangshu",
       "name": "樟树",
       "zip": "0795"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhanhua",
       "name": "沾化",
       "zip": "0543"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhaoxian",
       "name": "赵县",
       "zip": "0311"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhaoyuan",
       "name": "招远",
       "zip": "0535"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhengding",
       "name": "正定",
       "zip": "0311"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhenghe",
       "name": "政和",
       "zip": "0599"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zherong",
       "name": "柘荣",
       "zip": "0593"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhongmou",
       "name": "中牟",
       "zip": "0371"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhongxian",
       "name": "忠县",
       "zip": "023"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhouning",
       "name": "周宁",
       "zip": "0593"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhouzhi",
       "name": "周至",
       "zip": "029"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhuanghe",
       "name": "庄河",
       "zip": "0411"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhucheng",
       "name": "诸城",
       "zip": "0536"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zhuji",
       "name": "诸暨",
       "zip": "0575"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zijin",
       "name": "紫金",
       "zip": "0762"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zixi",
       "name": "资溪",
       "zip": "0794"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zoucheng",
       "name": "邹城",
       "zip": "0537"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zouping",
       "name": "邹平",
       "zip": "0543"
     },
     {
-      "section": "Z",
+      "phoneticize": "Zunhua",
       "name": "遵化",
       "zip": "0315"
     }
   ],
   "A": [
     {
-      "section": "A",
+      "phoneticize": "Aba",
       "name": "阿坝",
       "zip": "0837"
     },
     {
-      "section": "A",
+      "phoneticize": "Akesu",
       "name": "阿克苏",
       "zip": "0997"
     },
     {
-      "section": "A",
+      "phoneticize": "Alashanmeng",
       "name": "阿拉善盟",
       "zip": "0483"
     },
     {
-      "section": "A",
+      "phoneticize": "Aletai",
       "name": "阿勒泰",
       "zip": "0906"
     },
     {
-      "section": "A",
+      "phoneticize": "Ali",
       "name": "阿里",
       "zip": "0897"
     },
     {
-      "section": "A",
+      "phoneticize": "Ankang",
       "name": "安康",
       "zip": "0915"
     },
     {
-      "section": "A",
+      "phoneticize": "Anqing",
       "name": "安庆",
       "zip": "0556"
     },
     {
-      "section": "A",
+      "phoneticize": "Anshan",
       "name": "鞍山",
       "zip": "0412"
     },
     {
-      "section": "A",
+      "phoneticize": "Anshun",
       "name": "安顺",
       "zip": "0853"
     },
     {
-      "section": "A",
+      "phoneticize": "Anyang",
       "name": "安阳",
       "zip": "0372"
     },
     {
-      "section": "A",
+      "phoneticize": "Acheng",
       "name": "阿城",
       "zip": "0451"
     },
     {
-      "section": "A",
+      "phoneticize": "Anfu",
       "name": "安福",
       "zip": "0796"
     },
     {
-      "section": "A",
+      "phoneticize": "Anji",
       "name": "安吉",
       "zip": "0572"
     },
     {
-      "section": "A",
+      "phoneticize": "Anning",
       "name": "安宁",
       "zip": "0871"
     },
     {
-      "section": "A",
+      "phoneticize": "Anqiu",
       "name": "安丘",
       "zip": "0536"
     },
     {
-      "section": "A",
+      "phoneticize": "Anxi",
       "name": "安溪",
       "zip": "0595"
     },
     {
-      "section": "A",
+      "phoneticize": "Anyi",
       "name": "安义",
       "zip": "0791"
     },
     {
-      "section": "A",
+      "phoneticize": "Anyuan",
       "name": "安远",
       "zip": "0797"
     }
   ],
   "E": [
     {
-      "section": "E",
+      "phoneticize": "Eerduosi",
       "name": "鄂尔多斯",
       "zip": "0477"
     },
     {
-      "section": "E",
+      "phoneticize": "Enshi",
       "name": "恩施",
       "zip": "0718"
     },
     {
-      "section": "E",
+      "phoneticize": "Ezhou",
       "name": "鄂州",
       "zip": "0711"
     },
     {
-      "section": "E",
+      "phoneticize": "Enping",
       "name": "恩平",
       "zip": "0750"
     }
   ],
   "M": [
     {
-      "section": "M",
+      "phoneticize": "Maanshan",
       "name": "马鞍山",
       "zip": "0555"
     },
     {
-      "section": "M",
+      "phoneticize": "Maoming",
       "name": "茂名",
       "zip": "0668"
     },
     {
-      "section": "M",
+      "phoneticize": "Meishan",
       "name": "眉山",
       "zip": "028"
     },
     {
-      "section": "M",
+      "phoneticize": "Meizhou",
       "name": "梅州",
       "zip": "0753"
     },
     {
-      "section": "M",
+      "phoneticize": "Mianyang",
       "name": "绵阳",
       "zip": "0816"
     },
     {
-      "section": "M",
+      "phoneticize": "Mudanjiang",
       "name": "牡丹江",
       "zip": "0453"
     },
     {
-      "section": "M",
+      "phoneticize": "Mashan",
       "name": "马山",
       "zip": "0771"
     },
     {
-      "section": "M",
+      "phoneticize": "Meixian",
       "name": "梅县",
       "zip": "0753"
     },
     {
-      "section": "M",
+      "phoneticize": "Mengcheng",
       "name": "蒙城",
       "zip": "0558"
     },
     {
-      "section": "M",
+      "phoneticize": "Mengjin",
       "name": "孟津",
       "zip": "0379"
     },
     {
-      "section": "M",
+      "phoneticize": "Mengyin",
       "name": "蒙阴",
       "zip": "0539"
     },
     {
-      "section": "M",
+      "phoneticize": "Mengzhou",
       "name": "孟州",
       "zip": "0391"
     },
     {
-      "section": "M",
+      "phoneticize": "Mingguang",
       "name": "明光",
       "zip": "0550"
     },
     {
-      "section": "M",
+      "phoneticize": "Mingxi",
       "name": "明溪",
       "zip": "0598"
     },
     {
-      "section": "M",
+      "phoneticize": "Minhou",
       "name": "闽侯",
       "zip": "0591"
     },
     {
-      "section": "M",
+      "phoneticize": "Minqing",
       "name": "闽清",
       "zip": "0591"
     },
     {
-      "section": "M",
+      "phoneticize": "Mulan",
       "name": "木兰",
       "zip": "0451"
     }
   ],
   "P": [
     {
-      "section": "P",
+      "phoneticize": "Panjin",
       "name": "盘锦",
       "zip": "0427"
     },
     {
-      "section": "P",
+      "phoneticize": "Panzhihua",
       "name": "攀枝花",
       "zip": "0812"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingdingshan",
       "name": "平顶山",
       "zip": "0375"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingliang",
       "name": "平凉",
       "zip": "0933"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingxiang",
       "name": "萍乡",
       "zip": "0799"
     },
     {
-      "section": "P",
+      "phoneticize": "Puer",
       "name": "普洱",
       "zip": "0879"
     },
     {
-      "section": "P",
+      "phoneticize": "Putian",
       "name": "莆田",
       "zip": "0594"
     },
     {
-      "section": "P",
+      "phoneticize": "Puyang",
       "name": "濮阳",
       "zip": "0393"
     },
     {
-      "section": "P",
+      "phoneticize": "Panan",
       "name": "磐安",
       "zip": "0579"
     },
     {
-      "section": "P",
+      "phoneticize": "Panshi",
       "name": "磐石",
       "zip": "0423"
     },
     {
-      "section": "P",
+      "phoneticize": "Peixian",
       "name": "沛县",
       "zip": "0516"
     },
     {
-      "section": "P",
+      "phoneticize": "Penglai",
       "name": "蓬莱",
       "zip": "0535"
     },
     {
-      "section": "P",
+      "phoneticize": "Pengshui",
       "name": "彭水",
       "zip": "023"
     },
     {
-      "section": "P",
+      "phoneticize": "Pengze",
       "name": "彭泽",
       "zip": "0792"
     },
     {
-      "section": "P",
+      "phoneticize": "Pengzhou",
       "name": "彭州",
       "zip": "028"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingdu",
       "name": "平度",
       "zip": "0532"
     },
     {
-      "section": "P",
+      "phoneticize": "Pinghe",
       "name": "平和",
       "zip": "0596"
     },
     {
-      "section": "P",
+      "phoneticize": "Pinghu",
       "name": "平湖",
       "zip": "0573"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingnan",
       "name": "屏南",
       "zip": "0593"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingshan",
       "name": "平山",
       "zip": "0311"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingtan",
       "name": "平潭",
       "zip": "0591"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingyang",
       "name": "平阳",
       "zip": "0577"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingyin",
       "name": "平阴",
       "zip": "0531"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingyi",
       "name": "平邑",
       "zip": "0539"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingyuan",
       "name": "平原",
       "zip": "0534"
     },
     {
-      "section": "P",
+      "phoneticize": "Pingyuan",
       "name": "平远",
       "zip": "0753"
     },
     {
-      "section": "P",
+      "phoneticize": "Pixian",
       "name": "郫县",
       "zip": "028"
     },
     {
-      "section": "P",
+      "phoneticize": "Pizhou",
       "name": "邳州",
       "zip": "0516"
     },
     {
-      "section": "P",
+      "phoneticize": "Poyang",
       "name": "鄱阳",
       "zip": "0793"
     },
     {
-      "section": "P",
+      "phoneticize": "Pucheng",
       "name": "浦城",
       "zip": "0599"
     },
     {
-      "section": "P",
+      "phoneticize": "Pujiang",
       "name": "浦江",
       "zip": "0579"
     },
     {
-      "section": "P",
+      "phoneticize": "Pujiang",
       "name": "蒲江",
       "zip": "028"
     },
     {
-      "section": "P",
+      "phoneticize": "Pulandian",
       "name": "普兰店",
       "zip": "0411"
     },
     {
-      "section": "P",
+      "phoneticize": "Puning",
       "name": "普宁",
       "zip": "0663"
     }
   ],
   "R": [
     {
-      "section": "R",
+      "phoneticize": "Rikaze",
       "name": "日喀则",
       "zip": "0892"
     },
     {
-      "section": "R",
+      "phoneticize": "Rizhao",
       "name": "日照",
       "zip": "0633"
     },
     {
-      "section": "R",
+      "phoneticize": "Raoping",
       "name": "饶平",
       "zip": "0768"
     },
     {
-      "section": "R",
+      "phoneticize": "Renhua",
       "name": "仁化",
       "zip": "0751"
     },
     {
-      "section": "R",
+      "phoneticize": "Rongan",
       "name": "融安",
       "zip": "0772"
     },
     {
-      "section": "R",
+      "phoneticize": "Rongchang",
       "name": "荣昌",
       "zip": "023"
     },
     {
-      "section": "R",
+      "phoneticize": "Rongcheng",
       "name": "荣成",
       "zip": "0631"
     },
     {
-      "section": "R",
+      "phoneticize": "Rongshui",
       "name": "融水",
       "zip": "0772"
     },
     {
-      "section": "R",
+      "phoneticize": "Rudong",
       "name": "如东",
       "zip": "0513"
     },
     {
-      "section": "R",
+      "phoneticize": "Rugao",
       "name": "如皋",
       "zip": "0513"
     },
     {
-      "section": "R",
+      "phoneticize": "Ruian",
       "name": "瑞安",
       "zip": "0577"
     },
     {
-      "section": "R",
+      "phoneticize": "Ruichang",
       "name": "瑞昌",
       "zip": "0792"
     },
     {
-      "section": "R",
+      "phoneticize": "Ruijin",
       "name": "瑞金",
       "zip": "0797"
     },
     {
-      "section": "R",
+      "phoneticize": "Rushan",
       "name": "乳山",
       "zip": "0631"
     },
     {
-      "section": "R",
+      "phoneticize": "Ruyang",
       "name": "汝阳",
       "zip": "0379"
     },
     {
-      "section": "R",
+      "phoneticize": "Ruyuan",
       "name": "乳源",
       "zip": "0751"
     }
