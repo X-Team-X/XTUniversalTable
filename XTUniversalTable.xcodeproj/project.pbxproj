@@ -16,14 +16,13 @@
 		1E3789C31CDB2D590067C3D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3789B91CDB2D590067C3D3 /* Main.storyboard */; };
 		1E3789C41CDB2D590067C3D3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E3789BB1CDB2D590067C3D3 /* Info.plist */; };
 		1E3789C51CDB2D590067C3D3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789BC1CDB2D590067C3D3 /* main.m */; };
-		1E3789C61CDB2D590067C3D3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789BE1CDB2D590067C3D3 /* ViewController.m */; };
-		1E3789CD1CDB34300067C3D3 /* DemoCellA.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789CC1CDB34300067C3D3 /* DemoCellA.m */; };
-		1E3789D01CDB34410067C3D3 /* DemoCellB.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789CF1CDB34410067C3D3 /* DemoCellB.m */; };
-		1E3789D31CDB35460067C3D3 /* RowDataA.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789D21CDB35460067C3D3 /* RowDataA.m */; };
-		1E3789D61CDB35530067C3D3 /* RowDataB.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789D51CDB35530067C3D3 /* RowDataB.m */; };
 		1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */; };
 		1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */; };
 		1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */; };
+		1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */; };
+		1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */; };
+		1E8B12E31CDC38D50071EF2A /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 1E8B12E21CDC38D50071EF2A /* cities.json */; };
+		1E8B12E61CDC49780071EF2A /* UITableViewCell+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,16 +60,6 @@
 		1E3789BA1CDB2D590067C3D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1E3789BB1CDB2D590067C3D3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E3789BC1CDB2D590067C3D3 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1E3789BD1CDB2D590067C3D3 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		1E3789BE1CDB2D590067C3D3 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		1E3789CB1CDB34300067C3D3 /* DemoCellA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoCellA.h; sourceTree = "<group>"; };
-		1E3789CC1CDB34300067C3D3 /* DemoCellA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoCellA.m; sourceTree = "<group>"; };
-		1E3789CE1CDB34410067C3D3 /* DemoCellB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoCellB.h; sourceTree = "<group>"; };
-		1E3789CF1CDB34410067C3D3 /* DemoCellB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoCellB.m; sourceTree = "<group>"; };
-		1E3789D11CDB35460067C3D3 /* RowDataA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RowDataA.h; sourceTree = "<group>"; };
-		1E3789D21CDB35460067C3D3 /* RowDataA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RowDataA.m; sourceTree = "<group>"; };
-		1E3789D41CDB35530067C3D3 /* RowDataB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RowDataB.h; sourceTree = "<group>"; };
-		1E3789D51CDB35530067C3D3 /* RowDataB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RowDataB.m; sourceTree = "<group>"; };
 		1E3789E91CDB49070067C3D3 /* XTUniversalTable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XTUniversalTable.h; sourceTree = "<group>"; };
 		1E8B12C71CDC28EC0071EF2A /* XTUTRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTRow.h; sourceTree = "<group>"; };
 		1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTRow.m; sourceTree = "<group>"; };
@@ -78,6 +67,13 @@
 		1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSection.m; sourceTree = "<group>"; };
 		1E8B12D61CDC2B110071EF2A /* XTUTSectionHeaderFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSectionHeaderFooter.h; sourceTree = "<group>"; };
 		1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSectionHeaderFooter.m; sourceTree = "<group>"; };
+		1E8B12D91CDC367A0071EF2A /* RootTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTableViewController.h; sourceTree = "<group>"; };
+		1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTableViewController.m; sourceTree = "<group>"; };
+		1E8B12DD1CDC37570071EF2A /* SimpleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleViewController.h; sourceTree = "<group>"; };
+		1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleViewController.m; sourceTree = "<group>"; };
+		1E8B12E21CDC38D50071EF2A /* cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cities.json; sourceTree = "<group>"; };
+		1E8B12E41CDC49780071EF2A /* UITableViewCell+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewCell+Simple.h"; sourceTree = "<group>"; };
+		1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+Simple.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +153,8 @@
 		1E3789B31CDB2D590067C3D3 /* Demo */ = {
 			isa = PBXGroup;
 			children = (
+				1E8B12E01CDC387B0071EF2A /* Resource */,
+				1E8B12DC1CDC37450071EF2A /* Simple */,
 				1E3789B41CDB2D590067C3D3 /* AppDelegate.h */,
 				1E3789B51CDB2D590067C3D3 /* AppDelegate.m */,
 				1E3789B61CDB2D590067C3D3 /* Assets.xcassets */,
@@ -164,16 +162,8 @@
 				1E3789B91CDB2D590067C3D3 /* Main.storyboard */,
 				1E3789BB1CDB2D590067C3D3 /* Info.plist */,
 				1E3789BC1CDB2D590067C3D3 /* main.m */,
-				1E3789BD1CDB2D590067C3D3 /* ViewController.h */,
-				1E3789BE1CDB2D590067C3D3 /* ViewController.m */,
-				1E3789CB1CDB34300067C3D3 /* DemoCellA.h */,
-				1E3789CC1CDB34300067C3D3 /* DemoCellA.m */,
-				1E3789CE1CDB34410067C3D3 /* DemoCellB.h */,
-				1E3789CF1CDB34410067C3D3 /* DemoCellB.m */,
-				1E3789D11CDB35460067C3D3 /* RowDataA.h */,
-				1E3789D21CDB35460067C3D3 /* RowDataA.m */,
-				1E3789D41CDB35530067C3D3 /* RowDataB.h */,
-				1E3789D51CDB35530067C3D3 /* RowDataB.m */,
+				1E8B12D91CDC367A0071EF2A /* RootTableViewController.h */,
+				1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -199,6 +189,25 @@
 				1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */,
 			);
 			path = Extension;
+			sourceTree = "<group>";
+		};
+		1E8B12DC1CDC37450071EF2A /* Simple */ = {
+			isa = PBXGroup;
+			children = (
+				1E8B12DD1CDC37570071EF2A /* SimpleViewController.h */,
+				1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */,
+				1E8B12E41CDC49780071EF2A /* UITableViewCell+Simple.h */,
+				1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */,
+			);
+			path = Simple;
+			sourceTree = "<group>";
+		};
+		1E8B12E01CDC387B0071EF2A /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				1E8B12E21CDC38D50071EF2A /* cities.json */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -305,6 +314,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E3789C41CDB2D590067C3D3 /* Info.plist in Resources */,
+				1E8B12E31CDC38D50071EF2A /* cities.json in Resources */,
 				1E3789C31CDB2D590067C3D3 /* Main.storyboard in Resources */,
 				1E3789C11CDB2D590067C3D3 /* Assets.xcassets in Resources */,
 				1E3789C21CDB2D590067C3D3 /* LaunchScreen.storyboard in Resources */,
@@ -332,16 +342,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1E3789C61CDB2D590067C3D3 /* ViewController.m in Sources */,
-				1E3789D61CDB35530067C3D3 /* RowDataB.m in Sources */,
-				1E3789CD1CDB34300067C3D3 /* DemoCellA.m in Sources */,
-				1E3789D01CDB34410067C3D3 /* DemoCellB.m in Sources */,
+				1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */,
 				1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */,
+				1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */,
 				1E3789C51CDB2D590067C3D3 /* main.m in Sources */,
-				1E3789D31CDB35460067C3D3 /* RowDataA.m in Sources */,
 				1E3789C01CDB2D590067C3D3 /* AppDelegate.m in Sources */,
 				1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */,
 				1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */,
+				1E8B12E61CDC49780071EF2A /* UITableViewCell+Simple.m in Sources */,
 				1E008FF81CDB8CED00DA179F /* XTUTProxy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
