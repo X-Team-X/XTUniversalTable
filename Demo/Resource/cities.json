@@ -1,35 +1,4811 @@
 {
-  "A": [
-    {
-      "name": "安庆"
-    },
-    {
-      "name": "安康"
-    },
-    {
-      "name": "安阳"
-    }
-  ],
   "B": [
     {
-      "name": "北京"
+      "section": "B",
+      "name": "北京",
+      "zip": "010"
     },
     {
-      "name": "宝鸡"
+      "section": "B",
+      "name": "白城",
+      "zip": "0436"
     },
     {
-      "name": "白城"
+      "section": "B",
+      "name": "百色",
+      "zip": "0776"
+    },
+    {
+      "section": "B",
+      "name": "白山",
+      "zip": "0439"
+    },
+    {
+      "section": "B",
+      "name": "白银",
+      "zip": "0943"
+    },
+    {
+      "section": "B",
+      "name": "蚌埠",
+      "zip": "0552"
+    },
+    {
+      "section": "B",
+      "name": "保定",
+      "zip": "0312"
+    },
+    {
+      "section": "B",
+      "name": "宝鸡",
+      "zip": "0917"
+    },
+    {
+      "section": "B",
+      "name": "保山",
+      "zip": "0875"
+    },
+    {
+      "section": "B",
+      "name": "包头",
+      "zip": "0472"
+    },
+    {
+      "section": "B",
+      "name": "巴彦淖尔",
+      "zip": "0478"
+    },
+    {
+      "section": "B",
+      "name": "巴音郭楞",
+      "zip": "0996"
+    },
+    {
+      "section": "B",
+      "name": "巴中",
+      "zip": "0827"
+    },
+    {
+      "section": "B",
+      "name": "北海",
+      "zip": "0779"
+    },
+    {
+      "section": "B",
+      "name": "本溪",
+      "zip": "0414"
+    },
+    {
+      "section": "B",
+      "name": "毕节",
+      "zip": "0857"
+    },
+    {
+      "section": "B",
+      "name": "滨州",
+      "zip": "0543"
+    },
+    {
+      "section": "B",
+      "name": "博尔塔拉",
+      "zip": "0909"
+    },
+    {
+      "section": "B",
+      "name": "亳州",
+      "zip": "0558"
+    },
+    {
+      "section": "B",
+      "name": "宝应",
+      "zip": "0514"
+    },
+    {
+      "section": "B",
+      "name": "巴彦",
+      "zip": "0451"
+    },
+    {
+      "section": "B",
+      "name": "滨海",
+      "zip": "0515"
+    },
+    {
+      "section": "B",
+      "name": "宾县",
+      "zip": "0451"
+    },
+    {
+      "section": "B",
+      "name": "宾阳",
+      "zip": "0771"
+    },
+    {
+      "section": "B",
+      "name": "璧山",
+      "zip": "023"
+    },
+    {
+      "section": "B",
+      "name": "博爱",
+      "zip": "0391"
+    },
+    {
+      "section": "B",
+      "name": "博罗",
+      "zip": "0752"
+    },
+    {
+      "section": "B",
+      "name": "博兴",
+      "zip": "0543"
     }
   ],
   "C": [
     {
-      "name": "成都"
+      "section": "C",
+      "name": "重庆",
+      "zip": "023"
     },
     {
-      "name": "赤峰"
+      "section": "C",
+      "name": "长春",
+      "zip": "0431"
     },
     {
-      "name": "长春"
+      "section": "C",
+      "name": "长沙",
+      "zip": "0731"
+    },
+    {
+      "section": "C",
+      "name": "常州",
+      "zip": "0519"
+    },
+    {
+      "section": "C",
+      "name": "成都",
+      "zip": "028"
+    },
+    {
+      "section": "C",
+      "name": "沧州",
+      "zip": "0317"
+    },
+    {
+      "section": "C",
+      "name": "常德",
+      "zip": "0736"
+    },
+    {
+      "section": "C",
+      "name": "昌都",
+      "zip": "0895"
+    },
+    {
+      "section": "C",
+      "name": "昌吉",
+      "zip": "0997"
+    },
+    {
+      "section": "C",
+      "name": "长治",
+      "zip": "0355"
+    },
+    {
+      "section": "C",
+      "name": "巢湖",
+      "zip": "0565"
+    },
+    {
+      "section": "C",
+      "name": "朝阳",
+      "zip": "0421"
+    },
+    {
+      "section": "C",
+      "name": "潮州",
+      "zip": "0768"
+    },
+    {
+      "section": "C",
+      "name": "承德",
+      "zip": "0314"
+    },
+    {
+      "section": "C",
+      "name": "郴州",
+      "zip": "0735"
+    },
+    {
+      "section": "C",
+      "name": "赤峰",
+      "zip": "0476"
+    },
+    {
+      "section": "C",
+      "name": "池州",
+      "zip": "0566"
+    },
+    {
+      "section": "C",
+      "name": "崇左",
+      "zip": "0771"
+    },
+    {
+      "section": "C",
+      "name": "楚雄",
+      "zip": "0875"
+    },
+    {
+      "section": "C",
+      "name": "滁州",
+      "zip": "0550"
+    },
+    {
+      "section": "C",
+      "name": "苍南",
+      "zip": "0577"
+    },
+    {
+      "section": "C",
+      "name": "苍山",
+      "zip": "0539"
+    },
+    {
+      "section": "C",
+      "name": "曹县",
+      "zip": "0530"
+    },
+    {
+      "section": "C",
+      "name": "长岛",
+      "zip": "0535"
+    },
+    {
+      "section": "C",
+      "name": "长丰",
+      "zip": "0551"
+    },
+    {
+      "section": "C",
+      "name": "长海",
+      "zip": "0411"
+    },
+    {
+      "section": "C",
+      "name": "长乐",
+      "zip": "0591"
+    },
+    {
+      "section": "C",
+      "name": "昌乐",
+      "zip": "0536"
+    },
+    {
+      "section": "C",
+      "name": "常山",
+      "zip": "0570"
+    },
+    {
+      "section": "C",
+      "name": "常熟",
+      "zip": "0512"
+    },
+    {
+      "section": "C",
+      "name": "长泰",
+      "zip": "0596"
+    },
+    {
+      "section": "C",
+      "name": "长汀",
+      "zip": "0597"
+    },
+    {
+      "section": "C",
+      "name": "长兴",
+      "zip": "0572"
+    },
+    {
+      "section": "C",
+      "name": "昌邑",
+      "zip": "0536"
+    },
+    {
+      "section": "C",
+      "name": "潮安",
+      "zip": "0768"
+    },
+    {
+      "section": "C",
+      "name": "呈贡",
+      "zip": "0871"
+    },
+    {
+      "section": "C",
+      "name": "城口",
+      "zip": "023"
+    },
+    {
+      "section": "C",
+      "name": "成武",
+      "zip": "0530"
+    },
+    {
+      "section": "C",
+      "name": "茌平",
+      "zip": "0635"
+    },
+    {
+      "section": "C",
+      "name": "崇仁",
+      "zip": "0794"
+    },
+    {
+      "section": "C",
+      "name": "崇义",
+      "zip": "0797"
+    },
+    {
+      "section": "C",
+      "name": "崇州",
+      "zip": "028"
+    },
+    {
+      "section": "C",
+      "name": "淳安",
+      "zip": "0571"
+    },
+    {
+      "section": "C",
+      "name": "慈溪",
+      "zip": "0574"
+    },
+    {
+      "section": "C",
+      "name": "从化",
+      "zip": "020"
+    },
+    {
+      "section": "C",
+      "name": "枞阳",
+      "zip": "0556"
+    }
+  ],
+  "S": [
+    {
+      "section": "S",
+      "name": "上海",
+      "zip": "021"
+    },
+    {
+      "section": "S",
+      "name": "沈阳",
+      "zip": "024"
+    },
+    {
+      "section": "S",
+      "name": "深圳",
+      "zip": "0755"
+    },
+    {
+      "section": "S",
+      "name": "石家庄",
+      "zip": "0311"
+    },
+    {
+      "section": "S",
+      "name": "苏州",
+      "zip": "0512"
+    },
+    {
+      "section": "S",
+      "name": "三门峡",
+      "zip": "0398"
+    },
+    {
+      "section": "S",
+      "name": "三明",
+      "zip": "0598"
+    },
+    {
+      "section": "S",
+      "name": "三亚",
+      "zip": "0899"
+    },
+    {
+      "section": "S",
+      "name": "商洛",
+      "zip": "0914"
+    },
+    {
+      "section": "S",
+      "name": "商丘",
+      "zip": "0370"
+    },
+    {
+      "section": "S",
+      "name": "上饶",
+      "zip": "0793"
+    },
+    {
+      "section": "S",
+      "name": "山南",
+      "zip": "0893"
+    },
+    {
+      "section": "S",
+      "name": "汕头",
+      "zip": "0754"
+    },
+    {
+      "section": "S",
+      "name": "汕尾",
+      "zip": "0660"
+    },
+    {
+      "section": "S",
+      "name": "韶关",
+      "zip": "0751"
+    },
+    {
+      "section": "S",
+      "name": "绍兴",
+      "zip": "0575"
+    },
+    {
+      "section": "S",
+      "name": "邵阳",
+      "zip": "0739"
+    },
+    {
+      "section": "S",
+      "name": "十堰",
+      "zip": "0719"
+    },
+    {
+      "section": "S",
+      "name": "石嘴山",
+      "zip": "0952"
+    },
+    {
+      "section": "S",
+      "name": "双鸭山",
+      "zip": "0469"
+    },
+    {
+      "section": "S",
+      "name": "朔州",
+      "zip": "0349"
+    },
+    {
+      "section": "S",
+      "name": "四平",
+      "zip": "0434"
+    },
+    {
+      "section": "S",
+      "name": "松原",
+      "zip": "0438"
+    },
+    {
+      "section": "S",
+      "name": "绥化",
+      "zip": "0455"
+    },
+    {
+      "section": "S",
+      "name": "遂宁",
+      "zip": "0825"
+    },
+    {
+      "section": "S",
+      "name": "随州",
+      "zip": "0722"
+    },
+    {
+      "section": "S",
+      "name": "宿迁",
+      "zip": "0527"
+    },
+    {
+      "section": "S",
+      "name": "宿州",
+      "zip": "0557"
+    },
+    {
+      "section": "S",
+      "name": "三江",
+      "zip": "0772"
+    },
+    {
+      "section": "S",
+      "name": "三门",
+      "zip": "0576"
+    },
+    {
+      "section": "S",
+      "name": "诏安",
+      "zip": "0596"
+    },
+    {
+      "section": "S",
+      "name": "上高",
+      "zip": "0795"
+    },
+    {
+      "section": "S",
+      "name": "上杭",
+      "zip": "0597"
+    },
+    {
+      "section": "S",
+      "name": "商河",
+      "zip": "0531"
+    },
+    {
+      "section": "S",
+      "name": "上栗",
+      "zip": "0799"
+    },
+    {
+      "section": "S",
+      "name": "上林",
+      "zip": "0771"
+    },
+    {
+      "section": "S",
+      "name": "上饶",
+      "zip": "0793"
+    },
+    {
+      "section": "S",
+      "name": "上犹",
+      "zip": "0797"
+    },
+    {
+      "section": "S",
+      "name": "上虞",
+      "zip": "0575"
+    },
+    {
+      "section": "S",
+      "name": "尚志",
+      "zip": "0451"
+    },
+    {
+      "section": "S",
+      "name": "邵武",
+      "zip": "0599"
+    },
+    {
+      "section": "S",
+      "name": "绍兴",
+      "zip": "0575"
+    },
+    {
+      "section": "S",
+      "name": "沙县",
+      "zip": "0598"
+    },
+    {
+      "section": "S",
+      "name": "嵊泗",
+      "zip": "0580"
+    },
+    {
+      "section": "S",
+      "name": "嵊州",
+      "zip": "0575"
+    },
+    {
+      "section": "S",
+      "name": "莘县",
+      "zip": "0635"
+    },
+    {
+      "section": "S",
+      "name": "深泽",
+      "zip": "0311"
+    },
+    {
+      "section": "S",
+      "name": "歙县",
+      "zip": "0559"
+    },
+    {
+      "section": "S",
+      "name": "射阳",
+      "zip": "0515"
+    },
+    {
+      "section": "S",
+      "name": "石城",
+      "zip": "0797"
+    },
+    {
+      "section": "S",
+      "name": "石林",
+      "zip": "0871"
+    },
+    {
+      "section": "S",
+      "name": "石狮",
+      "zip": "0595"
+    },
+    {
+      "section": "S",
+      "name": "石台",
+      "zip": "0566"
+    },
+    {
+      "section": "S",
+      "name": "始兴",
+      "zip": "0751"
+    },
+    {
+      "section": "S",
+      "name": "石柱",
+      "zip": "023"
+    },
+    {
+      "section": "S",
+      "name": "寿光",
+      "zip": "0536"
+    },
+    {
+      "section": "S",
+      "name": "寿宁",
+      "zip": "0593"
+    },
+    {
+      "section": "S",
+      "name": "寿县",
+      "zip": "0564"
+    },
+    {
+      "section": "S",
+      "name": "双城",
+      "zip": "0451"
+    },
+    {
+      "section": "S",
+      "name": "双流",
+      "zip": "028"
+    },
+    {
+      "section": "S",
+      "name": "舒城",
+      "zip": "0564"
+    },
+    {
+      "section": "S",
+      "name": "舒兰",
+      "zip": "0423"
+    },
+    {
+      "section": "S",
+      "name": "顺昌",
+      "zip": "0599"
+    },
+    {
+      "section": "S",
+      "name": "沭阳",
+      "zip": "0527"
+    },
+    {
+      "section": "S",
+      "name": "泗洪",
+      "zip": "0527"
+    },
+    {
+      "section": "S",
+      "name": "四会",
+      "zip": "0758"
+    },
+    {
+      "section": "S",
+      "name": "泗水",
+      "zip": "0537"
+    },
+    {
+      "section": "S",
+      "name": "泗县",
+      "zip": "0557"
+    },
+    {
+      "section": "S",
+      "name": "泗阳",
+      "zip": "0527"
+    },
+    {
+      "section": "S",
+      "name": "嵩明",
+      "zip": "0871"
+    },
+    {
+      "section": "S",
+      "name": "松溪",
+      "zip": "0599"
+    },
+    {
+      "section": "S",
+      "name": "嵩县",
+      "zip": "0379"
+    },
+    {
+      "section": "S",
+      "name": "松阳",
+      "zip": "0578"
+    },
+    {
+      "section": "S",
+      "name": "遂昌",
+      "zip": "0578"
+    },
+    {
+      "section": "S",
+      "name": "遂川",
+      "zip": "0796"
+    },
+    {
+      "section": "S",
+      "name": "睢宁",
+      "zip": "0516"
+    },
+    {
+      "section": "S",
+      "name": "濉溪",
+      "zip": "0561"
+    },
+    {
+      "section": "S",
+      "name": "遂溪",
+      "zip": "0759"
+    },
+    {
+      "section": "S",
+      "name": "宿松",
+      "zip": "0556"
+    },
+    {
+      "section": "S",
+      "name": "宿豫",
+      "zip": "0527"
+    }
+  ],
+  "T": [
+    {
+      "section": "T",
+      "name": "天津",
+      "zip": "022"
+    },
+    {
+      "section": "T",
+      "name": "台州",
+      "zip": "0576"
+    },
+    {
+      "section": "T",
+      "name": "唐山",
+      "zip": "0315"
+    },
+    {
+      "section": "T",
+      "name": "塔城地",
+      "zip": "0901"
+    },
+    {
+      "section": "T",
+      "name": "泰安",
+      "zip": "0538"
+    },
+    {
+      "section": "T",
+      "name": "太原",
+      "zip": "0351"
+    },
+    {
+      "section": "T",
+      "name": "泰州",
+      "zip": "0523"
+    },
+    {
+      "section": "T",
+      "name": "天水",
+      "zip": "0938"
+    },
+    {
+      "section": "T",
+      "name": "铁岭",
+      "zip": "0410"
+    },
+    {
+      "section": "T",
+      "name": "铜川",
+      "zip": "0919"
+    },
+    {
+      "section": "T",
+      "name": "通化",
+      "zip": "0435"
+    },
+    {
+      "section": "T",
+      "name": "通辽",
+      "zip": "0475"
+    },
+    {
+      "section": "T",
+      "name": "铜陵",
+      "zip": "0562"
+    },
+    {
+      "section": "T",
+      "name": "铜仁",
+      "zip": "0856"
+    },
+    {
+      "section": "T",
+      "name": "吐鲁番",
+      "zip": "0995"
+    },
+    {
+      "section": "T",
+      "name": "太仓",
+      "zip": "0512"
+    },
+    {
+      "section": "T",
+      "name": "太和",
+      "zip": "0558"
+    },
+    {
+      "section": "T",
+      "name": "泰和",
+      "zip": "0796"
+    },
+    {
+      "section": "T",
+      "name": "太湖",
+      "zip": "0556"
+    },
+    {
+      "section": "T",
+      "name": "泰宁",
+      "zip": "0598"
+    },
+    {
+      "section": "T",
+      "name": "台山",
+      "zip": "0750"
+    },
+    {
+      "section": "T",
+      "name": "泰顺",
+      "zip": "0577"
+    },
+    {
+      "section": "T",
+      "name": "泰兴",
+      "zip": "0523"
+    },
+    {
+      "section": "T",
+      "name": "郯城",
+      "zip": "0539"
+    },
+    {
+      "section": "T",
+      "name": "唐海",
+      "zip": "0315"
+    },
+    {
+      "section": "T",
+      "name": "滕州",
+      "zip": "0623"
+    },
+    {
+      "section": "T",
+      "name": "天长",
+      "zip": "0550"
+    },
+    {
+      "section": "T",
+      "name": "天台",
+      "zip": "0576"
+    },
+    {
+      "section": "T",
+      "name": "桐城",
+      "zip": "0556"
+    },
+    {
+      "section": "T",
+      "name": "铜鼓",
+      "zip": "0795"
+    },
+    {
+      "section": "T",
+      "name": "通河",
+      "zip": "0451"
+    },
+    {
+      "section": "T",
+      "name": "铜梁",
+      "zip": "023"
+    },
+    {
+      "section": "T",
+      "name": "铜陵",
+      "zip": "0562"
+    },
+    {
+      "section": "T",
+      "name": "桐庐",
+      "zip": "0571"
+    },
+    {
+      "section": "T",
+      "name": "潼南",
+      "zip": "023"
+    },
+    {
+      "section": "T",
+      "name": "铜山",
+      "zip": "0516"
+    },
+    {
+      "section": "T",
+      "name": "桐乡",
+      "zip": "0573"
+    },
+    {
+      "section": "T",
+      "name": "通州",
+      "zip": "0513"
+    }
+  ],
+  "D": [
+    {
+      "section": "D",
+      "name": "大连",
+      "zip": "0411"
+    },
+    {
+      "section": "D",
+      "name": "东莞",
+      "zip": "0769"
+    },
+    {
+      "section": "D",
+      "name": "大理",
+      "zip": "0872"
+    },
+    {
+      "section": "D",
+      "name": "丹东",
+      "zip": "0415"
+    },
+    {
+      "section": "D",
+      "name": "大庆",
+      "zip": "0459"
+    },
+    {
+      "section": "D",
+      "name": "大同",
+      "zip": "0352"
+    },
+    {
+      "section": "D",
+      "name": "大兴安岭",
+      "zip": "0457"
+    },
+    {
+      "section": "D",
+      "name": "达州",
+      "zip": "0818"
+    },
+    {
+      "section": "D",
+      "name": "德宏",
+      "zip": "0692"
+    },
+    {
+      "section": "D",
+      "name": "德阳",
+      "zip": "0838"
+    },
+    {
+      "section": "D",
+      "name": "德州",
+      "zip": "0534"
+    },
+    {
+      "section": "D",
+      "name": "定西",
+      "zip": "0932"
+    },
+    {
+      "section": "D",
+      "name": "迪庆",
+      "zip": "0887"
+    },
+    {
+      "section": "D",
+      "name": "东营",
+      "zip": "0546"
+    },
+    {
+      "section": "D",
+      "name": "大丰",
+      "zip": "0515"
+    },
+    {
+      "section": "D",
+      "name": "岱山",
+      "zip": "0580"
+    },
+    {
+      "section": "D",
+      "name": "砀山",
+      "zip": "0557"
+    },
+    {
+      "section": "D",
+      "name": "当涂",
+      "zip": "0555"
+    },
+    {
+      "section": "D",
+      "name": "单县",
+      "zip": "0530"
+    },
+    {
+      "section": "D",
+      "name": "丹阳",
+      "zip": "0511"
+    },
+    {
+      "section": "D",
+      "name": "大埔",
+      "zip": "0753"
+    },
+    {
+      "section": "D",
+      "name": "大田",
+      "zip": "0598"
+    },
+    {
+      "section": "D",
+      "name": "大邑",
+      "zip": "028"
+    },
+    {
+      "section": "D",
+      "name": "大余",
+      "zip": "0797"
+    },
+    {
+      "section": "D",
+      "name": "大足",
+      "zip": "023"
+    },
+    {
+      "section": "D",
+      "name": "德安",
+      "zip": "0792"
+    },
+    {
+      "section": "D",
+      "name": "德化",
+      "zip": "0595"
+    },
+    {
+      "section": "D",
+      "name": "德惠",
+      "zip": "0431"
+    },
+    {
+      "section": "D",
+      "name": "登封",
+      "zip": "0371"
+    },
+    {
+      "section": "D",
+      "name": "德清",
+      "zip": "0572"
+    },
+    {
+      "section": "D",
+      "name": "德庆",
+      "zip": "0758"
+    },
+    {
+      "section": "D",
+      "name": "德兴",
+      "zip": "0793"
+    },
+    {
+      "section": "D",
+      "name": "电白",
+      "zip": "0668"
+    },
+    {
+      "section": "D",
+      "name": "垫江",
+      "zip": "023"
+    },
+    {
+      "section": "D",
+      "name": "定南",
+      "zip": "0797"
+    },
+    {
+      "section": "D",
+      "name": "定陶",
+      "zip": "0530"
+    },
+    {
+      "section": "D",
+      "name": "定远",
+      "zip": "0550"
+    },
+    {
+      "section": "D",
+      "name": "东阿",
+      "zip": "0635"
+    },
+    {
+      "section": "D",
+      "name": "东海",
+      "zip": "0518"
+    },
+    {
+      "section": "D",
+      "name": "东明",
+      "zip": "0530"
+    },
+    {
+      "section": "D",
+      "name": "东平",
+      "zip": "0538"
+    },
+    {
+      "section": "D",
+      "name": "东山",
+      "zip": "0596"
+    },
+    {
+      "section": "D",
+      "name": "东台",
+      "zip": "0515"
+    },
+    {
+      "section": "D",
+      "name": "洞头",
+      "zip": "0577"
+    },
+    {
+      "section": "D",
+      "name": "东乡",
+      "zip": "0794"
+    },
+    {
+      "section": "D",
+      "name": "东阳",
+      "zip": "0579"
+    },
+    {
+      "section": "D",
+      "name": "东源",
+      "zip": "0762"
+    },
+    {
+      "section": "D",
+      "name": "东至",
+      "zip": "0566"
+    },
+    {
+      "section": "D",
+      "name": "都昌",
+      "zip": "0792"
+    },
+    {
+      "section": "D",
+      "name": "都江堰",
+      "zip": "028"
+    }
+  ],
+  "F": [
+    {
+      "section": "F",
+      "name": "佛山",
+      "zip": "0757"
+    },
+    {
+      "section": "F",
+      "name": "福州",
+      "zip": "0591"
+    },
+    {
+      "section": "F",
+      "name": "防城港",
+      "zip": "0770"
+    },
+    {
+      "section": "F",
+      "name": "抚顺",
+      "zip": "0413"
+    },
+    {
+      "section": "F",
+      "name": "阜新",
+      "zip": "0418"
+    },
+    {
+      "section": "F",
+      "name": "阜阳",
+      "zip": "0558"
+    },
+    {
+      "section": "F",
+      "name": "抚州",
+      "zip": "0794"
+    },
+    {
+      "section": "F",
+      "name": "法库",
+      "zip": "024"
+    },
+    {
+      "section": "F",
+      "name": "繁昌",
+      "zip": "0553"
+    },
+    {
+      "section": "F",
+      "name": "方正",
+      "zip": "0451"
+    },
+    {
+      "section": "F",
+      "name": "肥城",
+      "zip": "0538"
+    },
+    {
+      "section": "F",
+      "name": "肥东",
+      "zip": "0551"
+    },
+    {
+      "section": "F",
+      "name": "肥西",
+      "zip": "0551"
+    },
+    {
+      "section": "F",
+      "name": "费县",
+      "zip": "0539"
+    },
+    {
+      "section": "F",
+      "name": "丰城",
+      "zip": "0795"
+    },
+    {
+      "section": "F",
+      "name": "丰都",
+      "zip": "023"
+    },
+    {
+      "section": "F",
+      "name": "奉化",
+      "zip": "0574"
+    },
+    {
+      "section": "F",
+      "name": "奉节",
+      "zip": "023"
+    },
+    {
+      "section": "F",
+      "name": "封开",
+      "zip": "0758"
+    },
+    {
+      "section": "F",
+      "name": "丰顺",
+      "zip": "0753"
+    },
+    {
+      "section": "F",
+      "name": "凤台",
+      "zip": "0554"
+    },
+    {
+      "section": "F",
+      "name": "丰县",
+      "zip": "0516"
+    },
+    {
+      "section": "F",
+      "name": "奉新",
+      "zip": "0795"
+    },
+    {
+      "section": "F",
+      "name": "凤阳",
+      "zip": "0550"
+    },
+    {
+      "section": "F",
+      "name": "分宜",
+      "zip": "0790"
+    },
+    {
+      "section": "F",
+      "name": "佛冈",
+      "zip": "0763"
+    },
+    {
+      "section": "F",
+      "name": "福安",
+      "zip": "0593"
+    },
+    {
+      "section": "F",
+      "name": "福鼎",
+      "zip": "0593"
+    },
+    {
+      "section": "F",
+      "name": "浮梁",
+      "zip": "0798"
+    },
+    {
+      "section": "F",
+      "name": "富民",
+      "zip": "0871"
+    },
+    {
+      "section": "F",
+      "name": "阜南",
+      "zip": "0558"
+    },
+    {
+      "section": "F",
+      "name": "阜宁",
+      "zip": "0515"
+    },
+    {
+      "section": "F",
+      "name": "福清",
+      "zip": "0591"
+    },
+    {
+      "section": "F",
+      "name": "富阳",
+      "zip": "0571"
+    }
+  ],
+  "G": [
+    {
+      "section": "G",
+      "name": "广州",
+      "zip": "020"
+    },
+    {
+      "section": "G",
+      "name": "贵阳",
+      "zip": "0851"
+    },
+    {
+      "section": "G",
+      "name": "甘南",
+      "zip": "0941"
+    },
+    {
+      "section": "G",
+      "name": "赣州",
+      "zip": "0797"
+    },
+    {
+      "section": "G",
+      "name": "甘孜",
+      "zip": "0836"
+    },
+    {
+      "section": "G",
+      "name": "广安",
+      "zip": "0826"
+    },
+    {
+      "section": "G",
+      "name": "广元",
+      "zip": "0839"
+    },
+    {
+      "section": "G",
+      "name": "贵港",
+      "zip": "0775"
+    },
+    {
+      "section": "G",
+      "name": "桂林",
+      "zip": "0773"
+    },
+    {
+      "section": "G",
+      "name": "果洛",
+      "zip": "0975"
+    },
+    {
+      "section": "G",
+      "name": "固原",
+      "zip": "0954"
+    },
+    {
+      "section": "G",
+      "name": "赣县",
+      "zip": "0797"
+    },
+    {
+      "section": "G",
+      "name": "赣榆",
+      "zip": "0518"
+    },
+    {
+      "section": "G",
+      "name": "高安",
+      "zip": "0795"
+    },
+    {
+      "section": "G",
+      "name": "藁城",
+      "zip": "0311"
+    },
+    {
+      "section": "G",
+      "name": "高淳",
+      "zip": "025"
+    },
+    {
+      "section": "G",
+      "name": "皋兰",
+      "zip": "0931"
+    },
+    {
+      "section": "G",
+      "name": "高陵",
+      "zip": "029"
+    },
+    {
+      "section": "G",
+      "name": "高密",
+      "zip": "0536"
+    },
+    {
+      "section": "G",
+      "name": "高青",
+      "zip": "0533"
+    },
+    {
+      "section": "G",
+      "name": "高唐",
+      "zip": "0635"
+    },
+    {
+      "section": "G",
+      "name": "高要",
+      "zip": "0758"
+    },
+    {
+      "section": "G",
+      "name": "高邑",
+      "zip": "0311"
+    },
+    {
+      "section": "G",
+      "name": "高邮",
+      "zip": "0514"
+    },
+    {
+      "section": "G",
+      "name": "高州",
+      "zip": "0668"
+    },
+    {
+      "section": "G",
+      "name": "巩义",
+      "zip": "0371"
+    },
+    {
+      "section": "G",
+      "name": "广昌",
+      "zip": "0794"
+    },
+    {
+      "section": "G",
+      "name": "广德",
+      "zip": "0563"
+    },
+    {
+      "section": "G",
+      "name": "广丰",
+      "zip": "0793"
+    },
+    {
+      "section": "G",
+      "name": "广宁",
+      "zip": "0758"
+    },
+    {
+      "section": "G",
+      "name": "广饶",
+      "zip": "0546"
+    },
+    {
+      "section": "G",
+      "name": "光泽",
+      "zip": "0599"
+    },
+    {
+      "section": "G",
+      "name": "灌南",
+      "zip": "0518"
+    },
+    {
+      "section": "G",
+      "name": "冠县",
+      "zip": "0635"
+    },
+    {
+      "section": "G",
+      "name": "灌云",
+      "zip": "0518"
+    },
+    {
+      "section": "G",
+      "name": "贵溪",
+      "zip": "0701"
+    },
+    {
+      "section": "G",
+      "name": "古田",
+      "zip": "0593"
+    },
+    {
+      "section": "G",
+      "name": "固镇",
+      "zip": "0552"
+    }
+  ],
+  "H": [
+    {
+      "section": "H",
+      "name": "哈尔滨",
+      "zip": "0451"
+    },
+    {
+      "section": "H",
+      "name": "海口",
+      "zip": "0898"
+    },
+    {
+      "section": "H",
+      "name": "邯郸",
+      "zip": "0310"
+    },
+    {
+      "section": "H",
+      "name": "杭州",
+      "zip": "0571"
+    },
+    {
+      "section": "H",
+      "name": "合肥",
+      "zip": "0551"
+    },
+    {
+      "section": "H",
+      "name": "惠州",
+      "zip": "0752"
+    },
+    {
+      "section": "H",
+      "name": "海北",
+      "zip": "0970"
+    },
+    {
+      "section": "H",
+      "name": "海东",
+      "zip": "0972"
+    },
+    {
+      "section": "H",
+      "name": "海南",
+      "zip": "0974"
+    },
+    {
+      "section": "H",
+      "name": "海西",
+      "zip": "0977"
+    },
+    {
+      "section": "H",
+      "name": "哈密",
+      "zip": "0902"
+    },
+    {
+      "section": "H",
+      "name": "汉中",
+      "zip": "0916"
+    },
+    {
+      "section": "H",
+      "name": "鹤壁",
+      "zip": "0392"
+    },
+    {
+      "section": "H",
+      "name": "河池",
+      "zip": "0778"
+    },
+    {
+      "section": "H",
+      "name": "鹤岗",
+      "zip": "0468"
+    },
+    {
+      "section": "H",
+      "name": "黑河",
+      "zip": "0456"
+    },
+    {
+      "section": "H",
+      "name": "衡水",
+      "zip": "0318"
+    },
+    {
+      "section": "H",
+      "name": "衡阳",
+      "zip": "0734"
+    },
+    {
+      "section": "H",
+      "name": "和田地",
+      "zip": "0903"
+    },
+    {
+      "section": "H",
+      "name": "河源",
+      "zip": "0762"
+    },
+    {
+      "section": "H",
+      "name": "菏泽",
+      "zip": "0530"
+    },
+    {
+      "section": "H",
+      "name": "贺州",
+      "zip": "0774"
+    },
+    {
+      "section": "H",
+      "name": "红河",
+      "zip": "0873"
+    },
+    {
+      "section": "H",
+      "name": "淮安",
+      "zip": "0517"
+    },
+    {
+      "section": "H",
+      "name": "淮北",
+      "zip": "0561"
+    },
+    {
+      "section": "H",
+      "name": "怀化",
+      "zip": "0745"
+    },
+    {
+      "section": "H",
+      "name": "淮南",
+      "zip": "0554"
+    },
+    {
+      "section": "H",
+      "name": "黄冈",
+      "zip": "0713"
+    },
+    {
+      "section": "H",
+      "name": "黄南",
+      "zip": "0973"
+    },
+    {
+      "section": "H",
+      "name": "黄山",
+      "zip": "0559"
+    },
+    {
+      "section": "H",
+      "name": "黄石",
+      "zip": "0714"
+    },
+    {
+      "section": "H",
+      "name": "呼和浩特",
+      "zip": "0471"
+    },
+    {
+      "section": "H",
+      "name": "葫芦岛",
+      "zip": "0429"
+    },
+    {
+      "section": "H",
+      "name": "呼伦贝尔",
+      "zip": "0470"
+    },
+    {
+      "section": "H",
+      "name": "湖州",
+      "zip": "0572"
+    },
+    {
+      "section": "H",
+      "name": "海安",
+      "zip": "0513"
+    },
+    {
+      "section": "H",
+      "name": "海丰",
+      "zip": "0660"
+    },
+    {
+      "section": "H",
+      "name": "海门",
+      "zip": "0513"
+    },
+    {
+      "section": "H",
+      "name": "海宁",
+      "zip": "0573"
+    },
+    {
+      "section": "H",
+      "name": "海盐",
+      "zip": "0573"
+    },
+    {
+      "section": "H",
+      "name": "海阳",
+      "zip": "0535"
+    },
+    {
+      "section": "H",
+      "name": "含山",
+      "zip": "0565"
+    },
+    {
+      "section": "H",
+      "name": "合川",
+      "zip": "023"
+    },
+    {
+      "section": "H",
+      "name": "横峰",
+      "zip": "0793"
+    },
+    {
+      "section": "H",
+      "name": "横县",
+      "zip": "0771"
+    },
+    {
+      "section": "H",
+      "name": "和平",
+      "zip": "0762"
+    },
+    {
+      "section": "H",
+      "name": "鹤山",
+      "zip": "0750"
+    },
+    {
+      "section": "H",
+      "name": "和县",
+      "zip": "0565"
+    },
+    {
+      "section": "H",
+      "name": "洪泽",
+      "zip": "0517"
+    },
+    {
+      "section": "H",
+      "name": "华安",
+      "zip": "0596"
+    },
+    {
+      "section": "H",
+      "name": "桦甸",
+      "zip": "0423"
+    },
+    {
+      "section": "H",
+      "name": "怀集",
+      "zip": "0758"
+    },
+    {
+      "section": "H",
+      "name": "怀宁",
+      "zip": "0556"
+    },
+    {
+      "section": "H",
+      "name": "怀远",
+      "zip": "0552"
+    },
+    {
+      "section": "H",
+      "name": "桓台",
+      "zip": "0533"
+    },
+    {
+      "section": "H",
+      "name": "化州",
+      "zip": "0668"
+    },
+    {
+      "section": "H",
+      "name": "惠安",
+      "zip": "0595"
+    },
+    {
+      "section": "H",
+      "name": "会昌",
+      "zip": "0797"
+    },
+    {
+      "section": "H",
+      "name": "惠东",
+      "zip": "0752"
+    },
+    {
+      "section": "H",
+      "name": "惠来",
+      "zip": "0663"
+    },
+    {
+      "section": "H",
+      "name": "惠民",
+      "zip": "0543"
+    },
+    {
+      "section": "H",
+      "name": "湖口",
+      "zip": "0792"
+    },
+    {
+      "section": "H",
+      "name": "呼兰",
+      "zip": "0451"
+    },
+    {
+      "section": "H",
+      "name": "霍邱",
+      "zip": "0564"
+    },
+    {
+      "section": "H",
+      "name": "霍山",
+      "zip": "0564"
+    },
+    {
+      "section": "H",
+      "name": "户县",
+      "zip": "029"
+    }
+  ],
+  "J": [
+    {
+      "section": "J",
+      "name": "焦作",
+      "zip": "0391"
+    },
+    {
+      "section": "J",
+      "name": "嘉兴",
+      "zip": "0573"
+    },
+    {
+      "section": "J",
+      "name": "吉林",
+      "zip": "0423"
+    },
+    {
+      "section": "J",
+      "name": "济南",
+      "zip": "0531"
+    },
+    {
+      "section": "J",
+      "name": "佳木斯",
+      "zip": "0454"
+    },
+    {
+      "section": "J",
+      "name": "江门",
+      "zip": "0750"
+    },
+    {
+      "section": "J",
+      "name": "吉安",
+      "zip": "0796"
+    },
+    {
+      "section": "J",
+      "name": "嘉峪关",
+      "zip": "0937"
+    },
+    {
+      "section": "J",
+      "name": "揭阳",
+      "zip": "0663"
+    },
+    {
+      "section": "J",
+      "name": "金昌",
+      "zip": "0935"
+    },
+    {
+      "section": "J",
+      "name": "晋城",
+      "zip": "0356"
+    },
+    {
+      "section": "J",
+      "name": "景德镇",
+      "zip": "0798"
+    },
+    {
+      "section": "J",
+      "name": "荆门",
+      "zip": "0724"
+    },
+    {
+      "section": "J",
+      "name": "荆州",
+      "zip": "0716"
+    },
+    {
+      "section": "J",
+      "name": "金华",
+      "zip": "0579"
+    },
+    {
+      "section": "J",
+      "name": "济宁",
+      "zip": "0537"
+    },
+    {
+      "section": "J",
+      "name": "晋中",
+      "zip": "0354"
+    },
+    {
+      "section": "J",
+      "name": "锦州",
+      "zip": "0416"
+    },
+    {
+      "section": "J",
+      "name": "九江",
+      "zip": "0792"
+    },
+    {
+      "section": "J",
+      "name": "酒泉",
+      "zip": "0937"
+    },
+    {
+      "section": "J",
+      "name": "鸡西",
+      "zip": "0467"
+    },
+    {
+      "section": "J",
+      "name": "建德",
+      "zip": "0571"
+    },
+    {
+      "section": "J",
+      "name": "江都",
+      "zip": "0514"
+    },
+    {
+      "section": "J",
+      "name": "江津",
+      "zip": "023"
+    },
+    {
+      "section": "J",
+      "name": "将乐",
+      "zip": "0598"
+    },
+    {
+      "section": "J",
+      "name": "江山",
+      "zip": "0570"
+    },
+    {
+      "section": "J",
+      "name": "姜堰",
+      "zip": "0523"
+    },
+    {
+      "section": "J",
+      "name": "江阴",
+      "zip": "0510"
+    },
+    {
+      "section": "J",
+      "name": "建湖",
+      "zip": "0515"
+    },
+    {
+      "section": "J",
+      "name": "建宁",
+      "zip": "0598"
+    },
+    {
+      "section": "J",
+      "name": "建瓯",
+      "zip": "0599"
+    },
+    {
+      "section": "J",
+      "name": "建阳",
+      "zip": "0599"
+    },
+    {
+      "section": "J",
+      "name": "吉安",
+      "zip": "0796"
+    },
+    {
+      "section": "J",
+      "name": "蛟河",
+      "zip": "0423"
+    },
+    {
+      "section": "J",
+      "name": "蕉岭",
+      "zip": "0753"
+    },
+    {
+      "section": "J",
+      "name": "胶南",
+      "zip": "0532"
+    },
+    {
+      "section": "J",
+      "name": "胶州",
+      "zip": "0532"
+    },
+    {
+      "section": "J",
+      "name": "嘉善",
+      "zip": "0573"
+    },
+    {
+      "section": "J",
+      "name": "嘉祥",
+      "zip": "0537"
+    },
+    {
+      "section": "J",
+      "name": "揭东",
+      "zip": "0663"
+    },
+    {
+      "section": "J",
+      "name": "界首",
+      "zip": "0558"
+    },
+    {
+      "section": "J",
+      "name": "揭西",
+      "zip": "0663"
+    },
+    {
+      "section": "J",
+      "name": "即墨",
+      "zip": "0532"
+    },
+    {
+      "section": "J",
+      "name": "靖安",
+      "zip": "0795"
+    },
+    {
+      "section": "J",
+      "name": "旌德",
+      "zip": "0563"
+    },
+    {
+      "section": "J",
+      "name": "井冈山",
+      "zip": "0796"
+    },
+    {
+      "section": "J",
+      "name": "靖江",
+      "zip": "0523"
+    },
+    {
+      "section": "J",
+      "name": "景宁",
+      "zip": "0578"
+    },
+    {
+      "section": "J",
+      "name": "泾县",
+      "zip": "0563"
+    },
+    {
+      "section": "J",
+      "name": "井陉",
+      "zip": "0311"
+    },
+    {
+      "section": "J",
+      "name": "金湖",
+      "zip": "0517"
+    },
+    {
+      "section": "J",
+      "name": "晋江",
+      "zip": "0595"
+    },
+    {
+      "section": "J",
+      "name": "金门",
+      "zip": "0595"
+    },
+    {
+      "section": "J",
+      "name": "晋宁",
+      "zip": "0871"
+    },
+    {
+      "section": "J",
+      "name": "金坛",
+      "zip": "0519"
+    },
+    {
+      "section": "J",
+      "name": "金堂",
+      "zip": "028"
+    },
+    {
+      "section": "J",
+      "name": "进贤",
+      "zip": "0791"
+    },
+    {
+      "section": "J",
+      "name": "金溪",
+      "zip": "0794"
+    },
+    {
+      "section": "J",
+      "name": "金乡",
+      "zip": "0537"
+    },
+    {
+      "section": "J",
+      "name": "缙云",
+      "zip": "0578"
+    },
+    {
+      "section": "J",
+      "name": "金寨",
+      "zip": "0564"
+    },
+    {
+      "section": "J",
+      "name": "晋州",
+      "zip": "0311"
+    },
+    {
+      "section": "J",
+      "name": "吉水",
+      "zip": "0796"
+    },
+    {
+      "section": "J",
+      "name": "九江",
+      "zip": "0792"
+    },
+    {
+      "section": "J",
+      "name": "九台",
+      "zip": "0431"
+    },
+    {
+      "section": "J",
+      "name": "绩溪",
+      "zip": "0563"
+    },
+    {
+      "section": "J",
+      "name": "济阳",
+      "zip": "0531"
+    },
+    {
+      "section": "J",
+      "name": "济源",
+      "zip": "0391"
+    },
+    {
+      "section": "J",
+      "name": "鄄城",
+      "zip": "0530"
+    },
+    {
+      "section": "J",
+      "name": "莒南",
+      "zip": "0539"
+    },
+    {
+      "section": "J",
+      "name": "句容",
+      "zip": "0511"
+    },
+    {
+      "section": "J",
+      "name": "莒县",
+      "zip": "0633"
+    },
+    {
+      "section": "J",
+      "name": "巨野",
+      "zip": "0530"
+    }
+  ],
+  "K": [
+    {
+      "section": "K",
+      "name": "昆明",
+      "zip": "0871"
+    },
+    {
+      "section": "K",
+      "name": "开封",
+      "zip": "0378"
+    },
+    {
+      "section": "K",
+      "name": "喀什地",
+      "zip": "0998"
+    },
+    {
+      "section": "K",
+      "name": "克拉玛依",
+      "zip": "0990"
+    },
+    {
+      "section": "K",
+      "name": "克孜勒",
+      "zip": "0908"
+    },
+    {
+      "section": "K",
+      "name": "开化",
+      "zip": "0570"
+    },
+    {
+      "section": "K",
+      "name": "开平",
+      "zip": "0750"
+    },
+    {
+      "section": "K",
+      "name": "开县",
+      "zip": "023"
+    },
+    {
+      "section": "K",
+      "name": "开阳",
+      "zip": "0851"
+    },
+    {
+      "section": "K",
+      "name": "康平",
+      "zip": "024"
+    },
+    {
+      "section": "K",
+      "name": "垦利",
+      "zip": "0546"
+    },
+    {
+      "section": "K",
+      "name": "昆山",
+      "zip": "0512"
+    }
+  ],
+  "L": [
+    {
+      "section": "L",
+      "name": "兰州",
+      "zip": "0931"
+    },
+    {
+      "section": "L",
+      "name": "柳州",
+      "zip": "0772"
+    },
+    {
+      "section": "L",
+      "name": "洛阳",
+      "zip": "0379"
+    },
+    {
+      "section": "L",
+      "name": "来宾",
+      "zip": "0772"
+    },
+    {
+      "section": "L",
+      "name": "莱芜",
+      "zip": "0634"
+    },
+    {
+      "section": "L",
+      "name": "廊坊",
+      "zip": "0316"
+    },
+    {
+      "section": "L",
+      "name": "拉萨",
+      "zip": "0891"
+    },
+    {
+      "section": "L",
+      "name": "乐山",
+      "zip": "0833"
+    },
+    {
+      "section": "L",
+      "name": "凉山",
+      "zip": "0834"
+    },
+    {
+      "section": "L",
+      "name": "连云港",
+      "zip": "0518"
+    },
+    {
+      "section": "L",
+      "name": "聊城",
+      "zip": "0635"
+    },
+    {
+      "section": "L",
+      "name": "辽阳",
+      "zip": "0419"
+    },
+    {
+      "section": "L",
+      "name": "辽源",
+      "zip": "0437"
+    },
+    {
+      "section": "L",
+      "name": "丽江",
+      "zip": "0888"
+    },
+    {
+      "section": "L",
+      "name": "临沧",
+      "zip": "0883"
+    },
+    {
+      "section": "L",
+      "name": "临汾",
+      "zip": "0357"
+    },
+    {
+      "section": "L",
+      "name": "临夏",
+      "zip": "0930"
+    },
+    {
+      "section": "L",
+      "name": "临沂",
+      "zip": "0539"
+    },
+    {
+      "section": "L",
+      "name": "林芝",
+      "zip": "0894"
+    },
+    {
+      "section": "L",
+      "name": "丽水",
+      "zip": "0578"
+    },
+    {
+      "section": "L",
+      "name": "六安",
+      "zip": "0564"
+    },
+    {
+      "section": "L",
+      "name": "六盘水",
+      "zip": "0858"
+    },
+    {
+      "section": "L",
+      "name": "陇南",
+      "zip": "0939"
+    },
+    {
+      "section": "L",
+      "name": "龙岩",
+      "zip": "0597"
+    },
+    {
+      "section": "L",
+      "name": "娄底",
+      "zip": "0738"
+    },
+    {
+      "section": "L",
+      "name": "漯河",
+      "zip": "0395"
+    },
+    {
+      "section": "L",
+      "name": "泸州",
+      "zip": "0830"
+    },
+    {
+      "section": "L",
+      "name": "吕梁",
+      "zip": "0358"
+    },
+    {
+      "section": "L",
+      "name": "来安",
+      "zip": "0550"
+    },
+    {
+      "section": "L",
+      "name": "莱西",
+      "zip": "0532"
+    },
+    {
+      "section": "L",
+      "name": "莱阳",
+      "zip": "0535"
+    },
+    {
+      "section": "L",
+      "name": "莱州",
+      "zip": "0535"
+    },
+    {
+      "section": "L",
+      "name": "郎溪",
+      "zip": "0563"
+    },
+    {
+      "section": "L",
+      "name": "蓝田",
+      "zip": "029"
+    },
+    {
+      "section": "L",
+      "name": "兰溪",
+      "zip": "0579"
+    },
+    {
+      "section": "L",
+      "name": "乐安",
+      "zip": "0794"
+    },
+    {
+      "section": "L",
+      "name": "乐昌",
+      "zip": "0751"
+    },
+    {
+      "section": "L",
+      "name": "雷州",
+      "zip": "0759"
+    },
+    {
+      "section": "L",
+      "name": "乐陵",
+      "zip": "0534"
+    },
+    {
+      "section": "L",
+      "name": "乐平",
+      "zip": "0798"
+    },
+    {
+      "section": "L",
+      "name": "乐清",
+      "zip": "0577"
+    },
+    {
+      "section": "L",
+      "name": "乐亭",
+      "zip": "0315"
+    },
+    {
+      "section": "L",
+      "name": "连城",
+      "zip": "0597"
+    },
+    {
+      "section": "L",
+      "name": "梁平",
+      "zip": "023"
+    },
+    {
+      "section": "L",
+      "name": "梁山",
+      "zip": "0537"
+    },
+    {
+      "section": "L",
+      "name": "莲花",
+      "zip": "0799"
+    },
+    {
+      "section": "L",
+      "name": "连江",
+      "zip": "0591"
+    },
+    {
+      "section": "L",
+      "name": "廉江",
+      "zip": "0759"
+    },
+    {
+      "section": "L",
+      "name": "连南",
+      "zip": "0763"
+    },
+    {
+      "section": "L",
+      "name": "连平",
+      "zip": "0762"
+    },
+    {
+      "section": "L",
+      "name": "连山",
+      "zip": "0763"
+    },
+    {
+      "section": "L",
+      "name": "涟水",
+      "zip": "0517"
+    },
+    {
+      "section": "L",
+      "name": "连州",
+      "zip": "0763"
+    },
+    {
+      "section": "L",
+      "name": "辽中",
+      "zip": "024"
+    },
+    {
+      "section": "L",
+      "name": "黎川",
+      "zip": "0794"
+    },
+    {
+      "section": "L",
+      "name": "利津",
+      "zip": "0546"
+    },
+    {
+      "section": "L",
+      "name": "临安",
+      "zip": "0571"
+    },
+    {
+      "section": "L",
+      "name": "灵璧",
+      "zip": "0557"
+    },
+    {
+      "section": "L",
+      "name": "灵寿",
+      "zip": "0311"
+    },
+    {
+      "section": "L",
+      "name": "陵县",
+      "zip": "0534"
+    },
+    {
+      "section": "L",
+      "name": "临海",
+      "zip": "0576"
+    },
+    {
+      "section": "L",
+      "name": "临清",
+      "zip": "0635"
+    },
+    {
+      "section": "L",
+      "name": "临泉",
+      "zip": "0558"
+    },
+    {
+      "section": "L",
+      "name": "临朐",
+      "zip": "0536"
+    },
+    {
+      "section": "L",
+      "name": "临沭",
+      "zip": "0539"
+    },
+    {
+      "section": "L",
+      "name": "临邑",
+      "zip": "0534"
+    },
+    {
+      "section": "L",
+      "name": "溧水",
+      "zip": "025"
+    },
+    {
+      "section": "L",
+      "name": "柳城",
+      "zip": "0772"
+    },
+    {
+      "section": "L",
+      "name": "柳江",
+      "zip": "0772"
+    },
+    {
+      "section": "L",
+      "name": "浏阳",
+      "zip": "0731"
+    },
+    {
+      "section": "L",
+      "name": "利辛",
+      "zip": "0558"
+    },
+    {
+      "section": "L",
+      "name": "溧阳",
+      "zip": "0519"
+    },
+    {
+      "section": "L",
+      "name": "隆安",
+      "zip": "0771"
+    },
+    {
+      "section": "L",
+      "name": "龙川",
+      "zip": "0762"
+    },
+    {
+      "section": "L",
+      "name": "龙海",
+      "zip": "0596"
+    },
+    {
+      "section": "L",
+      "name": "龙口",
+      "zip": "0535"
+    },
+    {
+      "section": "L",
+      "name": "龙门",
+      "zip": "0752"
+    },
+    {
+      "section": "L",
+      "name": "龙南",
+      "zip": "0797"
+    },
+    {
+      "section": "L",
+      "name": "龙泉",
+      "zip": "0578"
+    },
+    {
+      "section": "L",
+      "name": "龙游",
+      "zip": "0570"
+    },
+    {
+      "section": "L",
+      "name": "栾城",
+      "zip": "0311"
+    },
+    {
+      "section": "L",
+      "name": "栾川",
+      "zip": "0379"
+    },
+    {
+      "section": "L",
+      "name": "滦南",
+      "zip": "0315"
+    },
+    {
+      "section": "L",
+      "name": "滦县",
+      "zip": "0315"
+    },
+    {
+      "section": "L",
+      "name": "陆丰",
+      "zip": "0660"
+    },
+    {
+      "section": "L",
+      "name": "陆河",
+      "zip": "0660"
+    },
+    {
+      "section": "L",
+      "name": "庐江",
+      "zip": "0565"
+    },
+    {
+      "section": "L",
+      "name": "罗定",
+      "zip": "0766"
+    },
+    {
+      "section": "L",
+      "name": "洛宁",
+      "zip": "0379"
+    },
+    {
+      "section": "L",
+      "name": "罗源",
+      "zip": "0591"
+    },
+    {
+      "section": "L",
+      "name": "鹿泉",
+      "zip": "0311"
+    },
+    {
+      "section": "L",
+      "name": "禄劝",
+      "zip": "0871"
+    },
+    {
+      "section": "L",
+      "name": "芦溪",
+      "zip": "0799"
+    },
+    {
+      "section": "L",
+      "name": "鹿寨",
+      "zip": "0772"
+    }
+  ],
+  "N": [
+    {
+      "section": "N",
+      "name": "南昌",
+      "zip": "0791"
+    },
+    {
+      "section": "N",
+      "name": "南京",
+      "zip": "025"
+    },
+    {
+      "section": "N",
+      "name": "南宁",
+      "zip": "0771"
+    },
+    {
+      "section": "N",
+      "name": "南通",
+      "zip": "0513"
+    },
+    {
+      "section": "N",
+      "name": "宁波",
+      "zip": "0574"
+    },
+    {
+      "section": "N",
+      "name": "南充",
+      "zip": "0817"
+    },
+    {
+      "section": "N",
+      "name": "南平",
+      "zip": "0599"
+    },
+    {
+      "section": "N",
+      "name": "南阳",
+      "zip": "0377"
+    },
+    {
+      "section": "N",
+      "name": "那曲",
+      "zip": "0896"
+    },
+    {
+      "section": "N",
+      "name": "内江",
+      "zip": "0832"
+    },
+    {
+      "section": "N",
+      "name": "宁德",
+      "zip": "0593"
+    },
+    {
+      "section": "N",
+      "name": "怒江",
+      "zip": "0886"
+    },
+    {
+      "section": "N",
+      "name": "南安",
+      "zip": "0595"
+    },
+    {
+      "section": "N",
+      "name": "南澳",
+      "zip": "0754"
+    },
+    {
+      "section": "N",
+      "name": "南城",
+      "zip": "0794"
+    },
+    {
+      "section": "N",
+      "name": "南川",
+      "zip": "023"
+    },
+    {
+      "section": "N",
+      "name": "南丰",
+      "zip": "0794"
+    },
+    {
+      "section": "N",
+      "name": "南靖",
+      "zip": "0596"
+    },
+    {
+      "section": "N",
+      "name": "南康",
+      "zip": "0797"
+    },
+    {
+      "section": "N",
+      "name": "南陵",
+      "zip": "0553"
+    },
+    {
+      "section": "N",
+      "name": "南雄",
+      "zip": "0751"
+    },
+    {
+      "section": "N",
+      "name": "宁都",
+      "zip": "0797"
+    },
+    {
+      "section": "N",
+      "name": "宁国",
+      "zip": "0563"
+    },
+    {
+      "section": "N",
+      "name": "宁海",
+      "zip": "0574"
+    },
+    {
+      "section": "N",
+      "name": "宁化",
+      "zip": "0598"
+    },
+    {
+      "section": "N",
+      "name": "宁津",
+      "zip": "0534"
+    },
+    {
+      "section": "N",
+      "name": "宁乡",
+      "zip": "0731"
+    },
+    {
+      "section": "N",
+      "name": "宁阳",
+      "zip": "0538"
+    },
+    {
+      "section": "N",
+      "name": "农安",
+      "zip": "0431"
+    }
+  ],
+  "Q": [
+    {
+      "section": "Q",
+      "name": "青岛",
+      "zip": "0532"
+    },
+    {
+      "section": "Q",
+      "name": "泉州",
+      "zip": "0595"
+    },
+    {
+      "section": "Q",
+      "name": "黔东",
+      "zip": "0855"
+    },
+    {
+      "section": "Q",
+      "name": "黔南",
+      "zip": "0854"
+    },
+    {
+      "section": "Q",
+      "name": "黔西南",
+      "zip": "0859"
+    },
+    {
+      "section": "Q",
+      "name": "庆阳",
+      "zip": "0934"
+    },
+    {
+      "section": "Q",
+      "name": "清远",
+      "zip": "0763"
+    },
+    {
+      "section": "Q",
+      "name": "秦皇岛",
+      "zip": "0335"
+    },
+    {
+      "section": "Q",
+      "name": "钦州",
+      "zip": "0777"
+    },
+    {
+      "section": "Q",
+      "name": "齐齐哈尔",
+      "zip": "0452"
+    },
+    {
+      "section": "Q",
+      "name": "七台河",
+      "zip": "0464"
+    },
+    {
+      "section": "Q",
+      "name": "曲靖",
+      "zip": "0874"
+    },
+    {
+      "section": "Q",
+      "name": "衢州",
+      "zip": "0570"
+    },
+    {
+      "section": "Q",
+      "name": "迁安",
+      "zip": "0315"
+    },
+    {
+      "section": "Q",
+      "name": "潜山",
+      "zip": "0556"
+    },
+    {
+      "section": "Q",
+      "name": "铅山",
+      "zip": "0793"
+    },
+    {
+      "section": "Q",
+      "name": "迁西",
+      "zip": "0315"
+    },
+    {
+      "section": "Q",
+      "name": "启东",
+      "zip": "0513"
+    },
+    {
+      "section": "Q",
+      "name": "齐河",
+      "zip": "0534"
+    },
+    {
+      "section": "Q",
+      "name": "綦江",
+      "zip": "023"
+    },
+    {
+      "section": "Q",
+      "name": "祁门",
+      "zip": "0559"
+    },
+    {
+      "section": "Q",
+      "name": "清流",
+      "zip": "0598"
+    },
+    {
+      "section": "Q",
+      "name": "青田",
+      "zip": "0578"
+    },
+    {
+      "section": "Q",
+      "name": "清新",
+      "zip": "0763"
+    },
+    {
+      "section": "Q",
+      "name": "青阳",
+      "zip": "0566"
+    },
+    {
+      "section": "Q",
+      "name": "庆元",
+      "zip": "0578"
+    },
+    {
+      "section": "Q",
+      "name": "庆云",
+      "zip": "0534"
+    },
+    {
+      "section": "Q",
+      "name": "清镇",
+      "zip": "0851"
+    },
+    {
+      "section": "Q",
+      "name": "青州",
+      "zip": "0536"
+    },
+    {
+      "section": "Q",
+      "name": "沁阳",
+      "zip": "0391"
+    },
+    {
+      "section": "Q",
+      "name": "邛崃",
+      "zip": "028"
+    },
+    {
+      "section": "Q",
+      "name": "栖霞",
+      "zip": "0535"
+    },
+    {
+      "section": "Q",
+      "name": "全椒",
+      "zip": "0550"
+    },
+    {
+      "section": "Q",
+      "name": "全南",
+      "zip": "0797"
+    },
+    {
+      "section": "Q",
+      "name": "曲阜",
+      "zip": "0537"
+    },
+    {
+      "section": "Q",
+      "name": "曲江",
+      "zip": "0751"
+    }
+  ],
+  "W": [
+    {
+      "section": "W",
+      "name": "潍坊",
+      "zip": "0536"
+    },
+    {
+      "section": "W",
+      "name": "威海",
+      "zip": "0631"
+    },
+    {
+      "section": "W",
+      "name": "武汉",
+      "zip": "027"
+    },
+    {
+      "section": "W",
+      "name": "无锡",
+      "zip": "0510"
+    },
+    {
+      "section": "W",
+      "name": "渭南",
+      "zip": "0913"
+    },
+    {
+      "section": "W",
+      "name": "文山",
+      "zip": "0876"
+    },
+    {
+      "section": "W",
+      "name": "温州",
+      "zip": "0577"
+    },
+    {
+      "section": "W",
+      "name": "乌海",
+      "zip": "0473"
+    },
+    {
+      "section": "W",
+      "name": "芜湖",
+      "zip": "0553"
+    },
+    {
+      "section": "W",
+      "name": "乌兰察布",
+      "zip": "0474"
+    },
+    {
+      "section": "W",
+      "name": "乌鲁木齐",
+      "zip": "0991"
+    },
+    {
+      "section": "W",
+      "name": "武威",
+      "zip": "0935"
+    },
+    {
+      "section": "W",
+      "name": "吴忠",
+      "zip": "0953"
+    },
+    {
+      "section": "W",
+      "name": "梧州",
+      "zip": "0774"
+    },
+    {
+      "section": "W",
+      "name": "瓦房店",
+      "zip": "0411"
+    },
+    {
+      "section": "W",
+      "name": "万安",
+      "zip": "0796"
+    },
+    {
+      "section": "W",
+      "name": "望城",
+      "zip": "0731"
+    },
+    {
+      "section": "W",
+      "name": "望江",
+      "zip": "0556"
+    },
+    {
+      "section": "W",
+      "name": "万年",
+      "zip": "0793"
+    },
+    {
+      "section": "W",
+      "name": "万载",
+      "zip": "0795"
+    },
+    {
+      "section": "W",
+      "name": "微山",
+      "zip": "0537"
+    },
+    {
+      "section": "W",
+      "name": "文成",
+      "zip": "0577"
+    },
+    {
+      "section": "W",
+      "name": "文登",
+      "zip": "0631"
+    },
+    {
+      "section": "W",
+      "name": "翁源",
+      "zip": "0751"
+    },
+    {
+      "section": "W",
+      "name": "温岭",
+      "zip": "0576"
+    },
+    {
+      "section": "W",
+      "name": "汶上",
+      "zip": "0537"
+    },
+    {
+      "section": "W",
+      "name": "温县",
+      "zip": "0391"
+    },
+    {
+      "section": "W",
+      "name": "涡阳",
+      "zip": "0558"
+    },
+    {
+      "section": "W",
+      "name": "五常",
+      "zip": "0451"
+    },
+    {
+      "section": "W",
+      "name": "武城",
+      "zip": "0534"
+    },
+    {
+      "section": "W",
+      "name": "吴川",
+      "zip": "0759"
+    },
+    {
+      "section": "W",
+      "name": "无棣",
+      "zip": "0543"
+    },
+    {
+      "section": "W",
+      "name": "五河",
+      "zip": "0552"
+    },
+    {
+      "section": "W",
+      "name": "芜湖",
+      "zip": "0553"
+    },
+    {
+      "section": "W",
+      "name": "五华",
+      "zip": "0753"
+    },
+    {
+      "section": "W",
+      "name": "无极",
+      "zip": "0311"
+    },
+    {
+      "section": "W",
+      "name": "吴江",
+      "zip": "0512"
+    },
+    {
+      "section": "W",
+      "name": "五莲",
+      "zip": "0633"
+    },
+    {
+      "section": "W",
+      "name": "武隆",
+      "zip": "023"
+    },
+    {
+      "section": "W",
+      "name": "武鸣",
+      "zip": "0771"
+    },
+    {
+      "section": "W",
+      "name": "武宁",
+      "zip": "0792"
+    },
+    {
+      "section": "W",
+      "name": "武平",
+      "zip": "0597"
+    },
+    {
+      "section": "W",
+      "name": "巫山",
+      "zip": "023"
+    },
+    {
+      "section": "W",
+      "name": "无为",
+      "zip": "0565"
+    },
+    {
+      "section": "W",
+      "name": "巫溪",
+      "zip": "023"
+    },
+    {
+      "section": "W",
+      "name": "武义",
+      "zip": "0579"
+    },
+    {
+      "section": "W",
+      "name": "武夷山",
+      "zip": "0599"
+    },
+    {
+      "section": "W",
+      "name": "婺源",
+      "zip": "0793"
+    },
+    {
+      "section": "W",
+      "name": "武陟",
+      "zip": "0391"
+    }
+  ],
+  "X": [
+    {
+      "section": "X",
+      "name": "厦门",
+      "zip": "0592"
+    },
+    {
+      "section": "X",
+      "name": "西安",
+      "zip": "029"
+    },
+    {
+      "section": "X",
+      "name": "许昌",
+      "zip": "0374"
+    },
+    {
+      "section": "X",
+      "name": "徐州",
+      "zip": "0516"
+    },
+    {
+      "section": "X",
+      "name": "襄樊",
+      "zip": "0710"
+    },
+    {
+      "section": "X",
+      "name": "湘潭",
+      "zip": "0732"
+    },
+    {
+      "section": "X",
+      "name": "湘西",
+      "zip": "0743"
+    },
+    {
+      "section": "X",
+      "name": "咸宁",
+      "zip": "0715"
+    },
+    {
+      "section": "X",
+      "name": "咸阳",
+      "zip": "029"
+    },
+    {
+      "section": "X",
+      "name": "孝感",
+      "zip": "0712"
+    },
+    {
+      "section": "X",
+      "name": "锡林郭勒盟",
+      "zip": "0479"
+    },
+    {
+      "section": "X",
+      "name": "兴安盟",
+      "zip": "0482"
+    },
+    {
+      "section": "X",
+      "name": "邢台",
+      "zip": "0319"
+    },
+    {
+      "section": "X",
+      "name": "西宁",
+      "zip": "0971"
+    },
+    {
+      "section": "X",
+      "name": "新乡",
+      "zip": "0373"
+    },
+    {
+      "section": "X",
+      "name": "信阳",
+      "zip": "0376"
+    },
+    {
+      "section": "X",
+      "name": "新余",
+      "zip": "0790"
+    },
+    {
+      "section": "X",
+      "name": "忻州",
+      "zip": "0350"
+    },
+    {
+      "section": "X",
+      "name": "西双版纳",
+      "zip": "0691"
+    },
+    {
+      "section": "X",
+      "name": "宣城",
+      "zip": "0563"
+    },
+    {
+      "section": "X",
+      "name": "峡江",
+      "zip": "0796"
+    },
+    {
+      "section": "X",
+      "name": "夏津",
+      "zip": "0534"
+    },
+    {
+      "section": "X",
+      "name": "象山",
+      "zip": "0574"
+    },
+    {
+      "section": "X",
+      "name": "响水",
+      "zip": "0515"
+    },
+    {
+      "section": "X",
+      "name": "仙居",
+      "zip": "0576"
+    },
+    {
+      "section": "X",
+      "name": "仙游",
+      "zip": "0594"
+    },
+    {
+      "section": "X",
+      "name": "萧县",
+      "zip": "0557"
+    },
+    {
+      "section": "X",
+      "name": "霞浦",
+      "zip": "0593"
+    },
+    {
+      "section": "X",
+      "name": "息烽",
+      "zip": "0851"
+    },
+    {
+      "section": "X",
+      "name": "新安",
+      "zip": "0379"
+    },
+    {
+      "section": "X",
+      "name": "新昌",
+      "zip": "0575"
+    },
+    {
+      "section": "X",
+      "name": "信丰",
+      "zip": "0797"
+    },
+    {
+      "section": "X",
+      "name": "新丰",
+      "zip": "0751"
+    },
+    {
+      "section": "X",
+      "name": "新干",
+      "zip": "0796"
+    },
+    {
+      "section": "X",
+      "name": "兴国",
+      "zip": "0797"
+    },
+    {
+      "section": "X",
+      "name": "兴化",
+      "zip": "0523"
+    },
+    {
+      "section": "X",
+      "name": "兴宁",
+      "zip": "0753"
+    },
+    {
+      "section": "X",
+      "name": "行唐",
+      "zip": "0311"
+    },
+    {
+      "section": "X",
+      "name": "荥阳",
+      "zip": "0371"
+    },
+    {
+      "section": "X",
+      "name": "星子",
+      "zip": "0792"
+    },
+    {
+      "section": "X",
+      "name": "辛集",
+      "zip": "0311"
+    },
+    {
+      "section": "X",
+      "name": "新建",
+      "zip": "0791"
+    },
+    {
+      "section": "X",
+      "name": "新津",
+      "zip": "028"
+    },
+    {
+      "section": "X",
+      "name": "新乐",
+      "zip": "0311"
+    },
+    {
+      "section": "X",
+      "name": "新民",
+      "zip": "024"
+    },
+    {
+      "section": "X",
+      "name": "新密",
+      "zip": "0371"
+    },
+    {
+      "section": "X",
+      "name": "新泰",
+      "zip": "0538"
+    },
+    {
+      "section": "X",
+      "name": "新兴",
+      "zip": "0766"
+    },
+    {
+      "section": "X",
+      "name": "新沂",
+      "zip": "0516"
+    },
+    {
+      "section": "X",
+      "name": "信宜",
+      "zip": "0668"
+    },
+    {
+      "section": "X",
+      "name": "新郑",
+      "zip": "0371"
+    },
+    {
+      "section": "X",
+      "name": "休宁",
+      "zip": "0559"
+    },
+    {
+      "section": "X",
+      "name": "秀山",
+      "zip": "023"
+    },
+    {
+      "section": "X",
+      "name": "修水",
+      "zip": "0792"
+    },
+    {
+      "section": "X",
+      "name": "修文",
+      "zip": "0851"
+    },
+    {
+      "section": "X",
+      "name": "修武",
+      "zip": "0391"
+    },
+    {
+      "section": "X",
+      "name": "寻甸",
+      "zip": "0871"
+    },
+    {
+      "section": "X",
+      "name": "寻乌",
+      "zip": "0797"
+    },
+    {
+      "section": "X",
+      "name": "徐闻",
+      "zip": "0759"
+    },
+    {
+      "section": "X",
+      "name": "盱眙",
+      "zip": "0517"
+    }
+  ],
+  "Y": [
+    {
+      "section": "Y",
+      "name": "扬州",
+      "zip": "0514"
+    },
+    {
+      "section": "Y",
+      "name": "烟台",
+      "zip": "0535"
+    },
+    {
+      "section": "Y",
+      "name": "雅安",
+      "zip": "0835"
+    },
+    {
+      "section": "Y",
+      "name": "延安",
+      "zip": "0911"
+    },
+    {
+      "section": "Y",
+      "name": "延边",
+      "zip": "0433"
+    },
+    {
+      "section": "Y",
+      "name": "盐城",
+      "zip": "0515"
+    },
+    {
+      "section": "Y",
+      "name": "阳江",
+      "zip": "0662"
+    },
+    {
+      "section": "Y",
+      "name": "阳泉",
+      "zip": "0353"
+    },
+    {
+      "section": "Y",
+      "name": "宜宾",
+      "zip": "0831"
+    },
+    {
+      "section": "Y",
+      "name": "宜昌",
+      "zip": "0717"
+    },
+    {
+      "section": "Y",
+      "name": "伊春",
+      "zip": "0458"
+    },
+    {
+      "section": "Y",
+      "name": "宜春",
+      "zip": "0795"
+    },
+    {
+      "section": "Y",
+      "name": "伊犁哈萨克",
+      "zip": "0999"
+    },
+    {
+      "section": "Y",
+      "name": "银川",
+      "zip": "0951"
+    },
+    {
+      "section": "Y",
+      "name": "营口",
+      "zip": "0417"
+    },
+    {
+      "section": "Y",
+      "name": "鹰潭",
+      "zip": "0701"
+    },
+    {
+      "section": "Y",
+      "name": "益阳",
+      "zip": "0737"
+    },
+    {
+      "section": "Y",
+      "name": "永州",
+      "zip": "0746"
+    },
+    {
+      "section": "Y",
+      "name": "岳阳",
+      "zip": "0730"
+    },
+    {
+      "section": "Y",
+      "name": "玉林",
+      "zip": "0775"
+    },
+    {
+      "section": "Y",
+      "name": "榆林",
+      "zip": "0912"
+    },
+    {
+      "section": "Y",
+      "name": "运城",
+      "zip": "0359"
+    },
+    {
+      "section": "Y",
+      "name": "云浮",
+      "zip": "0766"
+    },
+    {
+      "section": "Y",
+      "name": "玉树",
+      "zip": "0976"
+    },
+    {
+      "section": "Y",
+      "name": "玉溪",
+      "zip": "0877"
+    },
+    {
+      "section": "Y",
+      "name": "阳春",
+      "zip": "0662"
+    },
+    {
+      "section": "Y",
+      "name": "阳东",
+      "zip": "0662"
+    },
+    {
+      "section": "Y",
+      "name": "阳谷",
+      "zip": "0635"
+    },
+    {
+      "section": "Y",
+      "name": "阳山",
+      "zip": "0763"
+    },
+    {
+      "section": "Y",
+      "name": "阳信",
+      "zip": "0543"
+    },
+    {
+      "section": "Y",
+      "name": "阳西",
+      "zip": "0662"
+    },
+    {
+      "section": "Y",
+      "name": "扬中",
+      "zip": "0511"
+    },
+    {
+      "section": "Y",
+      "name": "偃师",
+      "zip": "0379"
+    },
+    {
+      "section": "Y",
+      "name": "延寿",
+      "zip": "0451"
+    },
+    {
+      "section": "Y",
+      "name": "兖州",
+      "zip": "0537"
+    },
+    {
+      "section": "Y",
+      "name": "伊川",
+      "zip": "0379"
+    },
+    {
+      "section": "Y",
+      "name": "宜丰",
+      "zip": "0795"
+    },
+    {
+      "section": "Y",
+      "name": "宜黄",
+      "zip": "0794"
+    },
+    {
+      "section": "Y",
+      "name": "依兰",
+      "zip": "0451"
+    },
+    {
+      "section": "Y",
+      "name": "宜良",
+      "zip": "0871"
+    },
+    {
+      "section": "Y",
+      "name": "沂南",
+      "zip": "0539"
+    },
+    {
+      "section": "Y",
+      "name": "英德",
+      "zip": "0763"
+    },
+    {
+      "section": "Y",
+      "name": "颍上",
+      "zip": "0558"
+    },
+    {
+      "section": "Y",
+      "name": "沂水",
+      "zip": "0539"
+    },
+    {
+      "section": "Y",
+      "name": "义乌",
+      "zip": "0579"
+    },
+    {
+      "section": "Y",
+      "name": "黟县",
+      "zip": "0559"
+    },
+    {
+      "section": "Y",
+      "name": "宜兴",
+      "zip": "0510"
+    },
+    {
+      "section": "Y",
+      "name": "弋阳",
+      "zip": "0793"
+    },
+    {
+      "section": "Y",
+      "name": "宜阳",
+      "zip": "0379"
+    },
+    {
+      "section": "Y",
+      "name": "沂源",
+      "zip": "0533"
+    },
+    {
+      "section": "Y",
+      "name": "仪征",
+      "zip": "0514"
+    },
+    {
+      "section": "Y",
+      "name": "永安",
+      "zip": "0598"
+    },
+    {
+      "section": "Y",
+      "name": "永川",
+      "zip": "023"
+    },
+    {
+      "section": "Y",
+      "name": "永春",
+      "zip": "0595"
+    },
+    {
+      "section": "Y",
+      "name": "永登",
+      "zip": "0931"
+    },
+    {
+      "section": "Y",
+      "name": "永定",
+      "zip": "0597"
+    },
+    {
+      "section": "Y",
+      "name": "永丰",
+      "zip": "0796"
+    },
+    {
+      "section": "Y",
+      "name": "永吉",
+      "zip": "0423"
+    },
+    {
+      "section": "Y",
+      "name": "永嘉",
+      "zip": "0577"
+    },
+    {
+      "section": "Y",
+      "name": "永康",
+      "zip": "0579"
+    },
+    {
+      "section": "Y",
+      "name": "邕宁",
+      "zip": "0771"
+    },
+    {
+      "section": "Y",
+      "name": "永泰",
+      "zip": "0591"
+    },
+    {
+      "section": "Y",
+      "name": "永新",
+      "zip": "0796"
+    },
+    {
+      "section": "Y",
+      "name": "永修",
+      "zip": "0792"
+    },
+    {
+      "section": "Y",
+      "name": "尤溪",
+      "zip": "0598"
+    },
+    {
+      "section": "Y",
+      "name": "酉阳",
+      "zip": "023"
+    },
+    {
+      "section": "Y",
+      "name": "元氏",
+      "zip": "0311"
+    },
+    {
+      "section": "Y",
+      "name": "禹城",
+      "zip": "0534"
+    },
+    {
+      "section": "Y",
+      "name": "于都",
+      "zip": "0797"
+    },
+    {
+      "section": "Y",
+      "name": "岳西",
+      "zip": "0556"
+    },
+    {
+      "section": "Y",
+      "name": "余干",
+      "zip": "0793"
+    },
+    {
+      "section": "Y",
+      "name": "玉环",
+      "zip": "0576"
+    },
+    {
+      "section": "Y",
+      "name": "余江",
+      "zip": "0701"
+    },
+    {
+      "section": "Y",
+      "name": "郁南",
+      "zip": "0766"
+    },
+    {
+      "section": "Y",
+      "name": "云安",
+      "zip": "0766"
+    },
+    {
+      "section": "Y",
+      "name": "郓城",
+      "zip": "0530"
+    },
+    {
+      "section": "Y",
+      "name": "云和",
+      "zip": "0578"
+    },
+    {
+      "section": "Y",
+      "name": "云霄",
+      "zip": "0596"
+    },
+    {
+      "section": "Y",
+      "name": "云阳",
+      "zip": "023"
+    },
+    {
+      "section": "Y",
+      "name": "玉山",
+      "zip": "0793"
+    },
+    {
+      "section": "Y",
+      "name": "榆树",
+      "zip": "0431"
+    },
+    {
+      "section": "Y",
+      "name": "鱼台",
+      "zip": "0537"
+    },
+    {
+      "section": "Y",
+      "name": "玉田",
+      "zip": "0315"
+    },
+    {
+      "section": "Y",
+      "name": "余姚",
+      "zip": "0574"
+    },
+    {
+      "section": "Y",
+      "name": "榆中",
+      "zip": "0931"
+    }
+  ],
+  "Z": [
+    {
+      "section": "Z",
+      "name": "漳州",
+      "zip": "0596"
+    },
+    {
+      "section": "Z",
+      "name": "郑州",
+      "zip": "0371"
+    },
+    {
+      "section": "Z",
+      "name": "中山",
+      "zip": "0760"
+    },
+    {
+      "section": "Z",
+      "name": "珠海",
+      "zip": "0756"
+    },
+    {
+      "section": "Z",
+      "name": "枣庄",
+      "zip": "0623"
+    },
+    {
+      "section": "Z",
+      "name": "张家界",
+      "zip": "0744"
+    },
+    {
+      "section": "Z",
+      "name": "张家口",
+      "zip": "0313"
+    },
+    {
+      "section": "Z",
+      "name": "张掖",
+      "zip": "0936"
+    },
+    {
+      "section": "Z",
+      "name": "湛江",
+      "zip": "0759"
+    },
+    {
+      "section": "Z",
+      "name": "肇庆",
+      "zip": "0758"
+    },
+    {
+      "section": "Z",
+      "name": "昭通",
+      "zip": "0870"
+    },
+    {
+      "section": "Z",
+      "name": "镇江",
+      "zip": "0511"
+    },
+    {
+      "section": "Z",
+      "name": "中卫",
+      "zip": "0955"
+    },
+    {
+      "section": "Z",
+      "name": "周口",
+      "zip": "0394"
+    },
+    {
+      "section": "Z",
+      "name": "舟山",
+      "zip": "0580"
+    },
+    {
+      "section": "Z",
+      "name": "驻马店",
+      "zip": "0396"
+    },
+    {
+      "section": "Z",
+      "name": "株洲",
+      "zip": "0731"
+    },
+    {
+      "section": "Z",
+      "name": "淄博",
+      "zip": "0533"
+    },
+    {
+      "section": "Z",
+      "name": "自贡",
+      "zip": "0813"
+    },
+    {
+      "section": "Z",
+      "name": "资阳",
+      "zip": "028"
+    },
+    {
+      "section": "Z",
+      "name": "遵义",
+      "zip": "0852"
+    },
+    {
+      "section": "Z",
+      "name": "赞皇",
+      "zip": "0311"
+    },
+    {
+      "section": "Z",
+      "name": "增城",
+      "zip": "020"
+    },
+    {
+      "section": "Z",
+      "name": "张家港",
+      "zip": "0512"
+    },
+    {
+      "section": "Z",
+      "name": "漳平",
+      "zip": "0597"
+    },
+    {
+      "section": "Z",
+      "name": "漳浦",
+      "zip": "0596"
+    },
+    {
+      "section": "Z",
+      "name": "章丘",
+      "zip": "0531"
+    },
+    {
+      "section": "Z",
+      "name": "樟树",
+      "zip": "0795"
+    },
+    {
+      "section": "Z",
+      "name": "沾化",
+      "zip": "0543"
+    },
+    {
+      "section": "Z",
+      "name": "赵县",
+      "zip": "0311"
+    },
+    {
+      "section": "Z",
+      "name": "招远",
+      "zip": "0535"
+    },
+    {
+      "section": "Z",
+      "name": "正定",
+      "zip": "0311"
+    },
+    {
+      "section": "Z",
+      "name": "政和",
+      "zip": "0599"
+    },
+    {
+      "section": "Z",
+      "name": "柘荣",
+      "zip": "0593"
+    },
+    {
+      "section": "Z",
+      "name": "中牟",
+      "zip": "0371"
+    },
+    {
+      "section": "Z",
+      "name": "忠县",
+      "zip": "023"
+    },
+    {
+      "section": "Z",
+      "name": "周宁",
+      "zip": "0593"
+    },
+    {
+      "section": "Z",
+      "name": "周至",
+      "zip": "029"
+    },
+    {
+      "section": "Z",
+      "name": "庄河",
+      "zip": "0411"
+    },
+    {
+      "section": "Z",
+      "name": "诸城",
+      "zip": "0536"
+    },
+    {
+      "section": "Z",
+      "name": "诸暨",
+      "zip": "0575"
+    },
+    {
+      "section": "Z",
+      "name": "紫金",
+      "zip": "0762"
+    },
+    {
+      "section": "Z",
+      "name": "资溪",
+      "zip": "0794"
+    },
+    {
+      "section": "Z",
+      "name": "邹城",
+      "zip": "0537"
+    },
+    {
+      "section": "Z",
+      "name": "邹平",
+      "zip": "0543"
+    },
+    {
+      "section": "Z",
+      "name": "遵化",
+      "zip": "0315"
+    }
+  ],
+  "A": [
+    {
+      "section": "A",
+      "name": "阿坝",
+      "zip": "0837"
+    },
+    {
+      "section": "A",
+      "name": "阿克苏",
+      "zip": "0997"
+    },
+    {
+      "section": "A",
+      "name": "阿拉善盟",
+      "zip": "0483"
+    },
+    {
+      "section": "A",
+      "name": "阿勒泰",
+      "zip": "0906"
+    },
+    {
+      "section": "A",
+      "name": "阿里",
+      "zip": "0897"
+    },
+    {
+      "section": "A",
+      "name": "安康",
+      "zip": "0915"
+    },
+    {
+      "section": "A",
+      "name": "安庆",
+      "zip": "0556"
+    },
+    {
+      "section": "A",
+      "name": "鞍山",
+      "zip": "0412"
+    },
+    {
+      "section": "A",
+      "name": "安顺",
+      "zip": "0853"
+    },
+    {
+      "section": "A",
+      "name": "安阳",
+      "zip": "0372"
+    },
+    {
+      "section": "A",
+      "name": "阿城",
+      "zip": "0451"
+    },
+    {
+      "section": "A",
+      "name": "安福",
+      "zip": "0796"
+    },
+    {
+      "section": "A",
+      "name": "安吉",
+      "zip": "0572"
+    },
+    {
+      "section": "A",
+      "name": "安宁",
+      "zip": "0871"
+    },
+    {
+      "section": "A",
+      "name": "安丘",
+      "zip": "0536"
+    },
+    {
+      "section": "A",
+      "name": "安溪",
+      "zip": "0595"
+    },
+    {
+      "section": "A",
+      "name": "安义",
+      "zip": "0791"
+    },
+    {
+      "section": "A",
+      "name": "安远",
+      "zip": "0797"
+    }
+  ],
+  "E": [
+    {
+      "section": "E",
+      "name": "鄂尔多斯",
+      "zip": "0477"
+    },
+    {
+      "section": "E",
+      "name": "恩施",
+      "zip": "0718"
+    },
+    {
+      "section": "E",
+      "name": "鄂州",
+      "zip": "0711"
+    },
+    {
+      "section": "E",
+      "name": "恩平",
+      "zip": "0750"
+    }
+  ],
+  "M": [
+    {
+      "section": "M",
+      "name": "马鞍山",
+      "zip": "0555"
+    },
+    {
+      "section": "M",
+      "name": "茂名",
+      "zip": "0668"
+    },
+    {
+      "section": "M",
+      "name": "眉山",
+      "zip": "028"
+    },
+    {
+      "section": "M",
+      "name": "梅州",
+      "zip": "0753"
+    },
+    {
+      "section": "M",
+      "name": "绵阳",
+      "zip": "0816"
+    },
+    {
+      "section": "M",
+      "name": "牡丹江",
+      "zip": "0453"
+    },
+    {
+      "section": "M",
+      "name": "马山",
+      "zip": "0771"
+    },
+    {
+      "section": "M",
+      "name": "梅县",
+      "zip": "0753"
+    },
+    {
+      "section": "M",
+      "name": "蒙城",
+      "zip": "0558"
+    },
+    {
+      "section": "M",
+      "name": "孟津",
+      "zip": "0379"
+    },
+    {
+      "section": "M",
+      "name": "蒙阴",
+      "zip": "0539"
+    },
+    {
+      "section": "M",
+      "name": "孟州",
+      "zip": "0391"
+    },
+    {
+      "section": "M",
+      "name": "明光",
+      "zip": "0550"
+    },
+    {
+      "section": "M",
+      "name": "明溪",
+      "zip": "0598"
+    },
+    {
+      "section": "M",
+      "name": "闽侯",
+      "zip": "0591"
+    },
+    {
+      "section": "M",
+      "name": "闽清",
+      "zip": "0591"
+    },
+    {
+      "section": "M",
+      "name": "木兰",
+      "zip": "0451"
+    }
+  ],
+  "P": [
+    {
+      "section": "P",
+      "name": "盘锦",
+      "zip": "0427"
+    },
+    {
+      "section": "P",
+      "name": "攀枝花",
+      "zip": "0812"
+    },
+    {
+      "section": "P",
+      "name": "平顶山",
+      "zip": "0375"
+    },
+    {
+      "section": "P",
+      "name": "平凉",
+      "zip": "0933"
+    },
+    {
+      "section": "P",
+      "name": "萍乡",
+      "zip": "0799"
+    },
+    {
+      "section": "P",
+      "name": "普洱",
+      "zip": "0879"
+    },
+    {
+      "section": "P",
+      "name": "莆田",
+      "zip": "0594"
+    },
+    {
+      "section": "P",
+      "name": "濮阳",
+      "zip": "0393"
+    },
+    {
+      "section": "P",
+      "name": "磐安",
+      "zip": "0579"
+    },
+    {
+      "section": "P",
+      "name": "磐石",
+      "zip": "0423"
+    },
+    {
+      "section": "P",
+      "name": "沛县",
+      "zip": "0516"
+    },
+    {
+      "section": "P",
+      "name": "蓬莱",
+      "zip": "0535"
+    },
+    {
+      "section": "P",
+      "name": "彭水",
+      "zip": "023"
+    },
+    {
+      "section": "P",
+      "name": "彭泽",
+      "zip": "0792"
+    },
+    {
+      "section": "P",
+      "name": "彭州",
+      "zip": "028"
+    },
+    {
+      "section": "P",
+      "name": "平度",
+      "zip": "0532"
+    },
+    {
+      "section": "P",
+      "name": "平和",
+      "zip": "0596"
+    },
+    {
+      "section": "P",
+      "name": "平湖",
+      "zip": "0573"
+    },
+    {
+      "section": "P",
+      "name": "屏南",
+      "zip": "0593"
+    },
+    {
+      "section": "P",
+      "name": "平山",
+      "zip": "0311"
+    },
+    {
+      "section": "P",
+      "name": "平潭",
+      "zip": "0591"
+    },
+    {
+      "section": "P",
+      "name": "平阳",
+      "zip": "0577"
+    },
+    {
+      "section": "P",
+      "name": "平阴",
+      "zip": "0531"
+    },
+    {
+      "section": "P",
+      "name": "平邑",
+      "zip": "0539"
+    },
+    {
+      "section": "P",
+      "name": "平原",
+      "zip": "0534"
+    },
+    {
+      "section": "P",
+      "name": "平远",
+      "zip": "0753"
+    },
+    {
+      "section": "P",
+      "name": "郫县",
+      "zip": "028"
+    },
+    {
+      "section": "P",
+      "name": "邳州",
+      "zip": "0516"
+    },
+    {
+      "section": "P",
+      "name": "鄱阳",
+      "zip": "0793"
+    },
+    {
+      "section": "P",
+      "name": "浦城",
+      "zip": "0599"
+    },
+    {
+      "section": "P",
+      "name": "浦江",
+      "zip": "0579"
+    },
+    {
+      "section": "P",
+      "name": "蒲江",
+      "zip": "028"
+    },
+    {
+      "section": "P",
+      "name": "普兰店",
+      "zip": "0411"
+    },
+    {
+      "section": "P",
+      "name": "普宁",
+      "zip": "0663"
+    }
+  ],
+  "R": [
+    {
+      "section": "R",
+      "name": "日喀则",
+      "zip": "0892"
+    },
+    {
+      "section": "R",
+      "name": "日照",
+      "zip": "0633"
+    },
+    {
+      "section": "R",
+      "name": "饶平",
+      "zip": "0768"
+    },
+    {
+      "section": "R",
+      "name": "仁化",
+      "zip": "0751"
+    },
+    {
+      "section": "R",
+      "name": "融安",
+      "zip": "0772"
+    },
+    {
+      "section": "R",
+      "name": "荣昌",
+      "zip": "023"
+    },
+    {
+      "section": "R",
+      "name": "荣成",
+      "zip": "0631"
+    },
+    {
+      "section": "R",
+      "name": "融水",
+      "zip": "0772"
+    },
+    {
+      "section": "R",
+      "name": "如东",
+      "zip": "0513"
+    },
+    {
+      "section": "R",
+      "name": "如皋",
+      "zip": "0513"
+    },
+    {
+      "section": "R",
+      "name": "瑞安",
+      "zip": "0577"
+    },
+    {
+      "section": "R",
+      "name": "瑞昌",
+      "zip": "0792"
+    },
+    {
+      "section": "R",
+      "name": "瑞金",
+      "zip": "0797"
+    },
+    {
+      "section": "R",
+      "name": "乳山",
+      "zip": "0631"
+    },
+    {
+      "section": "R",
+      "name": "汝阳",
+      "zip": "0379"
+    },
+    {
+      "section": "R",
+      "name": "乳源",
+      "zip": "0751"
     }
   ]
 }
