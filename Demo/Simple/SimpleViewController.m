@@ -9,7 +9,7 @@
 #import "SimpleViewController.h"
 #import "XTUniversalTable.h"
 
-@interface SimpleViewController () <XTUTProxyDataSource> {
+@interface SimpleViewController () {
     NSArray<id<XTUTSection>> *_sectons;
 }
 
@@ -22,26 +22,23 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
     self.tableProxy = [[XTUTProxy alloc] initWithTableView:self.tableView];
-    self.tableProxy.dataSource = self;
+    [self loadData];
 }
 
-#pragma mark - XTUTProxyDataSource
-
-- (NSArray<id<XTUTSection>> *)sections {
-    if (!_sectons) {
+- (void)loadData {
+    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^{
         NSString *JSONPath = [[NSBundle mainBundle] pathForResource:@"cities" ofType:@"json"];
         NSData *JSONData = [NSData dataWithContentsOfFile:JSONPath];
         NSDictionary<NSString *, NSArray *> *JSONObject = [NSJSONSerialization JSONObjectWithData:JSONData
-                                                                   options:NSJSONReadingMutableContainers
-                                                                     error:nil];
+                                                                                          options:NSJSONReadingMutableContainers
+                                                                                            error:nil];
         NSMutableArray *sections = [NSMutableArray array];
         
         NSArray<NSString *> *sortedKeys = [[JSONObject allKeys] sortedArrayUsingComparator:^NSComparisonResult(NSString *key1, NSString *key2) {
             return [key1 compare:key2];
         }];
-     
+        
         [sortedKeys enumerateObjectsUsingBlock:^(NSString * _Nonnull key, NSUInteger idx, BOOL * _Nonnull stop) {
             // Rows
             NSMutableArray *cityRows = [NSMutableArray array];
@@ -62,10 +59,11 @@
                                                          footer:nil];
             [sections addObject:section];
         }];
-        
-        _sectons = sections;
-    }
-    return _sectons;
+        dispatch_async(dispatch_get_main_queue(), ^{
+            self.tableProxy.sections = sections;
+            [self.tableView reloadData];
+        });
+    });
 }
 
 @end

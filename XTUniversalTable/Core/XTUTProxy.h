@@ -10,12 +10,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@protocol XTUTProxyDataSource <NSObject>
-
-- (nullable NSArray<id<XTUTSection>> *)sections;
-
-@end
-
 @protocol XTUTProxyDelegate <NSObject>
 
 
@@ -35,8 +29,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (instancetype)initWithTableView:(nullable UITableView *)tableView NS_DESIGNATED_INITIALIZER;
 
-@property (weak, nonatomic, nullable) id<XTUTProxyDataSource> dataSource;
 @property (weak, nonatomic, nullable) id<XTUTProxyDelegate> delegate;
+@property (copy, nonatomic, nullable) NSArray<id<XTUTSection>> *sections;
 
 - (nullable id<XTUTSection>)sectionAtIndexPath:(NSIndexPath *)indexPath;
 
