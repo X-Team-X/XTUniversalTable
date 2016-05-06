@@ -48,7 +48,7 @@
             NSArray<NSDictionary *> *cities = JSONObject[key];
             [cities enumerateObjectsUsingBlock:^(NSDictionary * _Nonnull city, NSUInteger idx, BOOL * _Nonnull stop) {
                 XTUTRow *row = [XTUTRow rowWithIdentifier:@"cell"
-                                              classString:@"UITableViewCell"
+                                              classString:@"SimpleCell"
                                                      data:city];
                 if (row) {
                     [cityRows addObject:row];

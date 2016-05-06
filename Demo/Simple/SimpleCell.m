@@ -1,14 +1,14 @@
 //
-//  UITableViewCell+Simple.m
+//  SimpleCell.m
 //  XTUniversalTable
 //
 //  Created by 吾问 on 16/5/6.
 //  Copyright © 2016年 X-Team. All rights reserved.
 //
 
-#import "UITableViewCell+Simple.h"
+#import "SimpleCell.h"
 
-@implementation UITableViewCell (Simple)
+@implementation SimpleCell
 
 + (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier {
     

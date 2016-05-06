@@ -33,8 +33,8 @@
 }
 
 - (void)dealloc {
-    _tableView.delegate = self;
-    _tableView.dataSource = self;
+    _tableView.delegate = nil;
+    _tableView.dataSource = nil;
 }
 
 #pragma mark - UITableViewDataSource

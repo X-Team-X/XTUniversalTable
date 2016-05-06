@@ -1,5 +1,5 @@
 //
-//  UITableViewCell+Simple.h
+//  SimpleCell.h
 //  XTUniversalTable
 //
 //  Created by 吾问 on 16/5/6.
@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 #import "XTUniversalTable.h"
 
-@interface UITableViewCell (Simple) <XTUTCell>
+@interface SimpleCell : UITableViewCell <XTUTCell>
 
 @end

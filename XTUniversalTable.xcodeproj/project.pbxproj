@@ -22,7 +22,7 @@
 		1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */; };
 		1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */; };
 		1E8B12E31CDC38D50071EF2A /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 1E8B12E21CDC38D50071EF2A /* cities.json */; };
-		1E8B12E61CDC49780071EF2A /* UITableViewCell+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */; };
+		1E8B12E91CDC4D680071EF2A /* SimpleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12E81CDC4D680071EF2A /* SimpleCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,8 +72,8 @@
 		1E8B12DD1CDC37570071EF2A /* SimpleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleViewController.h; sourceTree = "<group>"; };
 		1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleViewController.m; sourceTree = "<group>"; };
 		1E8B12E21CDC38D50071EF2A /* cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cities.json; sourceTree = "<group>"; };
-		1E8B12E41CDC49780071EF2A /* UITableViewCell+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewCell+Simple.h"; sourceTree = "<group>"; };
-		1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+Simple.m"; sourceTree = "<group>"; };
+		1E8B12E71CDC4D680071EF2A /* SimpleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCell.h; sourceTree = "<group>"; };
+		1E8B12E81CDC4D680071EF2A /* SimpleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,8 +196,8 @@
 			children = (
 				1E8B12DD1CDC37570071EF2A /* SimpleViewController.h */,
 				1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */,
-				1E8B12E41CDC49780071EF2A /* UITableViewCell+Simple.h */,
-				1E8B12E51CDC49780071EF2A /* UITableViewCell+Simple.m */,
+				1E8B12E71CDC4D680071EF2A /* SimpleCell.h */,
+				1E8B12E81CDC4D680071EF2A /* SimpleCell.m */,
 			);
 			path = Simple;
 			sourceTree = "<group>";
@@ -343,13 +343,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */,
+				1E8B12E91CDC4D680071EF2A /* SimpleCell.m in Sources */,
 				1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */,
 				1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */,
 				1E3789C51CDB2D590067C3D3 /* main.m in Sources */,
 				1E3789C01CDB2D590067C3D3 /* AppDelegate.m in Sources */,
 				1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */,
 				1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */,
-				1E8B12E61CDC49780071EF2A /* UITableViewCell+Simple.m in Sources */,
 				1E008FF81CDB8CED00DA179F /* XTUTProxy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
