@@ -36,7 +36,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @protocol XTUTRow <NSObject>
 
-- (NSString *)renderIdentifer;
+- (NSString *)renderIdentifier;
 
 - (Class<XTUTCell>)renderClass;
 
@@ -49,7 +49,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @optional
 
-- (nullable NSString *)renderIdentifer;
+- (nullable NSString *)renderIdentifier;
 
 - (nullable Class<XTUTSectionHeaderFooterView>)renderClass;
 

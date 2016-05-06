@@ -11,7 +11,7 @@
 
 @implementation RowDataB
 
-- (NSString *)renderIdentifer {
+- (NSString *)renderIdentifier {
     return @"DemoCellB";
 }
 

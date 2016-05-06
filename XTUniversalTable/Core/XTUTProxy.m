@@ -40,17 +40,17 @@
 #pragma mark - UITableViewDataSource
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return [self.delegate sections].count;
+    return [self.dataSource sections].count;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    id<XTUTSection> XTUTSection = [self.delegate sections][section];
+    id<XTUTSection> XTUTSection = [self.dataSource sections][section];
     return [XTUTSection numberOfRows];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     id<XTUTRow> row = [self rowAtIndexPath:indexPath];
-    UITableViewCell<XTUTCell> *cell = [tableView dequeueReusableCellWithIdentifier:[row renderIdentifer]
+    UITableViewCell<XTUTCell> *cell = [tableView dequeueReusableCellWithIdentifier:[row renderIdentifier]
                                                                      forIndexPath:indexPath];
     [cell configureWithData:row];
     if ([self.delegate respondsToSelector:@selector(didConfigureTableView:cell:atIndexPath:)]) {
@@ -92,8 +92,8 @@
 
 - (UIView *)tableView:(UITableView *)tableView viewForFooterInSection:(NSInteger)section {
     id<XTUTSectionHeaderFooter> footer = [self footerAtSection:section];
-    if ([footer respondsToSelector:@selector(renderIdentifer)]) {
-        UITableViewHeaderFooterView<XTUTSectionHeaderFooterView> *footerView = [tableView dequeueReusableHeaderFooterViewWithIdentifier:[footer renderIdentifer]];
+    if ([footer respondsToSelector:@selector(renderIdentifier)]) {
+        UITableViewHeaderFooterView<XTUTSectionHeaderFooterView> *footerView = [tableView dequeueReusableHeaderFooterViewWithIdentifier:[footer renderIdentifier]];
         [footerView configureWithData:footer];
         return footerView;
     }
@@ -122,8 +122,8 @@
 
 - (UIView *)tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
     id<XTUTSectionHeaderFooter> header = [self headerAtSection:section];
-    if ([header respondsToSelector:@selector(renderIdentifer)]) {
-        UITableViewHeaderFooterView<XTUTSectionHeaderFooterView> *headerView = [tableView dequeueReusableHeaderFooterViewWithIdentifier:[header renderIdentifer]];
+    if ([header respondsToSelector:@selector(renderIdentifier)]) {
+        UITableViewHeaderFooterView<XTUTSectionHeaderFooterView> *headerView = [tableView dequeueReusableHeaderFooterViewWithIdentifier:[header renderIdentifier]];
         [headerView configureWithData:header];
         return headerView;
     }
@@ -157,17 +157,33 @@
 #pragma mark - Utility
 
 - (id<XTUTSectionHeaderFooter>)headerAtSection:(NSInteger)section {
-    id<XTUTSection> XTUTSection = [self.delegate sections][section];
+    if (section < 0
+        || section >= [self.dataSource sections].count) {
+        return nil;
+    }
+    id<XTUTSection> XTUTSection = [self.dataSource sections][section];
     return [XTUTSection header];
 }
 
 - (id<XTUTSectionHeaderFooter>)footerAtSection:(NSInteger)section {
-    id<XTUTSection> XTUTSection = [self.delegate sections][section];
+    if (section < 0
+        || section >= [self.dataSource sections].count) {
+        return nil;
+    }
+    id<XTUTSection> XTUTSection = [self.dataSource sections][section];
     return [XTUTSection footer];
 }
 
+- (id<XTUTSection>)sectionAtIndexPath:(NSIndexPath *)indexPath {
+    if (indexPath.section < 0
+        || indexPath.section >= [self.dataSource sections].count) {
+        return nil;
+    }
+    return [self.dataSource sections][indexPath.section];
+}
+
 - (id<XTUTRow>)rowAtIndexPath:(NSIndexPath *)indexPath {
-    id<XTUTSection> section = [self.delegate sections][indexPath.section];
+    id<XTUTSection> section = [self sectionAtIndexPath:indexPath];
     return [section rowAtIndex:indexPath.row];
 }
 

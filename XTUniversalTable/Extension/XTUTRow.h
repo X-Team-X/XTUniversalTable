@@ -12,11 +12,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface XTUTRow : NSObject <XTUTRow>
 
-+ (instancetype)rowWithIdentifier:(NSString *)renderIdentifer
++ (instancetype)rowWithIdentifier:(NSString *)renderIdentifier
                       classString:(NSString *)renderClassString
                              data:(id)data;
 
-@property (copy, nonatomic) NSString *renderIdentifer;
+@property (copy, nonatomic) NSString *renderIdentifier;
 @property (copy, nonatomic) NSString *renderClassString;
 @property (strong, nonatomic, nullable) id data;
 

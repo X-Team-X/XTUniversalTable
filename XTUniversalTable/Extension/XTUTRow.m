@@ -16,11 +16,11 @@
 
 @implementation XTUTRow
 
-+ (instancetype)rowWithIdentifier:(NSString *)renderIdentifer
++ (instancetype)rowWithIdentifier:(NSString *)renderIdentifier
                       classString:(NSString *)renderClassString
                              data:(id)data {
     XTUTRow *row = [[self alloc] init];
-    row.renderIdentifer = renderIdentifer;
+    row.renderIdentifier = renderIdentifier;
     row.renderClassString = renderClassString;
     row.data = data;
     return row;

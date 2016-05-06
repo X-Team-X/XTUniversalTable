@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1E008FF81CDB8CED00DA179F /* XTUTProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E008FF71CDB8CED00DA179F /* XTUTProxy.m */; };
-		1E008FFB1CDB8DE100DA179F /* XTUTRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E008FFA1CDB8DE100DA179F /* XTUTRow.m */; };
 		1E37899B1CDB2D190067C3D3 /* XTUniversalTableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E37899A1CDB2D190067C3D3 /* XTUniversalTableTests.m */; };
 		1E3789A61CDB2D190067C3D3 /* XTUniversalTableUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789A51CDB2D190067C3D3 /* XTUniversalTableUITests.m */; };
 		1E3789C01CDB2D590067C3D3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789B51CDB2D590067C3D3 /* AppDelegate.m */; };
@@ -22,9 +21,9 @@
 		1E3789D01CDB34410067C3D3 /* DemoCellB.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789CF1CDB34410067C3D3 /* DemoCellB.m */; };
 		1E3789D31CDB35460067C3D3 /* RowDataA.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789D21CDB35460067C3D3 /* RowDataA.m */; };
 		1E3789D61CDB35530067C3D3 /* RowDataB.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789D51CDB35530067C3D3 /* RowDataB.m */; };
-		1E3789E21CDB47450067C3D3 /* XTUTSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789E11CDB47450067C3D3 /* XTUTSection.m */; };
-		1E3789E51CDB48420067C3D3 /* XTUTSectionHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789E41CDB48420067C3D3 /* XTUTSectionHeader.m */; };
-		1E3789E81CDB48510067C3D3 /* XTUTSectionFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789E71CDB48510067C3D3 /* XTUTSectionFooter.m */; };
+		1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */; };
+		1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */; };
+		1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,8 +47,6 @@
 		1E008FF51CDB8CED00DA179F /* XTUTProtocols.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTProtocols.h; sourceTree = "<group>"; };
 		1E008FF61CDB8CED00DA179F /* XTUTProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTProxy.h; sourceTree = "<group>"; };
 		1E008FF71CDB8CED00DA179F /* XTUTProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTProxy.m; sourceTree = "<group>"; };
-		1E008FF91CDB8DE000DA179F /* XTUTRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTRow.h; sourceTree = "<group>"; };
-		1E008FFA1CDB8DE100DA179F /* XTUTRow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTRow.m; sourceTree = "<group>"; };
 		1E37897D1CDB2D190067C3D3 /* XTUniversalTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XTUniversalTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E3789961CDB2D190067C3D3 /* XTUniversalTableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XTUniversalTableTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E37899A1CDB2D190067C3D3 /* XTUniversalTableTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XTUniversalTableTests.m; sourceTree = "<group>"; };
@@ -74,13 +71,13 @@
 		1E3789D21CDB35460067C3D3 /* RowDataA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RowDataA.m; sourceTree = "<group>"; };
 		1E3789D41CDB35530067C3D3 /* RowDataB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RowDataB.h; sourceTree = "<group>"; };
 		1E3789D51CDB35530067C3D3 /* RowDataB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RowDataB.m; sourceTree = "<group>"; };
-		1E3789E01CDB47450067C3D3 /* XTUTSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSection.h; sourceTree = "<group>"; };
-		1E3789E11CDB47450067C3D3 /* XTUTSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSection.m; sourceTree = "<group>"; };
-		1E3789E31CDB48420067C3D3 /* XTUTSectionHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSectionHeader.h; sourceTree = "<group>"; };
-		1E3789E41CDB48420067C3D3 /* XTUTSectionHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSectionHeader.m; sourceTree = "<group>"; };
-		1E3789E61CDB48510067C3D3 /* XTUTSectionFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSectionFooter.h; sourceTree = "<group>"; };
-		1E3789E71CDB48510067C3D3 /* XTUTSectionFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSectionFooter.m; sourceTree = "<group>"; };
 		1E3789E91CDB49070067C3D3 /* XTUniversalTable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XTUniversalTable.h; sourceTree = "<group>"; };
+		1E8B12C71CDC28EC0071EF2A /* XTUTRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTRow.h; sourceTree = "<group>"; };
+		1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTRow.m; sourceTree = "<group>"; };
+		1E8B12C91CDC28EC0071EF2A /* XTUTSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSection.h; sourceTree = "<group>"; };
+		1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSection.m; sourceTree = "<group>"; };
+		1E8B12D61CDC2B110071EF2A /* XTUTSectionHeaderFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSectionHeaderFooter.h; sourceTree = "<group>"; };
+		1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSectionHeaderFooter.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,18 +181,24 @@
 		1E3789BF1CDB2D590067C3D3 /* XTUniversalTable */ = {
 			isa = PBXGroup;
 			children = (
+				1E8B12C61CDC28EC0071EF2A /* Extension */,
 				1E008FF41CDB8CED00DA179F /* Core */,
-				1E008FF91CDB8DE000DA179F /* XTUTRow.h */,
-				1E008FFA1CDB8DE100DA179F /* XTUTRow.m */,
-				1E3789E31CDB48420067C3D3 /* XTUTSectionHeader.h */,
-				1E3789E41CDB48420067C3D3 /* XTUTSectionHeader.m */,
-				1E3789E61CDB48510067C3D3 /* XTUTSectionFooter.h */,
-				1E3789E71CDB48510067C3D3 /* XTUTSectionFooter.m */,
-				1E3789E01CDB47450067C3D3 /* XTUTSection.h */,
-				1E3789E11CDB47450067C3D3 /* XTUTSection.m */,
 				1E3789E91CDB49070067C3D3 /* XTUniversalTable.h */,
 			);
 			path = XTUniversalTable;
+			sourceTree = "<group>";
+		};
+		1E8B12C61CDC28EC0071EF2A /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				1E8B12C71CDC28EC0071EF2A /* XTUTRow.h */,
+				1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */,
+				1E8B12D61CDC2B110071EF2A /* XTUTSectionHeaderFooter.h */,
+				1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */,
+				1E8B12C91CDC28EC0071EF2A /* XTUTSection.h */,
+				1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -330,16 +333,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E3789C61CDB2D590067C3D3 /* ViewController.m in Sources */,
-				1E008FFB1CDB8DE100DA179F /* XTUTRow.m in Sources */,
-				1E3789E51CDB48420067C3D3 /* XTUTSectionHeader.m in Sources */,
 				1E3789D61CDB35530067C3D3 /* RowDataB.m in Sources */,
 				1E3789CD1CDB34300067C3D3 /* DemoCellA.m in Sources */,
 				1E3789D01CDB34410067C3D3 /* DemoCellB.m in Sources */,
+				1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */,
 				1E3789C51CDB2D590067C3D3 /* main.m in Sources */,
-				1E3789E81CDB48510067C3D3 /* XTUTSectionFooter.m in Sources */,
 				1E3789D31CDB35460067C3D3 /* RowDataA.m in Sources */,
-				1E3789E21CDB47450067C3D3 /* XTUTSection.m in Sources */,
 				1E3789C01CDB2D590067C3D3 /* AppDelegate.m in Sources */,
+				1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */,
+				1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */,
 				1E008FF81CDB8CED00DA179F /* XTUTProxy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
