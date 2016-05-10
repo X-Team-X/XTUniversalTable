@@ -19,7 +19,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (copy, nonatomic) NSString *renderIdentifier;
 @property (copy, nonatomic) NSString *renderClassString;
 @property (strong, nonatomic, nullable) id data;
-
-NS_ASSUME_NONNULL_END
+@property (strong, nonatomic, nullable) NSNumber *cachedHeight;
 
 @end
+
+NS_ASSUME_NONNULL_END

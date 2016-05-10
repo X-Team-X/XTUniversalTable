@@ -8,9 +8,9 @@
 
 #import "XTUTProtocols.h"
 
-@interface XTUTSection : NSObject <XTUTSection>
-
 NS_ASSUME_NONNULL_BEGIN
+
+@interface XTUTSection : NSObject <XTUTSection>
 
 + (instancetype)sectionWithRows:(nullable NSArray<id<XTUTRow>> *)rows
                          header:(nullable id<XTUTSectionHeaderFooter>)header
@@ -20,6 +20,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (strong, nonatomic, nullable) id<XTUTSectionHeaderFooter> header;
 @property (strong, nonatomic, nullable) id<XTUTSectionHeaderFooter> footer;
 
-NS_ASSUME_NONNULL_END
-
 @end
+
+NS_ASSUME_NONNULL_END

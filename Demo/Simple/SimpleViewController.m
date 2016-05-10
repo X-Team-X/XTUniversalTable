@@ -30,7 +30,7 @@
 
 - (void)loadData {
     [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
-    [SVProgressHUD showWithStatus:@"loading"];
+    [SVProgressHUD show];
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
     [manager setResponseSerializer:[AFHTTPResponseSerializer serializer]];
     [manager GET:@"https://raw.githubusercontent.com/X-Team-X/XTUniversalTable/master/Demo/Resource/cities.json"

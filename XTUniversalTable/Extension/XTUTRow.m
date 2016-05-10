@@ -34,4 +34,10 @@
     return _cls;
 }
 
+- (void)setData:(id)data {
+    _data = data;
+    // Invalidate height cache
+    self.cachedHeight = nil;
+}
+
 @end

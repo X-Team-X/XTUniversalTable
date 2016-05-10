@@ -89,7 +89,7 @@
     // Customize first
     if ([footer respondsToSelector:@selector(renderClass)]) {
         Class<XTUTSectionHeaderFooterView> footerClass = [footer renderClass];
-        return [footerClass sizeWithData:footer constrainedToSize:self.tableView.frame.size].height;
+        return [footerClass sizeWithData:footer constrainedToSize:CGSizeMake(self.tableView.frame.size.width, MAXFLOAT)].height;
     }
     if ([footer respondsToSelector:@selector(height)]) {
         return [footer height];
@@ -118,7 +118,7 @@
     // Customize first
     if ([header respondsToSelector:@selector(renderClass)]) {
         Class<XTUTSectionHeaderFooterView> headerClass = [header renderClass];
-        return [headerClass sizeWithData:header constrainedToSize:self.tableView.frame.size].height;
+        return [headerClass sizeWithData:header constrainedToSize:CGSizeMake(self.tableView.frame.size.width, MAXFLOAT)].height;
     }
     
     if ([header respondsToSelector:@selector(height)]) {
@@ -142,7 +142,7 @@
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
     id<XTUTRow> row = [self rowAtIndexPath:indexPath];
     Class<XTUTCell> cellClass = [row renderClass];
-    return [cellClass sizeWithData:row constrainedToSize:self.tableView.frame.size].height;
+    return [cellClass sizeWithData:row constrainedToSize:CGSizeMake(self.tableView.frame.size.width, MAXFLOAT)].height;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
