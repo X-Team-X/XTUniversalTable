@@ -145,12 +145,12 @@
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
     id<XTUTRow> row = [self rowAtIndexPath:indexPath];
     CGFloat height = 0;
-    if (row.height) {
-        height = [row.height floatValue];
+    if (row.cellHeight) {
+        height = [row.cellHeight floatValue];
     } else {
         Class<XTUTCell> cellCls = [row cellClass];
         height = [cellCls sizeWithData:row constrainedToSize:CGSizeMake(self.tableView.frame.size.width, MAXFLOAT)].height;
-        row.height = @(height);
+        row.cellHeight = @(height);
     }
     if (fabs(height) < FLT_EPSILON) {
         height = 44.0f;

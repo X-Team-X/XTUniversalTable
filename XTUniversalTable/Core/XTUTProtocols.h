@@ -132,7 +132,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (Class<XTUTCell>)cellClass;
 
 // The cached height. You don't need to access the property, set this to nil to invalidate cache at proper time.
-@property (strong, nonatomic) NSNumber *height;
+@property (strong, nonatomic) NSNumber *cellHeight;
 
 @end
 

@@ -29,7 +29,6 @@
 }
 
 - (void)loadData {
-    [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
     [SVProgressHUD show];
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
     [manager setResponseSerializer:[AFHTTPResponseSerializer serializer]];

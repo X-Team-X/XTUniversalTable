@@ -51,7 +51,6 @@
 #pragma mark - Data
 
 - (void)loadResumeInfo {
-    [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
     [SVProgressHUD show];
     [self.viewModel loadResumeInfoWithCompletion:^(NSError *error) {
         if (error) {
@@ -75,11 +74,11 @@
     [sections addObject:baseInfoSection];
     
     // education info
-//    XTUTSection *educationSection = [XTUTSection sectionWithRows:nil
-//                                                         header:[self headerWithTitle:@"EDUCATION"]
-//                                                         footer:nil];
-//    
-//    [sections addObject:educationSection];
+    XTUTSection *educationSection = [XTUTSection sectionWithRows:nil
+                                                         header:[self headerWithTitle:@"EDUCATION"]
+                                                         footer:nil];
+    
+    [sections addObject:educationSection];
 
     // work
 //    XTUTSection *workSection = [XTUTSection sectionWithRows:nil

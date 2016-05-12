@@ -49,10 +49,12 @@
 + (NSAttributedString *)attrBaseInfo:(ResumeBaseInfoCellViewModel *)baseInfo {
     NSString *text = [NSString stringWithFormat:@"Phone : %@\n"
                       "E-mail : %@\n"
-                      "Github : %@",
+                      "Github : %@\n"
+                      "Blog: %@",
                       baseInfo.phone,
                       baseInfo.email,
-                      baseInfo.github];
+                      baseInfo.github,
+                      baseInfo.blog];
     NSMutableAttributedString *attrText = [NSMutableAttributedString xt_attributedStringWithString:text];
     [attrText xt_setFont:[UIFont systemFontOfSize:16.0f]];
     [attrText xt_setTextColor:[UIColor xt_colorWithHex:0x666666]];

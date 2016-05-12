@@ -16,17 +16,17 @@
 
 @implementation XTUTRow
 
-+ (instancetype)rowWithClassString:(NSString *)renderClassString
++ (instancetype)rowWithClassString:(NSString *)cellClassString
                               data:(id)data {
     XTUTRow *row = [[self alloc] init];
-    row.renderClassString = renderClassString;
+    row.cellClassString = cellClassString;
     row.data = data;
     return row;
 }
 
 - (Class<XTUTCell>)cellClass {
     if (!_cls) {
-        _cls = NSClassFromString(self.renderClassString);
+        _cls = NSClassFromString(self.cellClassString);
         NSAssert([_cls conformsToProtocol:@protocol(XTUTCell)], @"'renderClass' must CONFIRM to protocol 'XTUTCell'");
     }
     return _cls;
@@ -34,7 +34,7 @@
 
 - (void)setData:(id)data {
     _data = data;
-    self.height = nil;
+    self.cellHeight = nil;
 }
 
 @end

@@ -14,7 +14,8 @@
 @property (copy, nonatomic) NSString *phone;
 @property (copy, nonatomic) NSString *email;
 @property (copy, nonatomic) NSString *github;
+@property (copy, nonatomic) NSString *blog;
 // XTUTRow
-@property (strong, nonatomic) NSNumber *height;
+@property (strong, nonatomic) NSNumber *cellHeight;
 
 @end
