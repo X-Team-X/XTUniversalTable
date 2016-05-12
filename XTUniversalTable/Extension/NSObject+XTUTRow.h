@@ -9,10 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "XTUTProtocols.h"
 
-@interface NSObject (XTUTRow) <XTUTRow>
-
-@property (copy, nonatomic, nullable) NSString *xtut_cellIdentifier;
-@property (copy, nonatomic, nullable) NSString *xtut_cellClassString;
-@property (strong, nonatomic, nullable) NSNumber *xtut_cellHeight;
-
-@end
+//@interface NSObject (XTUTRow) <XTUTRow>
+//
+//@property (copy, nonatomic, nullable) NSString *xtut_cellIdentifier;
+//@property (copy, nonatomic, nullable) NSString *xtut_cellClassString;
+//@property (strong, nonatomic, nullable) NSNumber *xtut_cellHeight;
+//
+//@end

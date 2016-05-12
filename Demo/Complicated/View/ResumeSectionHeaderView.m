@@ -8,6 +8,7 @@
 
 #import "ResumeSectionHeaderView.h"
 #import "ResumeSectionHeader.h"
+#import "UIColor+XTConvenience.h"
 
 @interface ResumeSectionHeaderView ()
 
@@ -21,16 +22,22 @@
 - (void)awakeFromNib {
     [super awakeFromNib];
     UIView *view = [UIView new];
-    view.backgroundColor = [UIColor colorWithWhite:249.0/255.0 alpha:1.0f];
+    view.backgroundColor = [UIColor xt_colorWithHex:0xf0f0f0];
     self.backgroundView = view;
 }
+
+#pragma mark - XTUTSectionHeaderFooterView
 
 + (CGSize)sizeWithData:(id<XTUTSectionHeaderFooter>)data constrainedToSize:(CGSize)size {
     return (CGSize){.width = size.width, .height = 40.0f};
 }
 
-+ (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier {
-    [tableView registerNib:[UINib nibWithNibName:NSStringFromClass(self) bundle:nil] forHeaderFooterViewReuseIdentifier:identifier];
++ (void)registerToTableView:(UITableView *)tableView {
+    [tableView registerNib:[UINib nibWithNibName:NSStringFromClass(self) bundle:nil] forHeaderFooterViewReuseIdentifier:[self identifier]];
+}
+
++ (NSString *)identifier {
+    return @"ResumeSectionHeaderView";
 }
 
 - (void)configureWithData:(id<XTUTSectionHeaderFooter>)data {

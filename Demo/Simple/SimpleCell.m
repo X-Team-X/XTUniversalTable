@@ -10,12 +10,16 @@
 
 @implementation SimpleCell
 
-+ (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier {
++ (void)registerToTableView:(UITableView *)tableView {
     
 }
 
 + (CGSize)sizeWithData:(id<XTUTRow>)data constrainedToSize:(CGSize)size {
     return CGSizeMake(size.width, 44.0f);
+}
+
++ (NSString *)identifier {
+    return NSStringFromClass(self);
 }
 
 - (void)configureWithData:(id<XTUTRow>)data {

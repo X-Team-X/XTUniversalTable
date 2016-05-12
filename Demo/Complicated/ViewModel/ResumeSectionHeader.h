@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "XTUTProtocols.h"
+#import "XTUniversalTable.h"
 
 @interface ResumeSectionHeader : NSObject <XTUTSectionHeaderFooter>
 

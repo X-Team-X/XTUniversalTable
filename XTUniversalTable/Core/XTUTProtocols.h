@@ -39,7 +39,7 @@ NS_ASSUME_NONNULL_BEGIN
 @protocol XTUTCell <NSObject>
 
 /**
- *  Asks the proper size of cell for given row data and constrained size.
+ *  Ask the proper size of cell for given row data and constrained size.
  *  Height of the return size will be used as a return value in `tableView:heightForRowAtIndexPath:`.
  *
  *  @param data Row data, see `XTUTRow` for detail.
@@ -55,9 +55,15 @@ NS_ASSUME_NONNULL_BEGIN
  *  If cell was registered in a story board, leave the implementation empty.
  *
  *  @param tableView  A table view object.
- *  @param identifier Identifier for the cell.
  */
-+ (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier;
++ (void)registerToTableView:(UITableView *)tableView;
+
+/**
+ *  Ask identifier for the cell. The returen value will be used to register and dequeue cell, should be unique.
+ *
+ *  @return The identifier.
+ */
++ (NSString *)identifier;
 
 /**
  *  Configure cell content with row data.
@@ -94,9 +100,15 @@ NS_ASSUME_NONNULL_BEGIN
  *  Call `registerNib:forHeaderFooterViewReuseIdentifier:` or `registerClass:forHeaderFooterViewReuseIdentifier:` in the implementation.
  *
  *  @param tableView  A table view object.
- *  @param identifier Identifier for the section header or footer.
  */
-+ (void)registerToTableView:(UITableView *)tableView withIdentifier:(NSString *)identifier;
++ (void)registerToTableView:(UITableView *)tableView;
+
+/**
+ *  Ask identifier for the cell. The returen value will be used to register and dequeue table header/footer, should be unique.
+ *
+ *  @return The identifier.
+ */
++ (NSString *)identifier;
 
 /**
  *  Configure section header/footer content with section header/footer data.
@@ -107,28 +119,51 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
+/**
+ *  Abstract table view cell data.
+ */
 @protocol XTUTRow <NSObject>
 
-- (NSString *)renderIdentifier;
+/**
+ *  Ask the correspond cell class.
+ *
+ *  @return A cell class.
+ */
+- (Class<XTUTCell>)cellClass;
 
-- (Class<XTUTCell>)renderClass;
-
-@optional
-
-- (nullable id)data;
+// The cached height. You don't need to access the property, set this to nil to invalidate cache at proper time.
+@property (strong, nonatomic) NSNumber *height;
 
 @end
 
+/**
+ *  Abastact table view section header/footer data.
+ *  Implement `renderClass` for a customized section header/footer.
+ *  Implement `height` and `title` for a default section header/footer.
+ */
 @protocol XTUTSectionHeaderFooter <NSObject>
 
 @optional
 
-- (nullable NSString *)renderIdentifier;
+/**
+ *  Ask the correspond section header/footer class.
+ *
+ *  @return A section header/footer class.
+ */
+- (nullable Class<XTUTSectionHeaderFooterView>)headerFooterClass;
 
-- (nullable Class<XTUTSectionHeaderFooterView>)renderClass;
-
+/**
+ *  Ask the height of section header/footer.
+ *
+ *  @return Height.
+ */
 - (CGFloat)height;
 
+/**
+ *  Ask the title of section header/footer.
+ *
+ *  @return Title.
+ */
 - (nullable NSString *)title;
 
 @end

@@ -7,7 +7,7 @@
 //
 
 #import "XTUTProtocols.h"
-#import "XTUTSectionHeaderFooter.h"
+#import "XTUTDefaultSectionHeaderFooter.h"
 #import "XTUTRow.h"
 #import "XTUTSection.h"
 #import "XTUTProxy.h"

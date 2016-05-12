@@ -7,6 +7,7 @@
 //
 
 #import "RootTableViewController.h"
+#import "ComplicatedViewController.h"
 
 @interface RootTableViewController ()
 
@@ -17,6 +18,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.clearsSelectionOnViewWillAppear = NO;
+}
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    if ([segue.identifier isEqualToString:@"showComplicatedDemo"]) {
+        ComplicatedViewController *controller = segue.destinationViewController;
+        controller.viewModel = [ResumeInfoViewModel new];
+    }
 }
 
 @end

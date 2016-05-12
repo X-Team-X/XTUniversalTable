@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "XTUTProtocols.h"
+#import "XTUniversalTable.h"
 
 @interface ResumeSectionHeaderView : UITableViewHeaderFooterView <XTUTSectionHeaderFooterView>
 

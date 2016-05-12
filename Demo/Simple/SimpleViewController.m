@@ -53,15 +53,14 @@
                  NSMutableArray *cityRows = [NSMutableArray array];
                  NSArray<NSDictionary *> *cities = JSONObject[key];
                  [cities enumerateObjectsUsingBlock:^(NSDictionary * _Nonnull city, NSUInteger idx, BOOL * _Nonnull stop) {
-                     XTUTRow *row = [XTUTRow rowWithIdentifier:@"cell"
-                                                   classString:@"SimpleCell"
+                     XTUTRow *row = [XTUTRow rowWithClassString:@"SimpleCell"
                                                           data:city];
                      if (row) {
                          [cityRows addObject:row];
                      }
                  }];
                  // Header
-                 XTUTSectionHeaderFooter *header = [XTUTSectionHeaderFooter headerWithHeight:20.0f title:key];
+                 XTUTDefaultSectionHeaderFooter *header = [XTUTDefaultSectionHeaderFooter headerWithHeight:20.0f title:key];
                  // Section
                  XTUTSection *section = [XTUTSection sectionWithRows:cityRows
                                                               header:header

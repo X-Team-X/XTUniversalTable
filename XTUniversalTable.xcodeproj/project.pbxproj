@@ -21,13 +21,18 @@
 		1E3789C51CDB2D590067C3D3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3789BC1CDB2D590067C3D3 /* main.m */; };
 		1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */; };
 		1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */; };
-		1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */; };
+		1E8B12D81CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12D71CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.m */; };
 		1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */; };
 		1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12DE1CDC37570071EF2A /* SimpleViewController.m */; };
 		1E8B12E31CDC38D50071EF2A /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 1E8B12E21CDC38D50071EF2A /* cities.json */; };
 		1E8B12E91CDC4D680071EF2A /* SimpleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E8B12E81CDC4D680071EF2A /* SimpleCell.m */; };
+		1E9D39DE1CE46818001C50F9 /* ResumeSectionHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39DD1CE46818001C50F9 /* ResumeSectionHeader.m */; };
+		1E9D39E11CE46A15001C50F9 /* ResumeInfoViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39E01CE46A15001C50F9 /* ResumeInfoViewModel.m */; };
+		1E9D39E41CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39E31CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.m */; };
+		1E9D39E71CE46BD4001C50F9 /* ResumeEducationCellViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39E61CE46BD4001C50F9 /* ResumeEducationCellViewModel.m */; };
+		1E9D39EA1CE46BF3001C50F9 /* ResumeWorkCellViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39E91CE46BF3001C50F9 /* ResumeWorkCellViewModel.m */; };
+		1E9D39ED1CE46C0A001C50F9 /* ResumeProjectCellViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9D39EC1CE46C0A001C50F9 /* ResumeProjectCellViewModel.m */; };
 		1ECC86E71CE07FE900C60E8D /* ResumeSectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECC86E41CE07FE900C60E8D /* ResumeSectionHeaderView.m */; };
-		1ECC86EB1CE0800C00C60E8D /* ResumeSectionHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECC86EA1CE0800C00C60E8D /* ResumeSectionHeader.m */; };
 		1ECC86ED1CE08A5100C60E8D /* ResumeSectionHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1ECC86EC1CE08A5100C60E8D /* ResumeSectionHeaderView.xib */; };
 		1ECC86F01CE08E7000C60E8D /* ResumeBaseInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECC86EF1CE08E7000C60E8D /* ResumeBaseInfoCell.m */; };
 		1ECC86F41CE0A46600C60E8D /* NSAttributedString+XTConvenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECC86F31CE0A46600C60E8D /* NSAttributedString+XTConvenience.m */; };
@@ -80,8 +85,8 @@
 		1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTRow.m; sourceTree = "<group>"; };
 		1E8B12C91CDC28EC0071EF2A /* XTUTSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSection.h; sourceTree = "<group>"; };
 		1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSection.m; sourceTree = "<group>"; };
-		1E8B12D61CDC2B110071EF2A /* XTUTSectionHeaderFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTSectionHeaderFooter.h; sourceTree = "<group>"; };
-		1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTSectionHeaderFooter.m; sourceTree = "<group>"; };
+		1E8B12D61CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XTUTDefaultSectionHeaderFooter.h; sourceTree = "<group>"; };
+		1E8B12D71CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XTUTDefaultSectionHeaderFooter.m; sourceTree = "<group>"; };
 		1E8B12D91CDC367A0071EF2A /* RootTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTableViewController.h; sourceTree = "<group>"; };
 		1E8B12DA1CDC367A0071EF2A /* RootTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTableViewController.m; sourceTree = "<group>"; };
 		1E8B12DD1CDC37570071EF2A /* SimpleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleViewController.h; sourceTree = "<group>"; };
@@ -89,10 +94,20 @@
 		1E8B12E21CDC38D50071EF2A /* cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cities.json; sourceTree = "<group>"; };
 		1E8B12E71CDC4D680071EF2A /* SimpleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCell.h; sourceTree = "<group>"; };
 		1E8B12E81CDC4D680071EF2A /* SimpleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCell.m; sourceTree = "<group>"; };
+		1E9D39DC1CE46818001C50F9 /* ResumeSectionHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeSectionHeader.h; sourceTree = "<group>"; };
+		1E9D39DD1CE46818001C50F9 /* ResumeSectionHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeSectionHeader.m; sourceTree = "<group>"; };
+		1E9D39DF1CE46A15001C50F9 /* ResumeInfoViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeInfoViewModel.h; sourceTree = "<group>"; };
+		1E9D39E01CE46A15001C50F9 /* ResumeInfoViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeInfoViewModel.m; sourceTree = "<group>"; };
+		1E9D39E21CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeBaseInfoCellViewModel.h; sourceTree = "<group>"; };
+		1E9D39E31CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeBaseInfoCellViewModel.m; sourceTree = "<group>"; };
+		1E9D39E51CE46BD4001C50F9 /* ResumeEducationCellViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeEducationCellViewModel.h; sourceTree = "<group>"; };
+		1E9D39E61CE46BD4001C50F9 /* ResumeEducationCellViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeEducationCellViewModel.m; sourceTree = "<group>"; };
+		1E9D39E81CE46BF3001C50F9 /* ResumeWorkCellViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeWorkCellViewModel.h; sourceTree = "<group>"; };
+		1E9D39E91CE46BF3001C50F9 /* ResumeWorkCellViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeWorkCellViewModel.m; sourceTree = "<group>"; };
+		1E9D39EB1CE46C0A001C50F9 /* ResumeProjectCellViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeProjectCellViewModel.h; sourceTree = "<group>"; };
+		1E9D39EC1CE46C0A001C50F9 /* ResumeProjectCellViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeProjectCellViewModel.m; sourceTree = "<group>"; };
 		1ECC86E31CE07FE900C60E8D /* ResumeSectionHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeSectionHeaderView.h; sourceTree = "<group>"; };
 		1ECC86E41CE07FE900C60E8D /* ResumeSectionHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeSectionHeaderView.m; sourceTree = "<group>"; };
-		1ECC86E91CE0800C00C60E8D /* ResumeSectionHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeSectionHeader.h; sourceTree = "<group>"; };
-		1ECC86EA1CE0800C00C60E8D /* ResumeSectionHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeSectionHeader.m; sourceTree = "<group>"; };
 		1ECC86EC1CE08A5100C60E8D /* ResumeSectionHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResumeSectionHeaderView.xib; sourceTree = "<group>"; };
 		1ECC86EE1CE08E7000C60E8D /* ResumeBaseInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResumeBaseInfoCell.h; sourceTree = "<group>"; };
 		1ECC86EF1CE08E7000C60E8D /* ResumeBaseInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResumeBaseInfoCell.m; sourceTree = "<group>"; };
@@ -146,8 +161,8 @@
 		1E2A90051CDCB27600CFE694 /* Complicated */ = {
 			isa = PBXGroup;
 			children = (
+				1E9D39DB1CE46818001C50F9 /* ViewModel */,
 				1ECC86E21CE07FE900C60E8D /* View */,
-				1ECC86E61CE07FE900C60E8D /* ViewData */,
 				1E2A90061CDCB29A00CFE694 /* ComplicatedViewController.h */,
 				1E2A90071CDCB29A00CFE694 /* ComplicatedViewController.m */,
 			);
@@ -230,8 +245,8 @@
 			children = (
 				1E8B12C71CDC28EC0071EF2A /* XTUTRow.h */,
 				1E8B12C81CDC28EC0071EF2A /* XTUTRow.m */,
-				1E8B12D61CDC2B110071EF2A /* XTUTSectionHeaderFooter.h */,
-				1E8B12D71CDC2B110071EF2A /* XTUTSectionHeaderFooter.m */,
+				1E8B12D61CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.h */,
+				1E8B12D71CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.m */,
 				1E8B12C91CDC28EC0071EF2A /* XTUTSection.h */,
 				1E8B12CA1CDC28EC0071EF2A /* XTUTSection.m */,
 				1ECC87061CE1884100C60E8D /* NSObject+XTUTRow.h */,
@@ -261,6 +276,25 @@
 			path = Resource;
 			sourceTree = "<group>";
 		};
+		1E9D39DB1CE46818001C50F9 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				1E9D39DC1CE46818001C50F9 /* ResumeSectionHeader.h */,
+				1E9D39DD1CE46818001C50F9 /* ResumeSectionHeader.m */,
+				1E9D39DF1CE46A15001C50F9 /* ResumeInfoViewModel.h */,
+				1E9D39E01CE46A15001C50F9 /* ResumeInfoViewModel.m */,
+				1E9D39E21CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.h */,
+				1E9D39E31CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.m */,
+				1E9D39E51CE46BD4001C50F9 /* ResumeEducationCellViewModel.h */,
+				1E9D39E61CE46BD4001C50F9 /* ResumeEducationCellViewModel.m */,
+				1E9D39E81CE46BF3001C50F9 /* ResumeWorkCellViewModel.h */,
+				1E9D39E91CE46BF3001C50F9 /* ResumeWorkCellViewModel.m */,
+				1E9D39EB1CE46C0A001C50F9 /* ResumeProjectCellViewModel.h */,
+				1E9D39EC1CE46C0A001C50F9 /* ResumeProjectCellViewModel.m */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		1ECC86E21CE07FE900C60E8D /* View */ = {
 			isa = PBXGroup;
 			children = (
@@ -271,15 +305,6 @@
 				1ECC86EF1CE08E7000C60E8D /* ResumeBaseInfoCell.m */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		1ECC86E61CE07FE900C60E8D /* ViewData */ = {
-			isa = PBXGroup;
-			children = (
-				1ECC86E91CE0800C00C60E8D /* ResumeSectionHeader.h */,
-				1ECC86EA1CE0800C00C60E8D /* ResumeSectionHeader.m */,
-			);
-			path = ViewData;
 			sourceTree = "<group>";
 		};
 		1ECC86F11CE0A43800C60E8D /* Utils */ = {
@@ -497,21 +522,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E8B12DB1CDC367A0071EF2A /* RootTableViewController.m in Sources */,
+				1E9D39ED1CE46C0A001C50F9 /* ResumeProjectCellViewModel.m in Sources */,
 				1ECC86F41CE0A46600C60E8D /* NSAttributedString+XTConvenience.m in Sources */,
 				1E8B12E91CDC4D680071EF2A /* SimpleCell.m in Sources */,
 				1ECC86F71CE0A58000C60E8D /* UIColor+XTConvenience.m in Sources */,
+				1E9D39EA1CE46BF3001C50F9 /* ResumeWorkCellViewModel.m in Sources */,
 				1E8B12D01CDC28EC0071EF2A /* XTUTSection.m in Sources */,
 				1ECC86F01CE08E7000C60E8D /* ResumeBaseInfoCell.m in Sources */,
-				1ECC86EB1CE0800C00C60E8D /* ResumeSectionHeader.m in Sources */,
+				1E9D39E41CE46A51001C50F9 /* ResumeBaseInfoCellViewModel.m in Sources */,
+				1E9D39E71CE46BD4001C50F9 /* ResumeEducationCellViewModel.m in Sources */,
 				1E8B12DF1CDC37570071EF2A /* SimpleViewController.m in Sources */,
 				1E2A90081CDCB29A00CFE694 /* ComplicatedViewController.m in Sources */,
 				1E3789C51CDB2D590067C3D3 /* main.m in Sources */,
+				1E9D39E11CE46A15001C50F9 /* ResumeInfoViewModel.m in Sources */,
 				1E3789C01CDB2D590067C3D3 /* AppDelegate.m in Sources */,
-				1E8B12D81CDC2B110071EF2A /* XTUTSectionHeaderFooter.m in Sources */,
+				1E8B12D81CDC2B110071EF2A /* XTUTDefaultSectionHeaderFooter.m in Sources */,
 				1ECC86E71CE07FE900C60E8D /* ResumeSectionHeaderView.m in Sources */,
 				1ECC87081CE1884100C60E8D /* NSObject+XTUTRow.m in Sources */,
 				1E8B12CF1CDC28EC0071EF2A /* XTUTRow.m in Sources */,
 				1E008FF81CDB8CED00DA179F /* XTUTProxy.m in Sources */,
+				1E9D39DE1CE46818001C50F9 /* ResumeSectionHeader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

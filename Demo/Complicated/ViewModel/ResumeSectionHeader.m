@@ -11,11 +11,7 @@
 
 @implementation ResumeSectionHeader
 
-- (NSString *)renderIdentifier {
-    return @"ResumeSectionHeader";
-}
-
-- (Class<XTUTSectionHeaderFooterView>)renderClass {
+- (Class<XTUTSectionHeaderFooterView>)headerFooterClass {
     return [ResumeSectionHeaderView class];
 }
 

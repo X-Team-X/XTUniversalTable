@@ -1,5 +1,5 @@
 //
-//  XTUTSectionHeaderFooter.h
+//  XTUTDefaultSectionHeaderFooter.h
 //  XTUniversalTable
 //
 //  Created by 吾问 on 16/5/6.
@@ -8,9 +8,9 @@
 
 #import "XTUTProtocols.h"
 
-@interface XTUTSectionHeaderFooter : NSObject <XTUTSectionHeaderFooter>
-
 NS_ASSUME_NONNULL_BEGIN
+
+@interface XTUTDefaultSectionHeaderFooter : NSObject <XTUTSectionHeaderFooter>
 
 + (instancetype)headerWithHeight:(CGFloat)height
                            title:(nullable NSString *)title;
@@ -21,6 +21,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (assign, nonatomic) CGFloat height;
 @property (copy, nonatomic, nullable) NSString *title;
 
-NS_ASSUME_NONNULL_END
-
 @end
+
+NS_ASSUME_NONNULL_END

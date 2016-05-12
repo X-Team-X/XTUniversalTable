@@ -39,30 +39,6 @@
     }
 }
 
-- (CGSize)xt_sizeConstrainedToSize:(CGSize)maxSize
-{
-    return [self xt_sizeConstrainedToSize:maxSize fitRange:NULL];
-}
-
-- (CGSize)xt_sizeConstrainedToSize:(CGSize)maxSize fitRange:(NSRange*)fitRange
-{
-    CTFramesetterRef framesetter = CTFramesetterCreateWithAttributedString((__bridge CFAttributedStringRef)self);
-    CGSize sz = CGSizeMake(0.f, 0.f);
-    if (framesetter)
-    {
-        CFRange fitCFRange = CFRangeMake(0,0);
-        sz = CTFramesetterSuggestFrameSizeWithConstraints(framesetter,CFRangeMake(0,0),NULL,maxSize,&fitCFRange);
-        sz = CGSizeMake( floor(sz.width+1) , floor(sz.height+1) ); // take 1pt of margin for security
-        CFRelease(framesetter);
-        
-        if (fitRange)
-        {
-            *fitRange = NSMakeRange((NSUInteger)fitCFRange.location, (NSUInteger)fitCFRange.length);
-        }
-    }
-    return sz;
-}
-
 @end
 
 #pragma mark - NSMutableAttributedString

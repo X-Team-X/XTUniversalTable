@@ -16,17 +16,15 @@
 
 @implementation XTUTRow
 
-+ (instancetype)rowWithIdentifier:(NSString *)renderIdentifier
-                      classString:(NSString *)renderClassString
-                             data:(id)data {
++ (instancetype)rowWithClassString:(NSString *)renderClassString
+                              data:(id)data {
     XTUTRow *row = [[self alloc] init];
-    row.renderIdentifier = renderIdentifier;
     row.renderClassString = renderClassString;
     row.data = data;
     return row;
 }
 
-- (Class<XTUTCell>)renderClass {
+- (Class<XTUTCell>)cellClass {
     if (!_cls) {
         _cls = NSClassFromString(self.renderClassString);
         NSAssert([_cls conformsToProtocol:@protocol(XTUTCell)], @"'renderClass' must CONFIRM to protocol 'XTUTCell'");
@@ -36,8 +34,7 @@
 
 - (void)setData:(id)data {
     _data = data;
-    // Invalidate height cache
-    self.cachedHeight = nil;
+    self.height = nil;
 }
 
 @end

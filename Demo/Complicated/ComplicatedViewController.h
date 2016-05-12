@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ResumeInfoViewModel.h"
 
 @interface ComplicatedViewController : UIViewController
+
+@property (strong, nonatomic) ResumeInfoViewModel *viewModel;
 
 @end

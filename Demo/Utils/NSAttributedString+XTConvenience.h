@@ -17,10 +17,6 @@
 
 + (instancetype)xt_attributedStringWithAttributedString:(NSAttributedString*)attrStr;
 
-- (CGSize)xt_sizeConstrainedToSize:(CGSize)maxSize;
-
-- (CGSize)xt_sizeConstrainedToSize:(CGSize)maxSize fitRange:(NSRange*)fitRange;
-
 @end
 
 @interface NSMutableAttributedString (XTConvenience)

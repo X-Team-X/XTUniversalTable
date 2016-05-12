@@ -1,29 +1,27 @@
 //
-//  XTUTSectionHeaderFooter.m
+//  XTUTDeafaultSectionHeaderFooter.m
 //  XTUniversalTable
 //
 //  Created by 吾问 on 16/5/6.
 //  Copyright © 2016年 X-Team. All rights reserved.
 //
 
-#import "XTUTSectionHeaderFooter.h"
+#import "XTUTDefaultSectionHeaderFooter.h"
 
-@interface XTUTSectionHeaderFooter ()
-
-@property (weak, nonatomic) Class cls;
+@interface XTUTDefaultSectionHeaderFooter ()
 
 @end
 
-@implementation XTUTSectionHeaderFooter
+@implementation XTUTDefaultSectionHeaderFooter
 
 + (instancetype)footerWithHeight:(CGFloat)height title:(NSString *)title {
-    XTUTSectionHeaderFooter *footer = [[self alloc] init];
+    XTUTDefaultSectionHeaderFooter *footer = [[self alloc] init];
     [footer configureWithHeight:height title:title];
     return footer;
 }
 
 + (instancetype)headerWithHeight:(CGFloat)height title:(NSString *)title {
-    XTUTSectionHeaderFooter *header = [[self alloc] init];
+    XTUTDefaultSectionHeaderFooter *header = [[self alloc] init];
     header.height = height;
     header.title = title;
     [header configureWithHeight:height title:title];

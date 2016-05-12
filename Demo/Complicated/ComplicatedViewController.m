@@ -20,7 +20,6 @@
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (weak, nonatomic) IBOutlet UIImageView *avatarImageView;
 @property (weak, nonatomic) IBOutlet UILabel *nameLabel;
-@property (copy, nonatomic) NSDictionary *resumeInfo;
 @property (strong, nonatomic) XTUTProxy *tableProxy;
 
 @end
@@ -43,8 +42,8 @@
 }
 
 - (void)updateUI {
-    [self.avatarImageView setImageWithURL:[NSURL URLWithString:self.resumeInfo[@"avatar"]]];
-    self.nameLabel.text = self.resumeInfo[@"name"];
+    [self.avatarImageView setImageWithURL:[NSURL URLWithString:self.viewModel.avatar]];
+    self.nameLabel.text = self.viewModel.name;
     [self assembleTableData];
     [self.tableView reloadData];
 }
@@ -54,52 +53,40 @@
 - (void)loadResumeInfo {
     [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
     [SVProgressHUD show];
-    AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
-    [manager setResponseSerializer:[AFHTTPResponseSerializer serializer]];
-    [manager GET:@"https://raw.githubusercontent.com/X-Team-X/XTUniversalTable/master/Demo/Resource/info.json"
-      parameters:nil
-        progress:nil
-         success:^(NSURLSessionDataTask * _Nonnull task, id  _Nullable responseObject) {
-             NSDictionary *JSONObject = [NSJSONSerialization JSONObjectWithData:responseObject
-                                                                        options:NSJSONReadingMutableContainers
-                                                                          error:nil];
-             [SVProgressHUD dismiss];
-             self.resumeInfo = JSONObject;
-             [self updateUI];
-         }
-         failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
-             [SVProgressHUD showErrorWithStatus:@"Network error!"];
-             [SVProgressHUD dismissWithDelay:2.0f];
-         }];
+    [self.viewModel loadResumeInfoWithCompletion:^(NSError *error) {
+        if (error) {
+            [SVProgressHUD showErrorWithStatus:@"Network error!"];
+            [SVProgressHUD dismissWithDelay:2.0f];
+        } else {
+            [SVProgressHUD dismiss];
+            [self updateUI];
+        }
+    }];
 }
 
 - (void)assembleTableData {
     NSMutableArray<XTUTSection *> *sections = [NSMutableArray array];
     
     // base info
-    XTUTRow *row = [XTUTRow rowWithIdentifier:@"ResumeBaseInfoCell"
-                                  classString:@"ResumeBaseInfoCell"
-                                         data:self.resumeInfo[@"baseInfo"]];
-
-    XTUTSection *baseInfoSection = [XTUTSection sectionWithRows:@[row]
+    XTUTSection *baseInfoSection = [XTUTSection sectionWithRows:@[self.viewModel.baseInfo]
                                                          header:[self headerWithTitle:@"GENERAL"]
                                                          footer:nil];
     
     [sections addObject:baseInfoSection];
     
     // education info
-    XTUTSection *educationSection = [XTUTSection sectionWithRows:nil
-                                                         header:[self headerWithTitle:@"EDUCATION"]
-                                                         footer:nil];
-    
-    [sections addObject:educationSection];
+//    XTUTSection *educationSection = [XTUTSection sectionWithRows:nil
+//                                                         header:[self headerWithTitle:@"EDUCATION"]
+//                                                         footer:nil];
+//    
+//    [sections addObject:educationSection];
 
     // work
-    XTUTSection *workSection = [XTUTSection sectionWithRows:nil
-                                                          header:[self headerWithTitle:@"WORK"]
-                                                          footer:nil];
-    
-    [sections addObject:workSection];
+//    XTUTSection *workSection = [XTUTSection sectionWithRows:nil
+//                                                          header:[self headerWithTitle:@"WORK"]
+//                                                          footer:nil];
+//    
+//    [sections addObject:workSection];
 
     self.tableProxy.sections = sections;
 }
